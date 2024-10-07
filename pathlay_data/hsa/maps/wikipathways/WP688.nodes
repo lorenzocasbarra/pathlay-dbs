@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+Catalytic cycle of mammalian flavin-containing monooxygenases (FMOs)	hsa	wikipathways	WP688
+H2O	Metabolite	KEGG Compound	C00001	613.0,318.0
+NADP+	Metabolite	KEGG Compound	C00006	533.0,275.0
+FMO2	GeneProduct	Entrez Gene	2327	387.01666666666654,296.51666666666665
+NADP+	Metabolite	KEGG Compound	C00006	247.0,270.0
+O2	Metabolite	KEGG Compound	C00007	126.0,315.0
+FAD-OH	Metabolite	PubChem-compound	4369241	533.0,255.0
+NADP+	Metabolite	KEGG Compound	C00006	247.0,382.0
+FMO3	GeneProduct	Entrez Gene	2328	387.01666666666665,320.55
+NADP+	Metabolite	KEGG Compound	C00006	611.9833333333333,437.48333333333335
+NADP+	Metabolite	KEGG Compound	C00006	533.0,388.0
+NADPH	Metabolite	KEGG Compound	C00005	144.0,442.0
+FAD	Metabolite	KEGG Compound	C00016	384.0,463.0
+FAD	Metabolite	KEGG Compound	C00016	533.0,368.0
+FADH2	Metabolite	KEGG Compound	C01352	247.0,362.0
+FAD-OOH	Metabolite			247.0,250.0
+FMO1	GeneProduct	Entrez Gene	2326	387.01666666666665,273.48333333333335
+H+	Metabolite	KEGG Compound	C00080	145.0,489.0
+FMO5	GeneProduct	Entrez Gene	2330	387.01666666666665,368.61666666666645
+FMO4	GeneProduct	Entrez Gene	2329	387.01666666666665,344.5833333333332

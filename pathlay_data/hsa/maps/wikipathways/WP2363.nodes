@@ -1,0 +1,37 @@
+TEXT	TYPE	DB	ID	X	Y
+Gastric cancer network 2	hsa	wikipathways	WP2363
+MTDH	GeneProduct	Entrez Gene	92140	788.0,158.0
+CD48	GeneProduct	Entrez Gene	962	525.5,688.0
+Basc	GeneProduct			134.0,565.0
+Rfc?	GeneProduct			246.5,527.0
+LMNB2	GeneProduct	Entrez Gene	84823	340.5,695.0
+UBE2C	GeneProduct	Entrez Gene	11065	441.5,388.0
+COL9A3	GeneProduct	Entrez Gene	1299	658.5,190.0
+PLAC8	GeneProduct	Entrez Gene	51316	765.0,249.0
+TP53	GeneProduct	Entrez Gene	7157	608.0,302.0
+COL9A1	GeneProduct	Entrez Gene	1297	725.5,115.0
+UBE2T	GeneProduct	Entrez Gene	29089	500.0,164.0
+RNF144B	GeneProduct	Entrez Gene	255488	567.5,68.0
+FANCI	GeneProduct	Entrez Gene	55215	415.0,279.0
+SNURF	GeneProduct	Entrez Gene	8926	405.5,114.0
+RAD17	GeneProduct	Entrez Gene	5884	261.0,199.0
+DSCC1	GeneProduct	Entrez Gene	79075	35.5,293.0
+RFC3	GeneProduct	Entrez Gene	5983	193.0,290.0
+CHTF18	GeneProduct	Entrez Gene	63922	111.5,204.0
+TOP2A	GeneProduct	Entrez Gene	7153	724.5,485.0
+LBR	GeneProduct	Entrez Gene	3930	825.0,427.0
+OTUD5	GeneProduct	Entrez Gene	55593	880.0,281.0
+CACYBP	GeneProduct	Entrez Gene	27101	930.5,360.0
+S100A6	GeneProduct	Entrez Gene	6277	809.0,343.0
+AHCTF1	GeneProduct	Entrez Gene	25909	938.5,625.0
+CTNNB1	GeneProduct	Entrez Gene	1499	772.0,583.0
+MIRLET7E	RNA	Ensembl	ENSG00000198972	991.5,511.0
+FAM91A1	GeneProduct	Entrez Gene	157769	1112.5,405.0
+ATAD2	GeneProduct	Entrez Gene	29028	337.5,411.0
+CEBPZ	GeneProduct	Entrez Gene	10153	599.5,603.0
+RECCL4	GeneProduct			388.0,581.0
+MYC	GeneProduct	Entrez Gene	4609	525.5,482.0
+BRIX1	GeneProduct	Entrez Gene	55299	760.0,697.0
+CHTF8	GeneProduct	Entrez Gene	54921	50.0,400.0
+RFC4	GeneProduct	Entrez Gene	5984	176.0,395.0
+EGFR	GeneProduct	Entrez Gene	1956	667.0,363.0

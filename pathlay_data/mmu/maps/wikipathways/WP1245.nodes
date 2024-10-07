@@ -1,0 +1,24 @@
+TEXT	TYPE	DB	ID	X	Y
+Transcriptional activation by Nfe2l2 in response to phytochemicals	mmu	wikipathways	WP1245
+Prkca	GeneProduct	Entrez Gene	18750	327.0,69.0
+Mapk8	GeneProduct	Entrez Gene	26419	434.0,69.0
+Sulforaphane	Metabolite	HMDB	HMDB0005792	785.7084398976986,218.55754475703324
+Aimp2	GeneProduct	Entrez Gene	231872	220.0,69.0
+Cebpb	GeneProduct	Entrez Gene	12608	217.0,499.0
+6-HITC	Metabolite			461.0,291.0
+Nfe2l2	GeneProduct	Entrez Gene	18024	363.67981438515085,486.19953596287706
+Keap1	GeneProduct	Entrez Gene	50868	493.0,188.0
+Cebpb	GeneProduct	Entrez Gene	12608	108.0,284.0
+Gclc	GeneProduct	Entrez Gene	14629	656.0,558.0
+Nfe2l2	GeneProduct	Entrez Gene	18024	365.0,216.0
+Hmox1	GeneProduct	Entrez Gene	15368	656.0,598.0
+Caffeic acid phenethyl ester	Metabolite	KEGG Compound	C10484	785.7084398976987,185.44245524296673
+Maf	GeneProduct	Entrez Gene	17132	443.67981438515085,486.19953596287706
+Ephb2	GeneProduct	Entrez Gene	13844	539.0,69.0
+Pik3ca	GeneProduct	Entrez Gene	18706	108.0,69.0
+Gsta2	GeneProduct	Entrez Gene	14858	656.0,518.0
+Nqo1	GeneProduct	Entrez Gene	18104	656.0,538.0
+Gclm	GeneProduct	Entrez Gene	14630	656.0,578.0
+Nfe2l2	GeneProduct	Entrez Gene	18024	618.0,212.0
+Keap1	GeneProduct	Entrez Gene	50868	618.0,192.0
+Curcumin	Metabolite	KEGG Compound	C10443	785.7084398976987,122.0

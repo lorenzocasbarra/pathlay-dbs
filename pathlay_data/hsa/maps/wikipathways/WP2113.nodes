@@ -1,0 +1,14 @@
+TEXT	TYPE	DB	ID	X	Y
+Type III interferon signaling	hsa	wikipathways	WP2113
+IRF9	GeneProduct	Entrez Gene	10379	671.0,546.0
+IL28A	GeneProduct	Entrez Gene	282616	509.0,152.0
+IL29	GeneProduct	Entrez Gene	282618	703.0,97.0
+IL28B	GeneProduct	Entrez Gene	282617	584.0,118.0
+JAK1	GeneProduct	Entrez Gene	3716	581.0,285.0
+IL10RB	GeneProduct	Entrez Gene	3588	676.0,258.0
+TYK2	GeneProduct	Entrez Gene	7297	688.0,283.0
+IL28RA	GeneProduct	Entrez Gene	163702	587.0,257.0
+STAT1	GeneProduct	Entrez Gene	6772	476.0,513.0
+STAT2	GeneProduct	Entrez Gene	6773	670.0,463.0
+STAT1	GeneProduct	Entrez Gene	6772	474.0,491.0
+STAT1	GeneProduct	Entrez Gene	6772	672.0,505.0

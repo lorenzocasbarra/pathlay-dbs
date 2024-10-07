@@ -1,0 +1,79 @@
+TEXT	TYPE	DB	ID	X	Y
+Cori cycle	hsa	wikipathways	WP1946
+Kreb's Cycle	Pathway	WikiPathways	WP78	857.1193415637867,746.6008230452663
+TPI1	GeneProduct	Entrez Gene	7167	400.7324978392395,473.8789974070872
+6P gluconate	Metabolite	ChEBI	CHEBI:48928	844.0,282.0
+1,3-biphosphoglycerate	Metabolite	ChEBI	CHEBI:89363	539.0,528.0
+SLC2A4	GeneProduct	Entrez Gene	6517	558.0,210.0
+G6P	Metabolite	HMDB	HMDB0001401	538.0,282.0
+Isomerase	GeneProduct	Enzyme Nomenclature	5.3.1.6	1076.415637860082,280.16049382716045
+NAD+	Metabolite	KEGG Compound	C00003	468.5,476.0
+Glycogenolysis	Pathway			467.5,263.0
+GPI	GeneProduct	Entrez Gene	2821	616.4695217160886,306.6460905349794
+Alanine	Metabolite	KEGG Compound	C01401	192.0,757.0
+Glycogenesis	Pathway			468.5,301.0
+3-Phosphoglycerate	Metabolite	KEGG Compound	C00597	539.0,603.0
+D-Fructose-6-phosphate	Metabolite	ChEBI	CHEBI:15946	881.0,511.0
+GPT	GeneProduct	Entrez Gene	2875	244.5,794.0
+Xylulose	Metabolite	ChEBI	CHEBI:27353	894.0,350.0
+ribulose	Metabolite	KEGG Compound	C05052	967.0,283.0
+Xylulose	Metabolite	ChEBI	CHEBI:27353	1047.5,534.0
+Glycogen	Metabolite	KEGG Compound	C00369	397.0,282.0
+Pyruvate Kinase	GeneProduct	Enzyme Nomenclature	2.7.1.40	639.0,754.0
+Pyruvate	Metabolite	KEGG Compound	C00022	539.0,800.0
+Fructose 6P	Metabolite	HMDB	HMDB0000124	539.0,340.0
+Hexokinase	GeneProduct	Entrez Gene	3098	480.0,237.0
+Fructose 1,6-bisphosphate	Metabolite	HMDB	HMDB0001058	539.0,395.0
+Gluconolactonase	GeneProduct	Enzyme Nomenclature	3.1.1.17	788.3971193415643,243.0
+DHAP	Metabolite	ChEBI	CHEBI:16108	430.0,428.0
+SLC2A1	GeneProduct	Entrez Gene	6513	200.0,210.4691358024691
+2-phosphoglycerate(3-)	Metabolite	Wikidata	Q27160201	539.0,655.0
+Transketolase	Protein	Enzyme Nomenclature	2.2.1.1	1083.0,378.0
+Glycolosis	Pathway			233.0,340.0
+G6P	Metabolite	HMDB	HMDB0001401	199.0,301.0
+6P Gluconate DH	Protein	Ensembl	ENSG00000160211	905.5,242.0
+NADH	Metabolite	KEGG Compound	C00004	468.5,501.0
+Pyruvate	Metabolite	KEGG Compound	C00022	199.0,379.0
+PGAM1	GeneProduct	Entrez Gene	5223	626.9082191217024,625.1904761904761
+LDHA	GeneProduct	Entrez Gene	3939	385.0436473638721,664.0
+G3P	Metabolite	ChEBI	CHEBI:17138	894.0,561.0
+G3P	Metabolite	HMDB	HMDB0001112	539.0,456.0
+Lactate	Metabolite	KEGG Compound	C01432	192.0,722.0
+Sedoheptulose	Metabolite	KEGG Compound	C02076	1046.5,407.0
+Insulin	GeneProduct	Entrez Gene	3630	653.5,148.0
+Phosphoenol Pyruvate	Metabolite	ChEBI	CHEBI:58702	539.0,726.0
+G3P	Metabolite	ChEBI	CHEBI:17138	894.0,407.0
+Gluconeogenesis	Pathway			79.5,571.0
+Glucose	Metabolite	KEGG Compound	C00031	540.0,112.0
+SLC2A2	GeneProduct	Entrez Gene	6514	76.85825410544511,466.0
+H2O	Metabolite	KEGG Compound	C00001	468.5,692.0
+6-Phosphogluconolactone 	Metabolite	Chemspider	388559	701.0,282.0
+Ribose	Metabolite	KEGG Compound	C08353	1046.5,350.0
+Epimerase	Protein	Enzyme Nomenclature	5.1.3.22	853.0,315.0
+GAPDH	GeneProduct	Entrez Gene	2597	635.0,484.0
+SLC2A4	GeneProduct	Entrez Gene	6517	692.5,93.0
+PFKP	GeneProduct	Entrez Gene	5214	620.3176318063959,363.6460905349794
+ALDOA	GeneProduct	Entrez Gene	226	625.5034572169403,421.0
+PGK1	GeneProduct	Entrez Gene	5230	645.5291702679352,553.6283491789106
+Enolase	GeneProduct	Enzyme Nomenclature	4.2.1.11	634.0,689.0
+Hexokinase	GeneProduct	Entrez Gene	3098	271.0,253.0
+G6P	Metabolite	HMDB	HMDB0001401	769.5,85.0
+Pyruvate	Metabolite	KEGG Compound	C00022	153.0,605.0
+GPT	GeneProduct	Entrez Gene	2875	74.5,642.0
+LDHA	GeneProduct	Entrez Gene	3939	223.16335350043218,643.0
+SLC2A1	GeneProduct	Entrez Gene	6513	465.73045267489715,45.000000000000014
+G6P	Metabolite	HMDB	HMDB0001401	377.0,44.0
+erythroses	Metabolite	ChEBI	CHEBI:27904	1046.5,460.0
+Fructose 6P	Metabolite	ChEBI	CHEBI:15946	894.0,461.0
+G6PD	GeneProduct	Entrez Gene	2539	616.0,242.0
+Transketolase	Protein	Enzyme Nomenclature	2.2.1.1	1083.0,495.0
+TALDO1	GeneProduct	Entrez Gene	6888	1072.117283950617,434.0
+ATP	Metabolite	KEGG Compound	C00002	468.5,578.0
+ADP	Metabolite	KEGG Compound	C00008	468.5,553.0
+ATP	Metabolite	KEGG Compound	C00002	468.5,774.0
+ADP	Metabolite	KEGG Compound	C00008	468.5,750.0
+Glycogenolysis	Pathway			205.5,515.0
+Glycogen 	Metabolite	ChEBI	CHEBI:28087	224.0,534.0
+Glycogenesis	Pathway			205.5,552.0
+G6P	Metabolite	HMDB	HMDB0001401	119.5,535.0
+PGK2	GeneProduct	Entrez Gene	5232	645.5291702679352,573.6283491789106

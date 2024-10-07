@@ -1,0 +1,5 @@
+TEXT	TYPE	DB	ID	X	Y
+Direct reversal repair	hsa	wikipathways	WP4931
+ALKBH2	GeneProduct	Entrez Gene	121642	203.5,256.0
+ALKBH3	GeneProduct	Entrez Gene	221120	203.5,231.0
+MGMT	GeneProduct	Entrez Gene	4255	570.5,240.0

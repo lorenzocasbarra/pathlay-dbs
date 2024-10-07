@@ -1,0 +1,27 @@
+TEXT	TYPE	DB	ID	X	Y
+Somatic sex determination	hsa	wikipathways	WP4814
+DHH	GeneProduct	Entrez Gene	50846	678.0,139.0
+beta catenin	GeneProduct			205.0,123.0
+FOXL2	GeneProduct	Entrez Gene	668	331.0,434.0
+SOX9	GeneProduct	Entrez Gene	6662	482.9495798319328,460.0
+SOX9	GeneProduct	Entrez Gene	6662	205.8067226890755,185.00000000000006
+FOXL2	GeneProduct	Entrez Gene	668	64.05042016806723,439.8991596638656
+AMH	GeneProduct	Entrez Gene	268	516.0,316.0
+WNT4	GeneProduct	Entrez Gene	54361	68.0,109.0
+GATA4	GeneProduct	Entrez Gene	2626	343.0,264.0
+SRY	GeneProduct	Entrez Gene	6736	534.75,95.375
+NR5A1	GeneProduct	Entrez Gene	2516	60.89915966386555,266.94957983193274
+RSPO1	GeneProduct	Entrez Gene	284654	68.0,134.0
+NR5A1	GeneProduct	Entrez Gene	2516	343.0,239.0
+WT1	GeneProduct	Entrez Gene	7490	343.0,289.0
+SOX9	GeneProduct	Entrez Gene	6662	197.0,440.0
+NR5A1	GeneProduct	Entrez Gene	2516	674.0,270.0
+WT1	GeneProduct	Entrez Gene	7490	639.605042016807,58.252100840336134
+SOX8	GeneProduct	Entrez Gene	30812	343.0,314.0
+FGF9	GeneProduct	Entrez Gene	2254	343.25,165.75
+DMRT1	GeneProduct	Entrez Gene	1761	476.0,412.0
+PTGDS	GeneProduct	Entrez Gene	5730	343.25,190.75
+SOX9	GeneProduct	Entrez Gene	6662	517.0,215.0
+NR5A1	GeneProduct	Entrez Gene	2516	422.0,123.0
+GATA4	GeneProduct	Entrez Gene	2626	639.605042016807,33.252100840336134
+SOX8	GeneProduct	Entrez Gene	30812	517.0,190.0

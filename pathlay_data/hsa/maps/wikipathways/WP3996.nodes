@@ -1,0 +1,57 @@
+TEXT	TYPE	DB	ID	X	Y
+Ethanol effects on histone modifications	hsa	wikipathways	WP3996
+ELP3	GeneProduct	Entrez Gene	55140	811.0,725.0
+Homocysteine	Metabolite	KEGG Compound	C05330	615.0,124.0
+AHCY	GeneProduct	Entrez Gene	191	771.0,184.0
+L-Serine	Metabolite	KEGG Compound	C00065	319.0,332.0
+dTMP	Metabolite	KEGG Compound	C00364	93.0,295.0
+dUMP	Metabolite	KEGG Compound	C00365	238.0,217.0
+TYMS	GeneProduct	Entrez Gene	7298	169.0,256.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	913.0,124.0
+DHFR	GeneProduct	Entrez Gene	1719	298.0,419.0
+Tetrahydrofolate	Metabolite	KEGG Compound	C00101	453.95,370.00000000000006
+MTHFR	GeneProduct	Entrez Gene	4524	340.25,148.75
+Folic acid	Metabolite	KEGG Compound	C00504	123.0,471.0
+EHMT2	GeneProduct	Entrez Gene	10919	831.8974641675854,249.30760749724368
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	913.0,413.0
+ATF2	GeneProduct	Entrez Gene	1386	811.0,765.0
+Ethanol	Metabolite	KEGG Compound	C00469	537.0,477.0
+MAT III	GeneProduct			732.0,489.0
+HDAC2	GeneProduct	Entrez Gene	3066	850.0,502.0
+KAT2B	GeneProduct	Entrez Gene	8850	811.0,745.0
+Nucleic acids	Metabolite	ChEBI	CHEBI:33696	93.0,123.0
+L-Methionine	Metabolite	KEGG Compound	C00073	615.0,413.0
+Pyrimidines 	Metabolite	ChEBI	CHEBI:39447	93.0,183.0
+MTR	GeneProduct	Entrez Gene	4548	537.0,232.0
+5,10-MTHF	Metabolite	HMDB	HMDB0001533	291.0,251.0
+Glycine	Metabolite	KEGG Compound	C00037	294.0,293.0
+Dihydrofolate	Metabolite	KEGG Compound	C00415	123.0,370.0
+MAT1A	GeneProduct	Entrez Gene	4143	732.0,469.0
+HDAC1	GeneProduct	Entrez Gene	3065	850.0,482.0
+HAT1	GeneProduct	Entrez Gene	8520	811.0,705.0
+5-MTHF	Metabolite	HMDB	HMDB0001396	455.0,135.0
+SLC19A1	GeneProduct	Entrez Gene	6573	212.0,419.0
+Acetaldehyde	Metabolite	KEGG Compound	C00084	534.3382780394902,652.0909090909089
+ACSS2	GeneProduct	Entrez Gene	55902	788.0655507667632,599.0909090909083
+ADH1B	GeneProduct	Entrez Gene	125	423.97464167585474,571.1818181818187
+CYP2E1	GeneProduct	Entrez Gene	1571	424.88373258494613,518.2727272727261
+ADH1A	GeneProduct	Entrez Gene	124	423.97464167585474,551.1818181818187
+Acetate	Metabolite	KEGG Compound	C00033	702.6110053122167,651.8181818181821
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	898.9746416758543,653.3863636363634
+ALDH1A1	GeneProduct	Entrez Gene	216	608.0655507667635,718.181818181818
+Coenzyme A	Metabolite	KEGG Compound	C00010	898.9746416758544,802.7272727272732
+ALDH2	GeneProduct	Entrez Gene	217	608.0655507667635,778.1818181818179
+Reactive oxygen species	Metabolite	KEGG Compound	C22381	417.7132780394914,654.2954545454552
+ADH1C	GeneProduct	Entrez Gene	126	423.97464167585474,591.1818181818187
+ALDH1A2	GeneProduct	Entrez Gene	8854	608.0655507667635,738.181818181818
+ALDH1A3	GeneProduct	Entrez Gene	220	608.0655507667635,758.181818181818
+Reactive oxygen species	Metabolite	KEGG Compound	C22381	647.7132780394904,604.295454545456
+Reactive oxygen species	Metabolite	KEGG Compound	C22381	399.53145985767264,800.659090909092
+HDAC3	GeneProduct	Entrez Gene	8841	850.0,522.0
+HDAC4	GeneProduct	Entrez Gene	9759	850.0,542.0
+HDAC5	GeneProduct	Entrez Gene	10014	850.0,562.0
+HDAC6	GeneProduct	Entrez Gene	10013	930.0,482.0
+HDAC7	GeneProduct	Entrez Gene	51564	930.0,502.0
+HDAC8	GeneProduct	Entrez Gene	55869	930.0,522.0
+HDAC9	GeneProduct	Entrez Gene	9734	930.0,542.0
+HDAC10	GeneProduct	Entrez Gene	83933	930.0,562.0

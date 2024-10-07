@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+LTF danger signal response pathway	hsa	wikipathways	WP4478
+IL1A	GeneProduct	Entrez Gene	3552	102.22807017543835,447.68421052631606
+IL1B	GeneProduct	Entrez Gene	3553	102.22807017543835,467.68421052631606
+IL6	GeneProduct	Entrez Gene	3569	160.0,447.68421052631606
+IL8	GeneProduct	Entrez Gene	3576	160.0,467.68421052631606
+TNF	GeneProduct	Entrez Gene	7124	218.9429824561397,447.68421052631606
+IFNA	GeneProduct	Entrez Gene	3439	160.0,495.0
+IFNB	GeneProduct	Entrez Gene	3456	160.0,515.0
+Trauma		Wikidata	Q193078	125.0,52.0
+IRAK1	GeneProduct	Entrez Gene	3654	135.0,278.0
+TRAF6	GeneProduct	Entrez Gene	7189	275.0,269.0
+TLR4	GeneProduct	Entrez Gene	7099	132.0,175.0
+LTF	GeneProduct	Entrez Gene	4057	160.0,105.30871646795703
+TREM1	GeneProduct	Entrez Gene	54210	276.0,164.0
+IRAK4	GeneProduct	Entrez Gene	51135	185.0,278.0
+TLR2	GeneProduct	Entrez Gene	7097	132.0,155.0
+CD14	GeneProduct	Entrez Gene	929	210.0,164.0
+MAPK1	GeneProduct	Entrez Gene	5594	65.0,269.0
+RAGE	GeneProduct	Entrez Gene	177	65.5980275282111,164.0
+NFKB1	GeneProduct	Entrez Gene	4790	160.0,348.0
+MYD88	GeneProduct	Entrez Gene	4615	160.0,224.0
+Infection		Wikidata	Q166231	195.0,52.0

@@ -1,0 +1,13 @@
+TEXT	TYPE	DB	ID	X	Y
+Sulindac metabolic pathway	hsa	wikipathways	WP2542
+Sulindac-S	Metabolite	PubChem-compound	11245227	390.0,285.0
+Sulfindac sulfide	Metabolite	Chemspider	4509492	550.5,199.0
+MsrA	GeneProduct	Ensembl	ENSG00000175806	549.5,277.0
+FMO	GeneProduct	InterPro	IPR000960	416.0,193.0
+MsrB2	GeneProduct	Ensembl	ENSG00000148450	547.5,90.0
+CYP1B1	GeneProduct	Entrez Gene	1545	236.0,79.0
+Sulindac-R	Metabolite	PubChem-compound	16046677	390.0,96.0
+Sulindac sulfone	Metabolite	Chemspider	4582441	222.0,199.0
+MsrB3	GeneProduct	Ensembl	ENSG00000174099	547.5,110.0
+CYP1A2	GeneProduct	Entrez Gene	1544	236.0,99.0
+CYP1A2	GeneProduct	Entrez Gene	1544	238.0,271.0

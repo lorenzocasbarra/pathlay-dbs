@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Deregulation of Rab and Rab effector genes in bladder cancer	hsa	wikipathways	WP2291
+MADD	GeneProduct	Entrez Gene	8567	421.75,250.25
+MLPH	GeneProduct	Entrez Gene	79083	421.75,290.25
+MYRIP	GeneProduct	Entrez Gene	25924	421.75,333.25
+RPH3A	GeneProduct	Entrez Gene	22895	421.75,373.25
+RPH3AL	GeneProduct	Entrez Gene	9501	421.75,419.25
+SYTL1	GeneProduct	Entrez Gene	84958	421.75,459.25
+UNC13D	GeneProduct	Entrez Gene	201294	421.75,506.25
+SYTL2	GeneProduct	Entrez Gene	54843	982.75,333.25
+EXPH5	GeneProduct	Entrez Gene	23086	982.75,291.25
+SYTL3	GeneProduct	Entrez Gene	94120	982.75,373.25
+SYTL4	GeneProduct	Entrez Gene	94121	982.75,415.25
+SYTL5	GeneProduct	Entrez Gene	94122	982.75,455.25
+TBC1D10A	GeneProduct	Entrez Gene	83874	706.75,185.25
+RAB27A	GeneProduct	Entrez Gene	5873	706.75,373.25
+RAB27B	GeneProduct	Entrez Gene	5874	126.75,373.25
+GCC2	GeneProduct	Entrez Gene	9648	126.75,525.25

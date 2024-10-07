@@ -1,0 +1,97 @@
+TEXT	TYPE	DB	ID	X	Y
+Th17 cell differentiation pathway	hsa	wikipathways	WP5130
+SOCS3	GeneProduct	Entrez Gene	9021	1606.0,701.25
+IL1B	GeneProduct	Entrez Gene	3553	1207.0,156.0
+IRF4	GeneProduct	Entrez Gene	3662	1237.0,728.25
+IL22	GeneProduct	Entrez Gene	50616	1671.0,896.0
+HIF1A	GeneProduct	Entrez Gene	3091	1595.0,666.25
+TGFBR1	GeneProduct	Entrez Gene	7046	817.0,250.0
+IL6	GeneProduct	Entrez Gene	3569	603.0,148.0
+IL23R	GeneProduct	Entrez Gene	149233	478.5,249.0
+JAK1/3	GeneProduct	Ensembl	ENSG00000162434	784.0,274.0
+RORA	GeneProduct	Entrez Gene	6095	1579.0,585.25
+IL6R	GeneProduct	Entrez Gene	3570	602.0,254.0
+IL21	GeneProduct	Entrez Gene	59067	734.0,151.0
+PLCG1	GeneProduct	Entrez Gene	5335	391.5,1237.0
+RORC	GeneProduct	Entrez Gene	6097	1513.0,481.5
+IL23R	GeneProduct	Entrez Gene	149233	1565.875,932.375
+IL1BR	GeneProduct	Ensembl	ENSG00000125538	1207.0,254.0
+MAPK14	GeneProduct	Entrez Gene	1432	1176.0,328.0
+HLA-DMA	GeneProduct	Entrez Gene	3108	63.5,1181.0
+MTOR	GeneProduct	Entrez Gene	2475	1247.75,328.0
+TGFB1	GeneProduct	Entrez Gene	7040	818.0,150.0
+JAK1	GeneProduct	Entrez Gene	3716	659.0,279.0
+IL23A	GeneProduct	Entrez Gene	51561	478.0,148.25
+IL21R	GeneProduct	Entrez Gene	50615	733.0,249.0
+TYK2	GeneProduct	Entrez Gene	7297	440.0,274.0
+JAK2	GeneProduct	Entrez Gene	3717	514.5,273.0
+HSP90AA1	GeneProduct	Entrez Gene	3320	338.5,723.0
+STAT3	GeneProduct	Entrez Gene	6774	733.75,666.75
+SMADs	GeneProduct	Ensembl	ENSG00000175387	817.0,789.75
+AHR	GeneProduct	Entrez Gene	196	338.0,696.0
+IRF4	GeneProduct	Entrez Gene	3662	1261.0,767.75
+RORA	GeneProduct	Entrez Gene	6095	1045.0,864.75
+RORC	GeneProduct	Entrez Gene	6097	1045.0,893.75
+IL21	GeneProduct	Entrez Gene	59067	1610.0,896.0
+IL17A	GeneProduct	Entrez Gene	3605	1609.0,866.0
+IL17F	GeneProduct	Entrez Gene	112744	1670.0,867.0
+HIF1A	GeneProduct	Entrez Gene	3091	883.5,505.5
+NFKBIA	GeneProduct	Entrez Gene	4792	818.5,1138.4238099101117
+JUN	GeneProduct	Entrez Gene	3725	820.0,1275.0
+FOS	GeneProduct	Entrez Gene	2353	820.0,1204.0
+NFKB1	GeneProduct	Entrez Gene	4790	819.5,1076.75
+NFATC1	GeneProduct	Entrez Gene	4772	816.0,1035.75
+JNK	GeneProduct	Entrez Gene	5599	548.5,1332.0000000000005
+ERK	GeneProduct	Entrez Gene	5594	548.5,1204.0
+PRKCQ	GeneProduct	Entrez Gene	5588	568.75,1138.4238099101117
+ZAP70	GeneProduct	Entrez Gene	7535	381.0,1199.25
+LCK	GeneProduct	Entrez Gene	3932	317.0,1047.25
+CD3Z	GeneProduct	Entrez Gene	919	304.75,1153.75
+IL4R	GeneProduct	Entrez Gene	3566	245.75,1371.0
+IL4	GeneProduct	Entrez Gene	3565	57.5,1370.0
+LAT	GeneProduct	Entrez Gene	27040	246.0,1315.0
+CD3E	GeneProduct	Entrez Gene	916	250.25,1275.0
+CD3D	GeneProduct	Entrez Gene	915	249.75,1251.0
+TCRB	GeneProduct	Entrez Gene	28639	231.25,1216.0
+TCRA	GeneProduct	Entrez Gene	28755	245.25,1153.75
+CD3G	GeneProduct	Entrez Gene	917	246.25,1117.25
+CD3E	GeneProduct	Entrez Gene	916	246.25,1088.75
+CD4	GeneProduct	Entrez Gene	920	245.25,1047.25
+JAK1/3	GeneProduct	Ensembl	ENSG00000162434	296.5,1391.0
+CD3Z	GeneProduct	Entrez Gene	919	292.25,1215.0
+MAPK14	GeneProduct	Entrez Gene	1432	548.5,1301.0000000000005
+STAT6	GeneProduct	Entrez Gene	6778	816.0,1367.75
+CaN	GeneProduct	Ensembl	ENSG00000138814	688.0,1034.0
+IKK	GeneProduct	Ensembl	ENSG00000104365	698.0,1138.4238099101117
+GATA3	GeneProduct	Entrez Gene	2625	1273.0,1148.75
+TBX21	GeneProduct	Entrez Gene	30009	1193.0,1345.0
+RUNX1	GeneProduct	Entrez Gene	861	1371.5,1281.0
+FOXP3	GeneProduct	Entrez Gene	50943	1285.5,1280.0
+RXRA	GeneProduct	Entrez Gene	6256	1283.0,1443.666666666667
+RARA	GeneProduct	Entrez Gene	5914	1283.0,1469.666666666667
+STAT5A	GeneProduct	Entrez Gene	6776	617.5,1667.8888888888896
+STAT1	GeneProduct	Entrez Gene	6772	618.5,1510.0
+IL2R	GeneProduct	Entrez Gene	3559	248.0,1668.8888888888896
+IFNGR	GeneProduct	Entrez Gene	3459	245.0,1546.0
+IL2	GeneProduct	Entrez Gene	3558	57.5,1667.8888888888896
+IFNG	GeneProduct	Entrez Gene	3458	57.5,1545.0
+IL27R	GeneProduct	Entrez Gene	9466	246.0,1467.0
+IL27	GeneProduct	Entrez Gene	246778	57.5,1467.0
+TYK2	GeneProduct	Entrez Gene	7297	305.0,1484.0
+JAK2	GeneProduct	Entrez Gene	3717	305.5,1450.0
+JAK2	GeneProduct	Entrez Gene	3717	305.5,1563.0
+JAK1/3	GeneProduct	Ensembl	ENSG00000162434	313.5,1685.8888888888896
+TGFBR1	GeneProduct	Entrez Gene	7046	248.5,1614.8888888888891
+TGFB1	GeneProduct	Entrez Gene	7040	70.5,1614.8888888888891
+SMAD2	GeneProduct	Entrez Gene	4087	636.5,1615.8888888888891
+TBX21	GeneProduct	Entrez Gene	30009	1159.0,1309.0
+RUNX1	GeneProduct	Entrez Gene	861	1158.5,1200.75
+GATA3	GeneProduct	Entrez Gene	2625	1452.5,1132.0
+NFIL3	GeneProduct	Entrez Gene	4783	1515.0,1450.3333333333335
+CRY1	GeneProduct	Entrez Gene	1407	1719.5,1300.75
+PER1	GeneProduct	Entrez Gene	5187	1719.5,1331.75
+NR1D1	GeneProduct	Entrez Gene	9572	1515.0,1387.0
+BMAL1	GeneProduct	Entrez Gene	406	1515.0,1329.0
+CLOCK	GeneProduct	Entrez Gene	9575	1515.0,1304.0
+CRY1	GeneProduct	Entrez Gene	1407	1687.5,1182.75
+PER1	GeneProduct	Entrez Gene	5187	1687.5,1213.75

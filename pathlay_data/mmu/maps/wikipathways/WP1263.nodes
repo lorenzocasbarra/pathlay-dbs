@@ -1,0 +1,25 @@
+TEXT	TYPE	DB	ID	X	Y
+Mitochondrial gene expression	mmu	wikipathways	WP1263
+cGMP	Metabolite	KEGG Compound	C00942	60.0,300.0
+Tfam	Protein	Entrez Gene	21780	530.0,260.0
+Hcfc1	Protein	Entrez Gene	15161	255.0,32.0
+Tfb1m	Protein	Entrez Gene	224481	582.0,219.0
+cAMP	Metabolite	KEGG Compound	C00575	58.0,96.0
+Tfb2m	Protein	Entrez Gene	15278	491.0,220.0
+Pprc1	Protein	Entrez Gene	226169	265.0,78.0
+Mterfd1	Protein	Entrez Gene	66410	676.0,101.0
+Mterf	Protein	Entrez Gene	545725	611.0,327.0
+Gabpa	Protein	Entrez Gene	14390	392.0,129.0
+Polrmt	Protein	Entrez Gene	216151	506.0,322.0
+Esrra	Protein	Entrez Gene	26379	392.0,204.0
+Nrf1	Protein	Entrez Gene	18181	392.0,94.0
+Gabpb2	Protein	Entrez Gene	213054	392.0,166.0
+Ca2+	Metabolite	KEGG Compound	C00076	55.0,227.0
+Sp1	Protein	Entrez Gene	20683	393.0,284.0
+Ppargc1a	Protein	Entrez Gene	19017	268.0,158.0
+Ppargc1b	Protein	Entrez Gene	170826	265.0,117.0
+Myef2	Protein	Entrez Gene	17876	261.0,254.0
+Camk4	Protein	Entrez Gene	12326	158.0,210.0
+Creb1	Protein	Entrez Gene	12912	160.0,158.0
+Ppp3ca	Protein	Entrez Gene	19055	156.0,254.0
+PKA	Complex			163.0,96.0

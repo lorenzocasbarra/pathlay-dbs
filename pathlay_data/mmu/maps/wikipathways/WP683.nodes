@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Leptin and adiponectin	mmu	wikipathways	WP683
+Adipor1	GeneProduct	Entrez Gene	72674	415.0,204.0
+Fatty acid	Metabolite	KEGG Compound	C00162	379.0,620.0
+Prkaa1	GeneProduct	Entrez Gene	105787	529.0,310.0
+Prkab1	GeneProduct	Entrez Gene	19079	529.0,330.0
+Leptin	GeneProduct	Entrez Gene	16846	314.0,99.0
+Fatty acid	Metabolite	KEGG Compound	C00162	663.0,620.0
+Adipor2	GeneProduct	Entrez Gene	68465	528.0,204.0
+Acc1	GeneProduct	Entrez Gene	107476	529.0,420.0
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	438.0,470.0
+Prkag1	GeneProduct	Entrez Gene	19082	529.0,350.0
+Lepr	GeneProduct	Entrez Gene	16847	314.0,204.0
+Cpt1	GeneProduct	Entrez Gene	12894	506.0,586.0
+Adiponectin	GeneProduct	Entrez Gene	11450	471.0,99.0
+Malonyl-CoA	Metabolite	KEGG Compound	C00083	624.0,470.0

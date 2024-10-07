@@ -1,0 +1,53 @@
+TEXT	TYPE	DB	ID	X	Y
+Steroid biosynthesis	mmu	wikipathways	WP55
+Hsd3b6	GeneProduct	Entrez Gene	15497	491.629002300453,481.6666666666667
+17a-OH-pregnenolone	Metabolite	HMDB	HMDB0000363	120.5,300.0
+Hydroxyprogesterone aldolase	GeneProduct			120.0,357.6666666666667
+Cyp17a1	GeneProduct	Entrez Gene	13074	120.66666666666667,245.66666666666666
+Dihydrotestosterone	Metabolite	KEGG Compound	C03917	491.629002300453,665.0
+Hsd3b2	GeneProduct	Entrez Gene	15493	272.0,417.0
+Hsd3b5	GeneProduct	Entrez Gene	15496	345.0,206.0
+Hsd3b1	GeneProduct	Entrez Gene	15492	275.0,186.0
+Hsd3b4	GeneProduct	Entrez Gene	15495	347.52486187845307,539.7034990791888
+Hsd3b4	GeneProduct	Entrez Gene	15495	346.0,282.6666666666667
+Hsd3b6	GeneProduct	Entrez Gene	15497	345.0,226.0
+Hsd3b3	GeneProduct	Entrez Gene	15494	277.52486187845295,579.7034990791888
+Hsd3b3	GeneProduct	Entrez Gene	15494	272.0,437.0
+Hsd3b2	GeneProduct	Entrez Gene	15493	277.52486187845295,559.7034990791888
+Steroid-19-hydroxylase	GeneProduct			657.0064456721917,561.5432780847146
+Steroid-19-hydroxylase	GeneProduct			660.6666666666666,415.3333333333333
+Mineralcorticoid synthesis	Pathway	WikiPathways	WP495	818.0,206.0
+Hsd17b2	GeneProduct	Entrez Gene	15486	853.0,468.0
+Hsd17b3	GeneProduct	Entrez Gene	15487	853.0,488.0
+Androstenediol	Metabolite	KEGG Compound	C04295	120.0,560.0
+Androstenedione	Metabolite	KEGG Compound	C00280	491.629002300453,417.0
+Hsd3b6	GeneProduct	Entrez Gene	15497	346.0,322.6666666666667
+Glucocorticoid synthesis	Pathway	WikiPathways	WP495	817.0,301.0
+Hsd3b1	GeneProduct	Entrez Gene	15492	277.52486187845295,539.7034990791888
+DHA	Metabolite	KEGG Compound	C01227	120.0,417.0
+Hsd3b1	GeneProduct	Entrez Gene	15492	276.0,282.6666666666667
+Hsd3b2	GeneProduct	Entrez Gene	15493	275.0,206.0
+Hsd3b6	GeneProduct	Entrez Gene	15497	342.0,437.0
+Estrone	Metabolite	KEGG Compound	C00468	855.5,417.0
+Pregnenolone	Metabolite	KEGG Compound	C01953	120.0,205.0
+Hsd17b1	GeneProduct	Entrez Gene	15485	853.0,448.0
+Hsd3b5	GeneProduct	Entrez Gene	15496	347.52486187845307,559.7034990791888
+Hsd3b4	GeneProduct	Entrez Gene	15495	345.0,186.0
+F13b	GeneProduct	Entrez Gene	14060	491.629002300453,608.6666666666666
+Cyp17a1	GeneProduct	Entrez Gene	13074	491.629002300453,246.66666666666666
+Hsd17b4	GeneProduct	Entrez Gene	15488	853.0,508.0
+Hsd3b6	GeneProduct	Entrez Gene	15497	347.52486187845307,579.7034990791888
+Progesterone	Metabolite	KEGG Compound	C00410	491.62900230045295,205.0
+Hsd3b3	GeneProduct	Entrez Gene	15494	275.0,226.0
+Estradiol	Metabolite	KEGG Compound	C00951	855.0,560.0
+Hsd3b4	GeneProduct	Entrez Gene	15495	342.0,397.0
+Hsd3b5	GeneProduct	Entrez Gene	15496	342.0,417.0
+17a-OH-progesterone	Metabolite	HMDB	HMDB0000374	491.62900230045307,301.0
+Hsd3b5	GeneProduct	Entrez Gene	15496	346.0,302.6666666666667
+Testosterone	Metabolite	KEGG Compound	C00535	491.62900230045295,560.0
+Cholesterol	Metabolite	KEGG Compound	C00187	120.0,119.0
+Hydroxyprogesterone aldolase	GeneProduct			491.62900230045307,351.3333333333333
+Hsd3b1	GeneProduct	Entrez Gene	15492	272.0,397.0
+Hsd3b2	GeneProduct	Entrez Gene	15493	276.0,302.6666666666667
+Hsd17b7	GeneProduct	Entrez Gene	15490	853.0,528.0
+Hsd3b3	GeneProduct	Entrez Gene	15494	276.0,322.6666666666667

@@ -1,0 +1,8 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Flavivirus	hsa	kegg	hsa03264
+HAVCR1	GeneProduct	Entrez Gene	26762	78,365
+TYRO3	GeneProduct	Entrez Gene	7301	78,316
+CLEC4M	GeneProduct	Entrez Gene	10332	78,340
+CD209	GeneProduct	Entrez Gene	30835	78,340
+Heparan sulfate	Metabolite	KEGG Compound	C00925	147,342
+Chondroitin sulfate	Metabolite	KEGG Compound	C00607	147,342

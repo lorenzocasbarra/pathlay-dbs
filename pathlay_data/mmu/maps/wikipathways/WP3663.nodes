@@ -1,0 +1,24 @@
+TEXT	TYPE	DB	ID	X	Y
+BMP signaling pathway in eyelid development	mmu	wikipathways	WP3663
+Fgf10	GeneProduct	Entrez Gene	14165	463.0,55.0
+Fgfr2	GeneProduct	Entrez Gene	14183	358.0,137.0
+Activin beta-B	GeneProduct	Ensembl	ENSMUSG00000037035	569.0,136.0
+Tgfa	GeneProduct	Entrez Gene	21802	784.0,136.0
+Shh	GeneProduct	Entrez Gene	20423	77.0,183.0
+Bmp4	GeneProduct	Entrez Gene	12159	358.0,183.0
+Sfrp1	GeneProduct	Entrez Gene	20377	77.25,249.75
+Smad1	GeneProduct	Entrez Gene	17125	358.0,252.0
+Smad5	GeneProduct	Entrez Gene	17129	358.0,272.0
+Smad4	GeneProduct	Entrez Gene	17128	358.0,337.0
+Pitx2	GeneProduct	Entrez Gene	18741	227.0,257.0
+Dkk2	GeneProduct	Entrez Gene	56811	227.25,317.25
+Foxc1	GeneProduct	Entrez Gene	17300	208.0,419.0
+Foxc2	GeneProduct	Entrez Gene	14234	208.0,439.0
+Notch	GeneProduct	Ensembl	ENSMUSG00000026923	208.0,499.5
+MEKK1	GeneProduct	Entrez Gene	26401	569.0,187.0
+JNK	GeneProduct	Entrez Gene	26419	569.25,240.25
+p-c-Jun	GeneProduct	Ensembl	ENSMUSG00000052684	570.0,291.0
+Egfr	GeneProduct	Entrez Gene	13649	785.0,191.0
+ERK	GeneProduct	Entrez Gene	26413	785.0,241.0
+Bmp Canonical Signaling	Pathway	WikiPathways	WP339	358.0,392.0
+Wnt Canonical Signaling	Pathway	WikiPathways	WP403	77.5,318.0

@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+GLP-1 from intestine and pancreas and role in glucose homeostasis	hsa	wikipathways	WP5452
+GLP-1 from intestine	Pathway	WikiPathways	WP5446	641.0,409.0
+Glucagon	Protein	Wikidata	Q170617	577.0,223.0
+PCSK1	GeneProduct	Entrez Gene	5122	364.66666666666686,203.0
+PCSK2	GeneProduct	Entrez Gene	5126	716.6666666666669,203.0
+Insulin	GeneProduct	Entrez Gene	3630	62.0,408.0
+GLP1R	GeneProduct	Entrez Gene	2740	302.0,407.0
+INS	GeneProduct	Entrez Gene	3630	215.0,407.0
+GLP-1	Protein	Wikidata	Q424611	498.80000000000064,223.0
+GCG	GeneProduct	Entrez Gene	2641	364.66666666666686,150.0
+Glucose	Metabolite	KEGG Compound	C00031	475.0,68.4
+SLC2A1	GeneProduct	Entrez Gene	6513	460.0,150.0
+GCG	GeneProduct	Entrez Gene	2641	715.6666666666669,150.0
+Amino acid	Metabolite	KEGG Compound	C00045	577.0,69.4
+GLP-1	Protein	Wikidata	Q424611	498.80000000000064,410.0

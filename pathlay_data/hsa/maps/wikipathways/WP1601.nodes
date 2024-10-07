@@ -1,0 +1,71 @@
+TEXT	TYPE	DB	ID	X	Y
+Fluoropyrimidine activity	hsa	wikipathways	WP1601
+5-fluorouracil (5-FU)	Metabolite	ChEBI	CHEBI:46345	276.0,35.0
+Capecitabine	Metabolite	KEGG Compound	C12650	559.0,117.0
+FUR	Metabolite			409.5,378.0
+5-dFUR	Metabolite	Wikidata	Q1253473	448.0,209.0
+dTMP	Metabolite	KEGG Compound	C00364	330.0,897.0
+FUTP	Metabolite	PubChem-compound	10255482	264.5,511.0
+FUPA	Metabolite	PubChem-compound	151244	507.5,272.0
+FdUTP	Metabolite	PubChem-compound	503023	165.5,505.0
+UPP1	GeneProduct	Entrez Gene	7378	334.0,315.0
+TK1	GeneProduct	Entrez Gene	7083	75.0,331.0
+5-hydroxytegafur	Metabolite			180.5,168.0
+SLC22A7	GeneProduct	Entrez Gene	10864	203.0,80.0
+ABCC5	GeneProduct	Entrez Gene	10057	348.5,551.0
+DHFR	GeneProduct	Entrez Gene	1719	202.5,972.4925373134329
+CDA	GeneProduct	Entrez Gene	978	420.0,160.0
+TDG	GeneProduct	Entrez Gene	6996	452.5,895.0
+Tegafur	Metabolite	KEGG Compound	C12673	97.5,125.0
+Leucovorin	Metabolite	KEGG Compound	C03479	123.5,790.0
+ABCC3	GeneProduct	Entrez Gene	8714	348.5,571.0
+UPP2	GeneProduct	Entrez Gene	151531	367.0,155.0
+DPYD	GeneProduct	Entrez Gene	1806	372.0,243.0
+MIR29C	GeneProduct	Entrez Gene	407026	529.9999999999993,894.6666666666666
+UPP1	GeneProduct	Entrez Gene	7378	367.0,135.0
+FPGS	GeneProduct	Entrez Gene	2356	246.5,972.4925373134329
+ABCC4	GeneProduct	Entrez Gene	10257	348.5,531.0
+SMUG1	GeneProduct	Entrez Gene	23583	452.5,915.0
+TYMS	GeneProduct	Entrez Gene	7298	230.5,814.0
+TYMP	GeneProduct	Entrez Gene	1890	98.0,264.0
+MTHFR	GeneProduct	Entrez Gene	4524	202.5,952.4925373134329
+dUMP	Metabolite	KEGG Compound	C00365	310.0,859.0
+DPYS	GeneProduct	Entrez Gene	1807	462.0,307.0
+RRM1	GeneProduct	Entrez Gene	6240	219.0,453.0
+UMPS	GeneProduct	Entrez Gene	7372	210.0,298.0
+DNA Repair	Pathway	WikiPathways	WP1805	429.0,868.0
+5-FU	Metabolite	KEGG Compound	C07649	433.5,485.0
+FUDP	Metabolite	PubChem-compound	46936877	264.5,417.0
+UCK1	GeneProduct	Entrez Gene	83549	343.0,405.0
+XRCC3	GeneProduct	Entrez Gene	7517	408.5,915.0
+FUMP	Metabolite	CAS	796-66-7	264.5,357.0
+ERCC2	GeneProduct	Entrez Gene	2068	408.5,895.0
+Folate Cycle	Pathway	WikiPathways	WP176	134.0,960.4925373134329
+CES1	GeneProduct	Entrez Gene	1066	458.5,102.0
+UCK2	GeneProduct	Entrez Gene	7371	343.0,425.0
+5-FU	Metabolite	KEGG Compound	C07649	437.5,620.0
+FBAL	Metabolite	PubChem-compound	13351	618.5,272.0
+FUTP	Metabolite	PubChem-compound	10255482	387.5,706.0
+5,10-Methylenetetrahydrofolate	Metabolite	KEGG Compound	C00143	160.5,871.0
+FdUTP	Metabolite	PubChem-compound	503023	295.5,732.0
+GGH	GeneProduct	Entrez Gene	8836	246.5,952.4925373134329
+CYP2A6	GeneProduct	Entrez Gene	1548	83.5,183.0
+FdUDP	Metabolite	PubChem-compound	53882537	165.5,418.0
+ABCG2	GeneProduct	Entrez Gene	9429	334.5,92.0
+5-FU	Metabolite	KEGG Compound	C07649	263.5,217.0
+Dihydrofolate	Metabolite	KEGG Compound	C00415	202.5,917.0
+TP53	GeneProduct	Entrez Gene	7157	509.5,847.0
+RRM2	GeneProduct	Entrez Gene	6241	219.0,473.0
+Apoptosis	Pathway	WikiPathways	WP254	477.0,821.0
+FUDR	Metabolite	Wikidata	Q5462356	129.5,301.0
+FdUMP	Metabolite	PubChem-compound	8642	190.5,751.0
+FdUMP	Metabolite	PubChem-compound	8642	129.5,365.0
+5-dFCR	Metabolite	PubChem-compound	10037499	494.0,163.0
+SLC29A1	GeneProduct	Entrez Gene	2030	519.0,550.0
+UPB1	GeneProduct	Entrez Gene	51733	566.0,306.0
+UPP2	GeneProduct	Entrez Gene	151531	334.0,335.0
+TYMP	GeneProduct	Entrez Gene	1890	367.0,175.0
+PPAT	GeneProduct	Entrez Gene	5471	210.0,318.0
+ABCC4	GeneProduct	Entrez Gene	10257	334.5,72.0
+DHFU	Metabolite	PubChem-compound	121997	407.5,272.0
+CES2	GeneProduct	Entrez Gene	8824	458.5,122.0

@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+Hypoxia-dependent differentiation of myoblasts	mmu	wikipathways	WP5025
+WNT canoncial pathway	Pathway			81.21068883947817,326.1618458382884
+CDKN1A	GeneProduct	Entrez Gene	12575	825.0,328.0
+MAPK14	GeneProduct	Entrez Gene	26416	741.0,147.0
+MYF5	GeneProduct	Entrez Gene	17877	291.8965290035674,326.1618458382884
+MYF6	GeneProduct	Entrez Gene	17878	291.8965290035674,358.0
+Notch pathway	GeneProduct	Entrez Gene	18128	189.2978056426333,177.0
+PHD2	GeneProduct	Entrez Gene	112405	741.0,177.0
+CDNK1B	GeneProduct	Entrez Gene	12576	825.0,358.0
+miR210	Rna			703.5153168347213,326.1618458382884
+HIF1AN	GeneProduct	Entrez Gene	319594	741.0,207.0
+HIF1A	GeneProduct	Entrez Gene	15251	483.0,177.0
+MYH	GeneProduct	Entrez Gene	17879	291.8965290035674,391.0
+MYOG	GeneProduct	Entrez Gene	17928	386.9482645017838,326.1618458382884
+Myotube survival	Pathway			703.5153168347213,392.0
+TP53	GeneProduct			483.0,399.0
+BHLHE40	GeneProduct	Entrez Gene	20893	483.0,461.0
+VEGF	GeneProduct	Entrez Gene	22339	549.0,326.1618458382884
+HGF	GeneProduct	Entrez Gene	17928	185.9482645017838,327.1618458382884
+Hypoxia		Wikidata	Q105688	483.0,81.0

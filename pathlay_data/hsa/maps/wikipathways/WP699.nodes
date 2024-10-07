@@ -1,0 +1,28 @@
+TEXT	TYPE	DB	ID	X	Y
+Aflatoxin B1 metabolism	hsa	wikipathways	WP699
+Aflatoxin B1 C8-monoalcohol	Metabolite			430.5,589.0
+Aflatoxin-endo-B1-8,9-epoxide	Metabolite			218.99999999999997,250.0
+AKR7A2	GeneProduct	Entrez Gene	8574	291.0,473.0
+CYP1A2	GeneProduct	Entrez Gene	1544	437.0,168.33333333333331
+AKR7A3	GeneProduct	Entrez Gene	22977	291.0,493.0
+GSTT1	GeneProduct	Entrez Gene	2952	573.6666666666666,185.0
+GSTM1	GeneProduct	Entrez Gene	2944	573.6666666666666,205.0
+CYP2A13	GeneProduct	Entrez Gene	1553	437.0,208.33333333333331
+Aflatoxin B1 exo-8,9-epoxide-GSH	Metabolite	PubChem-compound	5486953	726.5,250.0
+EPHX1	GeneProduct	Entrez Gene	2052	211.0,308.0
+CYP1A2	GeneProduct	Entrez Gene	1544	408.0,72.0
+Aflatoxin B1-6,8-dialcohol	Metabolite			285.0,645.0
+Aflatoxin B1 8,9-dihydrodiol	Metabolite	ChEBI	CHEBI:53106	290.5,339.0
+Aflatoxin B1 dialdehyde	Metabolite	KEGG Compound	C19589	288.7244897959184,405.1734693877551
+CYP1A2	GeneProduct	Entrez Gene	1544	150.0,187.33333333333331
+aflatoxin B1	Metabolite	KEGG Compound	C06800	320.0,128.66666666666669
+Aflatoxin B1 exo-8,9-epoxide	Metabolite	HMDB	HMDB0006558	406.5,250.0
+Aflatoxin M1	Metabolite	KEGG Compound	C16756	502.0,128.66666666666669
+Aflatoxin B1 C8-monoaldehyde	Metabolite			449.99999999999994,518.639455782313
+Aflatoxin M1 epoxide	Metabolite			663.5,128.66666666666669
+CYP2A13	GeneProduct	Entrez Gene	1553	568.6666666666666,72.0
+Aflatoxin B1 C6-monoalcohol	Metabolite			151.5,589.0
+Aflatoxin Q1	Metabolite	KEGG Compound	C19585	157.0,128.66666666666669
+CYP3A4	GeneProduct	Entrez Gene	1576	239.0,72.0
+Aflatoxin B1 C6-monoaldehyde	Metabolite			131.0,518.639455782313
+CYP3A4	GeneProduct	Entrez Gene	1576	437.0,188.33333333333331

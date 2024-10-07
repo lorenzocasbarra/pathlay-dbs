@@ -1,0 +1,25 @@
+TEXT	TYPE	DB	ID	X	Y
+Methylation	mmu	wikipathways	WP1247
+N-methylated substrate	Metabolite			815.0,269.0
+Mat1a	GeneProduct	Entrez Gene	11720	234.0,94.0
+Mat2a	GeneProduct	Entrez Gene	232087	234.0,114.0
+Phosphate	Metabolite	KEGG Compound	C00009	303.0,167.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	684.0,89.0
+S-methylated substrate	Metabolite			818.0,393.0
+Substrate	Metabolite			308.0,269.0
+O-methylated substrate	Metabolite			811.0,124.0
+Tpmt	GeneProduct	Entrez Gene	22017	566.0,355.0
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	453.0,226.0
+ATP	Metabolite	KEGG Compound	C00002	167.0,177.0
+Pnmt	GeneProduct	Entrez Gene	18948	567.0,168.0
+Mat2b	GeneProduct	Entrez Gene	108645	234.0,134.0
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	451.0,359.0
+Hnmt	GeneProduct	Entrez Gene	140483	567.0,208.0
+Inmt	GeneProduct	Entrez Gene	21743	567.0,188.0
+L-Methionine	Metabolite	KEGG Compound	C00073	129.0,226.0
+Nnmt	GeneProduct	Entrez Gene	18113	567.0,228.0
+Phosphate	Metabolite	KEGG Compound	C00009	303.0,187.0
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	449.0,88.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	686.0,360.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	688.0,227.0
+Comt1	GeneProduct	Entrez Gene	12846	565.0,81.0

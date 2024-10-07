@@ -1,0 +1,47 @@
+TEXT	TYPE	DB	ID	X	Y
+HIF1A and PPARG in cardiac hypertropthy	hsa	wikipathways	WP2456
+Triacylglyceride synthesis	Pathway	WikiPathways	WP325	600.5,293.5
+Glycolysis	Pathway	WikiPathways	WP534	177.0,252.0
+GAPDH	GeneProduct	Entrez Gene	2597	254.5,231.0
+Glyceraldehyde- 3-phosphate	Metabolite	KEGG Compound	C00118	201.0,192.0
+LDHA	GeneProduct	Entrez Gene	3939	254.5,306.0
+Pathological stress		Wikidata	Q123414	350.0,342.6666666666668
+Pyruvate	Metabolite	KEGG Compound	C00022	201.0,273.0
+Fructose-1,6- biphosphate	Metabolite	KEGG Compound	C05378	375.0,113.0
+TPI1	GeneProduct	Entrez Gene	7167	371.50655021834064,229.0
+Dihydroxyacetone phosphate	Metabolite	KEGG Compound	C00111	543.0,192.0
+Lactate	Metabolite	KEGG Compound	C00186	201.0,350.0
+Glycerol-3- phosphate	Metabolite	KEGG Compound	C00093	543.0,272.5
+Lysophosphatidate	Metabolite	KEGG Compound	C00681	543.0,353.0
+Triacylglycerol	Metabolite	KEGG Compound	C00422	543.0,443.0
+Diacylglycerol	Metabolite	KEGG Compound	C00165	543.0,398.0
+GPD1	GeneProduct	Entrez Gene	2819	472.2467248908297,229.0
+GPAT3	GeneProduct	Entrez Gene	84803	472.2467248908297,311.0
+Glucose	Metabolite	KEGG Compound	C00031	375.0,21.0
+SLC2A1	GeneProduct	Entrez Gene	6513	374.5,56.0
+PPARG	GeneProduct	Entrez Gene	5468	397.10334788937405,269.5400291120816
+HIF1A	GeneProduct	Entrez Gene	3091	492.0,104.0
+HIF1A	GeneProduct	Entrez Gene	3091	318.49344978165936,268.66666666666663
+PPARG	GeneProduct	Entrez Gene	5468	585.4366812227074,103.87336244541484
+CD36	GeneProduct	Entrez Gene	948	719.0,56.0
+Fatty acid	Metabolite	KEGG Compound	C00162	719.0,21.0
+NADH	Metabolite	KEGG Compound	C00004	626.0,217.0
+NAD+	Metabolite	KEGG Compound	C00003	627.0,244.0
+H+	Metabolite	KEGG Compound	C00080	666.0,217.0
+Pi	Metabolite	ChEBI	CHEBI:28659	666.0,245.0
+NADH	Metabolite	KEGG Compound	C00004	628.0,299.0
+NAD+	Metabolite	KEGG Compound	C00003	629.0,330.0
+H+	Metabolite	KEGG Compound	C00080	666.0,299.0
+Pi	Metabolite	ChEBI	CHEBI:28659	666.0,331.0
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	719.0,299.0
+CoA-SH	Metabolite	KEGG Compound	C00010	719.0,330.0
+NAD+	Metabolite	KEGG Compound	C00003	97.0,220.0
+Pi	Metabolite	ChEBI	CHEBI:28659	134.0,221.0
+NADH	Metabolite	KEGG Compound	C00004	97.0,247.0
+H+	Metabolite	KEGG Compound	C00080	134.0,247.0
+NADH	Metabolite	KEGG Compound	C00004	97.0,295.0
+H+	Metabolite	KEGG Compound	C00080	134.0,295.0
+NAD+	Metabolite	KEGG Compound	C00003	97.0,322.0
+Pi	Metabolite	ChEBI	CHEBI:28659	134.0,323.0
+Myocardial steatosis		Wikidata	Q1615518	543.0,491.0
+Hypertrophic cardiomyopathy		Wikidata	Q1364270	543.0,533.0

@@ -1,0 +1,46 @@
+TEXT	TYPE	DB	ID	X	Y
+Eicosanoid synthesis	mmu	wikipathways	WP318
+Alox5ap	GeneProduct	Entrez Gene	11690	597.3333333333334,231.0
+5-HETE	Metabolite	KEGG Compound	C04805	648.6666666666666,395.3333333333333
+Ptgds	GeneProduct	Entrez Gene	19215	180.66666666666666,396.0
+5-HPETE	Metabolite	HMDB	HMDB0001193	557.5,297.0
+Prostaglandin H2	Metabolite	KEGG Compound	C00427	230.5,347.0
+Ptges2	GeneProduct	Entrez Gene	96979	280.3333333333333,388.0
+Dpep1	GeneProduct	Entrez Gene	13479	557.0,584.0
+Ptgis	GeneProduct	Entrez Gene	19223	141.33333333333334,346.6666666666667
+Leukotriene D4	Metabolite	KEGG Compound	C05951	557.0,553.0
+Pla2g2a	GeneProduct	Entrez Gene	18780	653.3333333333334,100.0
+Alox5	GeneProduct	Entrez Gene	11689	597.3333333333334,251.0
+Tbxas1	GeneProduct	Entrez Gene	21391	234.33333333333334,277.0
+Peroxidase?	GeneProduct			813.0,392.0
+Thromboxane B2	Metabolite	KEGG Compound	C05963	291.5,101.0
+Prostaglandin I2	Metabolite	KEGG Compound	C01312	46.0,346.0
+Ptgs1	GeneProduct	Entrez Gene	19224	459.6666666666667,245.0
+Prostaglandin D2	Metabolite	KEGG Compound	C00696	132.0,486.0
+PGE2 9-ketoreduc	GeneProduct			308.0,544.6666666666666
+Ggt1	GeneProduct	Entrez Gene	14598	559.3333333333334,511.3333333333333
+Pla2g6	GeneProduct	Entrez Gene	53357	653.3333333333334,140.0
+Alox15	GeneProduct	Entrez Gene	11687	753.3333333333334,240.0
+Alox8	GeneProduct	Entrez Gene	11688	1042.3333333333333,223.33333333333334
+Leukotriene A4	Metabolite	KEGG Compound	C00909	477.0,393.0
+Ptges	GeneProduct	Entrez Gene	64292	280.3333333333333,408.0
+Pla2g6	GeneProduct	Entrez Gene	53357	653.3333333333334,120.0
+Alox5	GeneProduct	Entrez Gene	11689	513.6666666666666,348.0
+Prostaglandin F2a	Metabolite	KEGG Compound	C00639	244.5,629.0
+Leukotriene C4	Metabolite	KEGG Compound	C02166	558.0,482.0
+Leukotriene E4	Metabolite	KEGG Compound	C05952	557.0,634.0
+Lta4h	GeneProduct	Entrez Gene	16993	441.6666666666667,431.0
+Ptgs2	GeneProduct	Entrez Gene	19225	459.6666666666667,265.0
+Ltc4s	GeneProduct	Entrez Gene	17001	520.3333333333334,429.6666666666667
+Alox15	GeneProduct	Entrez Gene	11687	753.3333333333334,260.0
+12-HETE	Metabolite			814.0,474.6666666666667
+Peroxidase?	GeneProduct			1041.6666666666667,399.3333333333333
+15-HETE	Metabolite			1037.0,477.0
+Alox5ap	GeneProduct	Entrez Gene	11690	513.6666666666666,328.0
+Pnpla8	GeneProduct	Entrez Gene	67452	653.3333333333334,80.0
+Thromboxane A2	Metabolite	KEGG Compound	C02198	233.0,194.0
+Arachidonic acid	Metabolite	KEGG Compound	C00219	655.5,192.0
+Peroxidase?	GeneProduct			610.3333333333334,341.6666666666667
+Alox12	GeneProduct	Entrez Gene	11684	753.3333333333334,280.0
+Leukotriene B4	Metabolite	KEGG Compound	C02165	411.0,488.0
+PGD2 11-ketoreduc	GeneProduct			177.66666666666666,541.6666666666666

@@ -1,0 +1,8 @@
+TEXT	TYPE	DB	ID	X	Y
+Lac-Phe pathway	hsa	wikipathways	WP5239
+L-phenylalanine	Metabolite	KEGG Compound	C00079	196.0,237.0
+ABCC5	GeneProduct	Entrez Gene	10057	507.6119402985062,151.5067519545131
+(S)-lactate	Metabolite	KEGG Compound	C00186	196.0,187.0
+Lac-Phe	Metabolite	ChEBI	167456	637.1641791044772,186.58137882018485
+CNDP2	GeneProduct	Entrez Gene	55748	286.0,137.0
+Lac-Phe	Metabolite	ChEBI	167456	376.0,187.0

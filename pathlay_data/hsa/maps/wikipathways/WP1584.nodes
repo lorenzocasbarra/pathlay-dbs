@@ -1,0 +1,39 @@
+TEXT	TYPE	DB	ID	X	Y
+Type II diabetes mellitus	hsa	wikipathways	WP1584
+Kir6.2	GeneProduct	Ensembl	ENSG00000187486	251.0,794.75
+TNF alpha	GeneProduct	Ensembl	ENSG00000232810	156.5,371.5
+INSR	GeneProduct	Entrez Gene	3643	251.0,161.25
+ERK	GeneProduct	Entrez Gene	5594	365.25,292.0
+MAFA	GeneProduct	Entrez Gene	389692	499.5,655.75
+GLUT4	GeneProduct	Entrez Gene	6517	611.0,79.0
+GLUT2	GeneProduct	Entrez Gene	6514	250.0,881.0
+Glucose	Metabolite	KEGG Compound	C00031	140.0,556.0
+PRKCZ	GeneProduct	Entrez Gene	5590	456.25,370.0
+INS	GeneProduct	Entrez Gene	3630	660.0,635.0
+P13K	GeneProduct	Ensembl	ENSG00000141506	611.0,161.25
+Apoptosis	Pathway	WikiPathways	WP254	575.0,556.3226238286479
+ADIPOQ	GeneProduct	Entrez Gene	9370	147.0,79.0
+PYK	GeneProduct	Entrez Gene	5256	486.5,851.75
+Ca2+	Metabolite	KEGG Compound	C00076	441.0,693.0
+JNK	GeneProduct	Entrez Gene	5599	365.25,344.75
+Pyruvate	Metabolite	KEGG Compound	C00022	593.0,851.0
+Type II diabetes		Wikidata	Q3025883	820.0,263.0
+GK	GeneProduct	Entrez Gene	2710	377.5,851.75
+IKK	GeneProduct	Ensembl	ENSG00000104365	365.25,317.25
+VDCC	GeneProduct	Ensembl	ENSG00000141837	251.0,719.0
+ATP	Metabolite	KEGG Compound	C00002	593.0,778.0
+INS	GeneProduct	Entrez Gene	3630	151.0,161.25
+SOCS	GeneProduct	Entrez Gene	1154	365.25,265.0
+JNK	GeneProduct	Entrez Gene	5599	412.5,596.0
+IRS	GeneProduct	Entrez Gene	3376	456.25,161.25
+Glucose	Metabolite	KEGG Compound	C00031	125.5,851.0
+MTOR	GeneProduct	Entrez Gene	2475	365.25,371.75
+PDX-1	GeneProduct	Entrez Gene	3651	499.0,606.0
+	PRKCD	GeneProduct	Ensembl	ENSG00000163932	486.25,394.0
+SURF1	GeneProduct	Entrez Gene	6834	251.0,774.75
+Insulin signaling	Pathway	WikiPathways	WP481	359.0,137.0
+IRS	GeneProduct	Entrez Gene	3376	456.25,197.0
+FFA	Metabolite	KEGG Compound	C13038	150.0,330.0
+Obesity		Wikidata	Q12174	58.0,350.0
+Obesity		Wikidata	Q12174	58.0,79.0
+Maturity-onset diabetes of the young		Wikidata	Q663041	821.0,556.0

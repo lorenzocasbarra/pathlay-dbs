@@ -1,0 +1,56 @@
+TEXT	TYPE	DB	ID	X	Y
+Microglia pathogen phagocytosis pathway	mmu	wikipathways	WP3626
+Oxygen	Metabolite	KEGG Compound	C00007	880.0,124.0
+Pik3	GeneProduct			576.0,407.0
+IgG	GeneProduct	Entrez Gene	668542	328.0,118.0
+Hck	GeneProduct	Entrez Gene	15162	388.0,309.0
+C1qa	GeneProduct	Entrez Gene	12259	328.0,40.0
+Tyrobp	GeneProduct	Entrez Gene	22177	513.0,233.0
+Syk	GeneProduct	Entrez Gene	20963	509.0,315.0
+Pik3r1	GeneProduct	Entrez Gene	18708	139.0,204.0
+Siglece	GeneProduct	Entrez Gene	83382	284.5,309.0
+Trem1	GeneProduct	Entrez Gene	58217	475.0,173.0
+PIP2	Metabolite	Wikidata	Q27088398	621.5,194.0
+Fcer1g	GeneProduct	Entrez Gene	14127	442.0,233.0
+Fcgr1	GeneProduct	Entrez Gene	14129	400.0,220.0
+Itgam	GeneProduct	Entrez Gene	16409	542.5,193.0
+Trem2	GeneProduct	Entrez Gene	83433	475.0,193.0
+Trem3	GeneProduct	Entrez Gene	58218	475.0,213.0
+Itgb2	GeneProduct	Entrez Gene	16414	542.5,213.0
+Lyn	GeneProduct	Entrez Gene	17096	371.0,268.0
+Ptpn6	GeneProduct	Entrez Gene	15170	324.5,336.0
+Plcg2	GeneProduct	Entrez Gene	234779	693.5,235.0
+Lat	GeneProduct	Entrez Gene	16797	707.5,214.0
+Rac1	GeneProduct	Entrez Gene	19353	753.5,342.0
+Rac2	GeneProduct	Entrez Gene	19354	753.5,364.0
+Rac3	GeneProduct	Entrez Gene	170758	753.5,386.0
+Vav1	GeneProduct	Entrez Gene	22324	753.5,224.0
+Vav2	GeneProduct	Entrez Gene	22325	753.5,244.0
+Vav3	GeneProduct	Entrez Gene	57257	753.5,264.0
+Nckap1l	GeneProduct	Entrez Gene	105855	655.5,452.0
+Arpc1b	GeneProduct	Entrez Gene	11867	655.5,555.5
+Ncf4	GeneProduct	Entrez Gene	17972	728.5,538.0
+Ncf2	GeneProduct	Entrez Gene	17970	743.5,516.0
+Ncf1	GeneProduct	Entrez Gene	17969	738.5,494.0
+Cybb	GeneProduct	Entrez Gene	13058	878.5,460.0
+Cyba	GeneProduct	Entrez Gene	13057	921.5,482.0
+Ncf1	GeneProduct	Entrez Gene	17969	873.5,350.0
+Ncf4	GeneProduct	Entrez Gene	17972	919.5,343.0
+Ncf2	GeneProduct	Entrez Gene	17970	881.5,325.0
+Rac1	GeneProduct	Entrez Gene	19353	838.5,282.0
+Rac2	GeneProduct	Entrez Gene	19354	838.5,304.0
+Rac3	GeneProduct	Entrez Gene	170758	838.5,326.0
+Cybb	GeneProduct	Entrez Gene	13058	854.5,256.0
+Cyba	GeneProduct	Entrez Gene	13057	900.5,272.0
+C1qb	GeneProduct	Entrez Gene	12260	328.0,60.0
+C1qc	GeneProduct	Entrez Gene	12262	328.0,80.0
+PIP3	Metabolite	HMDB	HMDB0004249	699.5,194.0
+Pik3cg	GeneProduct	Entrez Gene	30955	139.0,224.0
+Pik3ca	GeneProduct	Entrez Gene	18706	139.0,244.0
+Pik3cd	GeneProduct	Entrez Gene	18707	139.0,264.0
+Pik3cb	GeneProduct	Entrez Gene	74769	139.0,284.0
+Pik3r2	GeneProduct	Entrez Gene	18709	139.0,304.0
+Pik3c3	GeneProduct	Entrez Gene	225326	139.0,324.0
+Pik3c2a	GeneProduct	Entrez Gene	18704	139.0,344.0
+Pik3r6	GeneProduct	Entrez Gene	104709	139.0,364.0
+Pik3r3	GeneProduct	Entrez Gene	18710	139.0,384.0

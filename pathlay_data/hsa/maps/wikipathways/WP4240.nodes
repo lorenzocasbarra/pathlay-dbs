@@ -1,0 +1,19 @@
+TEXT	TYPE	DB	ID	X	Y
+Regulation of sister chromatid separation at the metaphase-anaphase transition	hsa	wikipathways	WP4240
+MAD1L1	GeneProduct	Entrez Gene	8379	150.12885154061624,195.33613445378148
+ESPL1	GeneProduct	Entrez Gene	9700	417.5,261.33333333333337
+CDC20	GeneProduct	Entrez Gene	991	196.0,345.0
+SMC1A	GeneProduct	Entrez Gene	8243	675.0,281.0
+MAD2L1	GeneProduct	Entrez Gene	4085	150.12885154061624,220.33613445378148
+BUB1	GeneProduct	Entrez Gene	699	214.38655462184872,195.33613445378148
+BUB1B	GeneProduct	Entrez Gene	701	214.38655462184872,220.33613445378148
+BUB3	GeneProduct	Entrez Gene	9184	214.38655462184883,245.33613445378148
+CENPE	GeneProduct	Entrez Gene	1062	150.12885154061624,245.33613445378148
+APC	GeneProduct	Entrez Gene	324	168.0,370.0
+PTTG1	GeneProduct	Entrez Gene	9232	417.5,287.0
+ESPL1	GeneProduct	Entrez Gene	9700	671.5,403.0
+PTTG1	GeneProduct	Entrez Gene	9232	434.0,441.0
+SMC3	GeneProduct	Entrez Gene	9126	675.0,306.0
+RAD21	GeneProduct	Entrez Gene	5885	737.0,306.0
+STAG1	GeneProduct	Entrez Gene	10274	737.0,281.0
+ESPL1	GeneProduct	Entrez Gene	9700	493.5,403.0

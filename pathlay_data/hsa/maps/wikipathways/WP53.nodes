@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+ID signaling	hsa	wikipathways	WP53
+RBL1	Protein	Entrez Gene	5933	63.75,721.75
+RB1	Protein	Entrez Gene	5925	119.25,721.25
+ELK3	Protein	Entrez Gene	2004	390.25,721.5
+PAX5 	Protein	Entrez Gene	5079	335.75,721.5
+MYOD1	Protein	Entrez Gene	4654	468.75,721.75
+PAX8 	Protein	Entrez Gene	7849	224.75,721.75
+ELK1 	Protein	Entrez Gene	2002	524.5,721.75
+RBL2	Protein	Entrez Gene	5934	171.625,721.25
+ID3	Protein	Entrez Gene	3399	449.125,546.75
+ELK4 	Protein	Entrez Gene	2005	580.75,721.75
+CCNE1	Protein	Entrez Gene	898	523.5,592.25
+PAX2 	Protein	Entrez Gene	5076	279.75,721.75
+CDK2	Protein	Entrez Gene	1017	523.5,613.25
+SREBF1	Protein	Entrez Gene	6720	429.5,663.75
+ID2	Protein	Entrez Gene	3398	279.6666666666668,547.0
+ID1	Protein	Entrez Gene	3397	580.5,546.0

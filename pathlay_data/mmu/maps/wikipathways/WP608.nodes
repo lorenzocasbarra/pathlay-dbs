@@ -1,0 +1,7 @@
+TEXT	TYPE	DB	ID	X	Y
+miR-1 in cardiac development	mmu	wikipathways	WP608
+mmu-mir-1-1	RNA	miRBase Sequence	MI0000139	254.0,87.0
+mmu-mir-1-2	RNA	miRBase Sequence	MI0000652	254.0,109.0
+Hand2	GeneProduct	Entrez Gene	15111	193.0,197.0
+Irx5	GeneProduct	Entrez Gene	54352	325.0,197.0
+Kcnd2	GeneProduct	Entrez Gene	16508	325.0,286.0

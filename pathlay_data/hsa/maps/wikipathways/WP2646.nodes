@@ -1,0 +1,14 @@
+TEXT	TYPE	DB	ID	X	Y
+Lidocaine metabolism	hsa	wikipathways	WP2646
+2,6-xylidine	Metabolite	KEGG Compound	C11004	548.0,212.0
+3-hydroxymonoethyl glycinexylidide	Metabolite	KEGG Compound	C16572	376.5,354.0
+glycinexylidide	Metabolite	KEGG Compound	C16569	548.0,306.0
+Lidocaine	Metabolite	KEGG Compound	C07073	179.0,212.0
+2-amino-3-methylbenzoate	Metabolite	KEGG Compound	C16571	711.0,106.0
+monoethyl glycinexylidide	Metabolite	PubChem-compound	24415	376.0,212.0
+CYP3A4	GeneProduct	Entrez Gene	1576	265.0,245.0
+CYP1A2	GeneProduct	Entrez Gene	1544	265.0,157.0
+3-hydroxylidocaine	Metabolite	KEGG Compound	C16560	178.0,353.0
+4-hydroxy- 2,6-dimethylaniline	Metabolite	ChEBI	CHEBI:55545	729.5,212.5
+CYP1A2	GeneProduct	Entrez Gene	1544	100.0,282.0
+CYP3A4	GeneProduct	Entrez Gene	1576	265.0,282.0

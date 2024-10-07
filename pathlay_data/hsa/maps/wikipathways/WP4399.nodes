@@ -1,0 +1,11 @@
+TEXT	TYPE	DB	ID	X	Y
+MicroRNA network associated with chronic lymphocytic leukemia	hsa	wikipathways	WP4399
+ZAP70	GeneProduct	Entrez Gene	7535	480.5,350.0
+BCL2	GeneProduct	Entrez Gene	596	198.5,349.0
+TP53	GeneProduct	Entrez Gene	7157	344.5,246.0
+MIR34A	Rna	Ensembl	ENSG00000284357	480.5,221.0
+MIR34B	Rna	Ensembl	ENSG00000207811	480.5,246.0
+MIR34C	Rna	Ensembl	ENSG00000207562	480.5,271.0
+MIR15A	GeneProduct	Entrez Gene	406948	219.5,233.0
+MIR16-1	GeneProduct	Entrez Gene	406950	219.5,258.0
+MCL1	GeneProduct	Entrez Gene	4170	240.0,382.0

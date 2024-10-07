@@ -1,0 +1,33 @@
+TEXT	TYPE	DB	ID	X	Y
+Molybdenum cofactor (Moco) biosynthesis	hsa	wikipathways	WP4507
+Sulfite oxidase	GeneProduct	Entrez Gene	6821	415.5,332.0
+cPMP	Metabolite	KEGG Compound	C18239	222.0,163.0
+Gephyrin (G domain)	GeneProduct	Entrez Gene	10243	149.0,294.25
+Moco	Metabolite	ChEBI	CHEBI:71306	222.0,465.0
+R=N-OH	Metabolite			693.0,425.0
+MOCS1A	Protein	Ensembl	ENSG00000124615	149.0,96.0
+MPT	Metabolite	ChEBI	CHEBI:44074	222.0,250.0
+GTP	Metabolite	KEGG Compound	C00044	222.0,54.0
+Sulfite	Metabolite	KEGG Compound	C00094	693.0,317.0
+Xanthine	Metabolite	KEGG Compound	C00385	693.0,512.0
+MPT-AMP	Metabolite	ChEBI	CHEBI:62728	222.0,356.0
+Amidoxime reducing component	GeneProduct	Entrez Gene	54996	415.5,419.75
+Xanthine oxidase	GeneProduct	Entrez Gene	7498	415.5,555.0
+Aldehyde oxidase	GeneProduct	Entrez Gene	316	415.5,642.0
+Sulfate	Metabolite	KEGG Compound	C00059	693.0,378.0
+R-NH	Metabolite			693.0,478.0
+urate	Metabolite	KEGG Compound	C00366	693.0,561.0
+R-H	Metabolite			693.0,601.0
+R-OH	Metabolite	ChEBI	CHEBI:17478	693.0,650.0
+Sulfite oxidase	GeneProduct	Entrez Gene	6821	569.5,331.0
+Moco	Metabolite	ChEBI	CHEBI:21437	569.5,356.0
+Amidoxime reducing component	GeneProduct	Entrez Gene	54996	569.5,432.75
+Moco	Metabolite	ChEBI	CHEBI:21437	569.5,460.5
+Xanthine oxidase	GeneProduct	Entrez Gene	7498	569.5,521.0
+Moco	Metabolite	ChEBI	CHEBI:21437	569.5,546.0
+Aldehyde oxidase	GeneProduct	Entrez Gene	316	569.5,611.0
+Moco	Metabolite	ChEBI	CHEBI:21437	569.5,636.0
+MOCS1AB	Protein			149.0,121.0
+MOCS2A	GeneProduct	Entrez Gene	4338	149.0,191.0
+MOCS2B	GeneProduct	Entrez Gene	4338	149.0,216.0
+Gephyrin (E domain)	GeneProduct	Entrez Gene	10243	149.0,401.25

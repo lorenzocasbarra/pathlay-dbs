@@ -1,0 +1,15 @@
+TEXT	TYPE	DB	ID	X	Y
+Felbamate metabolism	hsa	wikipathways	WP2816
+atropaldehyde	Metabolite	KEGG Compound	C16592	725.0,144.0
+1.1.1.1	Protein	Enzyme Nomenclature	1.1.1.1	612.0,208.0
+CYP3A4	GeneProduct	Entrez Gene	1576	124.0,202.0
+3-Hydroxy-2-phenylpropyl carbamate	Metabolite	Chemspider	184751	481.5,274.0
+1.2.1.5	Protein	Enzyme Nomenclature	1.2.1.5	852.0,208.0
+3-carbamoyl-2-phenyl propionic acid	Metabolite	PubChem-compound	3025746	973.5,274.0
+3-carbamoyl-2-phenyl propionaldehyde	Metabolite	PubChem-compound	21350391	725.0,274.0
+p-hydroxyfelbamate	Metabolite	KEGG Compound	C16584	241.6999969482422,150.0
+Felbamate	Metabolite	KEGG Compound	C07501	241.6999969482422,274.0
+CYP2E1	GeneProduct	Entrez Gene	1571	124.0,222.0
+CYP3A4	GeneProduct	Entrez Gene	1576	126.0,321.0
+CYP2E1	GeneProduct	Entrez Gene	1571	126.0,341.0
+2-hydroxyfelbamate	Metabolite	KEGG Compound	C16582	241.6999969482422,410.0

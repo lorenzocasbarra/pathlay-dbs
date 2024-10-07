@@ -1,0 +1,11 @@
+TEXT	TYPE	DB	ID	X	Y
+Glial cell differentiation	hsa	wikipathways	WP2276
+PLP1	GeneProduct	Entrez Gene	5354	591.0,112.0
+CNP	GeneProduct	Entrez Gene	1267	591.0,152.0
+TPPP	GeneProduct	Entrez Gene	11076	262.0,244.0
+Hypoxia		Wikidata	Q105688	262.0,119.0
+miR-206	GeneProduct	Ensembl	ENSG00000207604	262.0,314.0
+GAP43	GeneProduct	Entrez Gene	2596	79.0,73.0
+MSN	GeneProduct	Entrez Gene	4478	604.25,241.75
+MBP	GeneProduct	Entrez Gene	4155	591.0,92.0
+MAG	GeneProduct	Entrez Gene	4099	591.0,132.0

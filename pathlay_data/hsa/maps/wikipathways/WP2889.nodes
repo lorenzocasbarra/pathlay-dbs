@@ -1,0 +1,15 @@
+TEXT	TYPE	DB	ID	X	Y
+Oxytocin signaling	hsa	wikipathways	WP2889
+MAPK signalling pathway	Pathway			273.0,183.25
+Contraction (myometrial cell,  mammary gland myoepithelial cell)	Pathway			755.0,183.25
+PLC	GeneProduct	Entrez Gene	5333	377.0,118.0
+OXTR	GeneProduct	Entrez Gene	5021	170.0,119.0
+Oxytocin release  (OXT neurons)	Pathway			309.5,61.5
+Ca2+	Metabolite	KEGG Compound	C00076	451.0,61.5
+PKC isozyme family	Protein	Enzyme Nomenclature	2.7.11.13	602.0,117.80952380952382
+CD38	GeneProduct	Entrez Gene	952	602.0,28.0
+Gq	GeneProduct	Entrez Gene	2776	273.0,118.0
+Protein synthesis	Pathway			784.0,118.0
+Oxytocin	Metabolite	KEGG Compound	C00746	58.0,118.0
+IP3	Metabolite	PubChem-compound	439456	485.75,183.25
+DAG	Metabolite	ChEBI	CHEBI:49172	485.75,118.0

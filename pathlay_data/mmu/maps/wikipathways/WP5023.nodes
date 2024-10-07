@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+Hypoxia-dependent self-renewal of myoblasts	mmu	wikipathways	WP5023
+Hey1	GeneProduct	Entrez Gene	15213	236.88952780216948,287.67733620372195
+Hes1	GeneProduct	Entrez Gene	15205	431.8895278021704,288.67733620372195
+Hey2	GeneProduct	Entrez Gene	15214	332.563946406821,288.67733620372195
+MYF5	GeneProduct	Entrez Gene	17877	664.0,368.0
+Myotube formation				819.5,237.0
+MYH	GeneProduct	Entrez Gene	17879	764.0,368.0
+RB	GeneProduct			688.0000000000001,202.0
+MYOD1	GeneProduct	Entrez Gene	17927	433.0,368.0
+CDKN1A	GeneProduct	Entrez Gene	12575	688.0,132.0
+Self renewal	Pathway			571.0,533.0
+PAX7	GeneProduct	Entrez Gene	18509	571.0,451.0
+MYOG	GeneProduct	Entrez Gene	17928	565.5,368.0
+miR206	Rna			335.00000000000006,404.4619292324346
+Notch pathway	GeneProduct	Entrez Gene	18128	332.5116279069767,258.8372093023256
+MAPK14	GeneProduct	HGNC	MAPK14	860.0,58.0
+FoxO1	GeneProduct	Entrez Gene	56458	137.0,260.0
+HIF1a	GeneProduct	Entrez Gene	15251	566.0,201.0
+WNT non canonical	Pathway			565.5,260.0
+miR1 	Rna			335.00000000000006,366.5799404386984
+HSP90	GeneProduct	Ensembl	ENSMUSG00000020048	462.0,128.125
+Hypoxia		Wikidata	Q105688	575.0,56.0

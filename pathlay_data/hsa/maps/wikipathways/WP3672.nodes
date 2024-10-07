@@ -1,0 +1,20 @@
+TEXT	TYPE	DB	ID	X	Y
+lncRNA-mediated mechanisms of therapeutic resistance	hsa	wikipathways	WP3672
+WNT6	GeneProduct	Entrez Gene	7475	184.0,231.0
+G0/G1 cell cycle arrest	Pathway			310.5,314.0
+HIF1A	GeneProduct	Entrez Gene	3091	827.0,384.0
+MEG3	RNA	Ensembl	ENSG00000214548	474.0,159.0
+linc-RoR	RNA	Ensembl	ENSG00000258609	888.0,159.0
+MRUL	RNA			69.75,231.0
+HOTAIR	RNA	Ensembl	ENSG00000228630	310.6666666666665,159.0
+AK126698	RNA	Ensembl	ENSG00000203601	69.75,159.0
+Apoptosis	Pathway	WikiPathways	WP254	423.0,370.0
+linc-VLDLR	RNA	Entrez Gene	401491	604.0,159.0
+UCA1	RNA	Ensembl	ENSG00000214049	184.33333333333343,159.0
+Cell proliferation	Pathway			519.0,369.0
+P-gp	GeneProduct	Ensembl	ENSG00000085563	69.75,314.0
+Bcl-xl	GeneProduct	Ensembl	ENSG00000171552	507.0,231.0
+TP53	GeneProduct	Entrez Gene	7157	439.0,231.0
+p21	GeneProduct	Entrez Gene	644914	311.0,231.0
+EV linc-RoR	RNA	Ensembl	ENSG00000258609	888.0,231.0
+EV linc-VLDLR	RNA	Entrez Gene	401491	604.0,231.0

@@ -1,0 +1,7 @@
+TEXT	TYPE	DB	ID	X	Y
+Aripiprazole metabolic pathway	hsa	wikipathways	WP2640
+CYP2D6	GeneProduct	Entrez Gene	1565	311.0,38.0
+aripiprazole	Metabolite	KEGG Compound	C12564	211.0,86.0
+dehydroaripiprazole	Metabolite	PubChem-compound	10114519	427.0,86.0
+Product	Metabolite	ChEBI	CHEBI:25212	211.0,193.0
+CYP3A43	GeneProduct	Entrez Gene	64816	121.0,139.0

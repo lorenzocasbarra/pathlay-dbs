@@ -1,0 +1,15 @@
+TEXT	TYPE	DB	ID	X	Y
+Sialylation 	hsa	wikipathways	WP5151
+CMP-N-acetyl-beta-neuraminic acid	Metabolite	ChEBI	CHEBI:16556	260.25,627.0
+	UDP-N-acetyl-alpha-D-glucosamine	Metabolite	ChEBI	CHEBI:16264	260.25,192.0
+GNE	GeneProduct	Entrez Gene	10020	140.3169299311462,269.7849331713244
+Aldehydo-N-acetyl-D-mannosamine 6-phosphate	Metabolite	ChEBI	CHEBI:28273	260.25,348.75
+NANS	GeneProduct	Entrez Gene	54187	165.83333333333334,381.0
+NANP	GeneProduct	Entrez Gene	54187	165.83333333333334,454.0
+CMAS	GeneProduct	Entrez Gene	55907	315.1258790436006,575.1293952180031
+SLC35A1	GeneProduct	Entrez Gene	10559	344.16666666666583,727.0000000000005
+N-acetyl-D-mannosamine	Metabolite	KEGG Compound	C00645	260.25,269.78493317132444
+N-acetylneuraminic acid 9-phosphate	Metabolite	ChEBI	CHEBI:27438	260.25,419.75
+N-acetylneuraminic acid	Metabolite	KEGG Compound	C00270	260.25,490.0
+CMP-N-acetyl-beta-neuraminic acid	Metabolite	ChEBI	CHEBI:16556	260.25,806.6666666666663
+Glucose	Metabolite	KEGG Compound	C00031	260.25,120.0

@@ -1,0 +1,97 @@
+TEXT	TYPE	DB	ID	X	Y
+Oxidation by cytochrome P450	mmu	wikipathways	WP1274
+Cyp26a1	GeneProduct	Entrez Gene	13082	911.0,246.0
+CYP4F11	GeneProduct			813.0,270.0
+Cyb5b	GeneProduct	Entrez Gene	66427	268.0,457.0
+CYP	GeneProduct	Entrez Gene	228005	336.0,48.0
+NADPH	Metabolite	KEGG Compound	C00005	236.0,51.0
+CYP2C8	GeneProduct			716.0,214.0
+CYP2B6	GeneProduct			716.0,190.0
+Cyb5r1	GeneProduct	Entrez Gene	72017	162.0,503.0
+Cyp4f39	GeneProduct	Entrez Gene	320997	813.0,310.0
+Cyb5	GeneProduct	Entrez Gene	109672	428.0,430.0
+CYP	GeneProduct	Entrez Gene	228005	247.0,313.0
+O2	Metabolite	KEGG Compound	C00007	141.0,250.0
+CYP4Z1	GeneProduct			813.0,382.0
+CYP	GeneProduct	Entrez Gene	228005	207.0,167.0
+CYP4F8	GeneProduct			813.0,250.0
+Cyp1b1	GeneProduct	Entrez Gene	13078	716.0,102.0
+CYP2C18	GeneProduct			716.0,254.0
+Cyb5r4	GeneProduct	Entrez Gene	266690	162.0,563.0
+CYP4A22	GeneProduct			813.0,162.0
+O2	Metabolite	KEGG Compound	C00007	248.0,352.0
+Cyb5b	GeneProduct	Entrez Gene	66427	237.0,627.0
+Cyb5r2	GeneProduct	Entrez Gene	320635	162.0,523.0
+Fe3+	Metabolite	KEGG Compound	C14819	557.0,172.0
+Cyp11b1	GeneProduct	Entrez Gene	110115	911.0,82.0
+Cyp27b1	GeneProduct	Entrez Gene	13115	911.0,330.0
+CYP2A6	GeneProduct			716.0,126.0
+Cyp4f18	GeneProduct	Entrez Gene	72054	813.0,230.0
+Cyp26c1	GeneProduct	Entrez Gene	546726	911.0,290.0
+CYP	GeneProduct	Entrez Gene	228005	499.0,172.0
+Water	Metabolite	KEGG Compound	C00001	563.0,246.0
+Cyp51	GeneProduct	Entrez Gene	13121	911.0,410.0
+activated O2	Metabolite			438.0,350.0
+CYP4A11	GeneProduct			813.0,142.0
+CYP2A7	GeneProduct			716.0,146.0
+Cyb5b	GeneProduct	Entrez Gene	66427	427.0,450.0
+Cyp7b1	GeneProduct	Entrez Gene	13123	813.0,454.0
+CYP	GeneProduct	Entrez Gene	228005	438.0,311.0
+Cyp19a1	GeneProduct	Entrez Gene	13075	911.0,150.0
+Cyp21a1	GeneProduct	Entrez Gene	13079	911.0,198.0
+CYP3A43	GeneProduct			813.0,118.0
+Cyp26b1	GeneProduct	Entrez Gene	232174	911.0,270.0
+Cyp7a1	GeneProduct	Entrez Gene	13122	813.0,430.0
+CYP3A4	GeneProduct			813.0,58.0
+AC161058.2-1	GeneProduct	Ensembl	ENSMUSG00000029541	716.0,490.0
+Substrate	GeneProduct			247.0,333.0
+Cyp8b1	GeneProduct	Entrez Gene	13124	813.0,478.0
+Substrate-OH	GeneProduct			617.0,206.0
+NADP+	Metabolite	KEGG Compound	C00006	150.0,117.0
+Cyp2s1	GeneProduct	Entrez Gene	74134	716.0,442.0
+Cyp39a1	GeneProduct	Entrez Gene	56050	911.0,370.0
+Cyp2r1	GeneProduct	Entrez Gene	244209	716.0,418.0
+Cyp46a1	GeneProduct	Entrez Gene	13116	911.0,390.0
+Cyp4b1	GeneProduct	Entrez Gene	13120	813.0,186.0
+Cyp1a2	GeneProduct	Entrez Gene	13077	716.0,78.0
+Cyp4v3	GeneProduct	Entrez Gene	102294	813.0,334.0
+Cyp2u1	GeneProduct	Entrez Gene	71519	716.0,466.0
+CYP2J2	GeneProduct			716.0,394.0
+CYP2G1P	GeneProduct			716.0,370.0
+Cyp4x1	GeneProduct	Entrez Gene	81906	813.0,358.0
+Fe3+	Metabolite	KEGG Compound	C14819	485.0,429.0
+Cyp51	GeneProduct	Entrez Gene	13121	813.0,406.0
+Cyp2e1	GeneProduct	Entrez Gene	13106	716.0,322.0
+Cyp11a1	GeneProduct	Entrez Gene	13070	911.0,58.0
+Cyp20a1	GeneProduct	Entrez Gene	77951	911.0,174.0
+Fe3+	Metabolite	KEGG Compound	C14819	394.0,48.0
+Por	GeneProduct	Entrez Gene	18984	160.0,86.0
+Cyp17a1	GeneProduct	Entrez Gene	13074	911.0,126.0
+Fe2+	Metabolite	KEGG Compound	C14818	305.0,313.0
+CYP4F2	GeneProduct			813.0,210.0
+Fe2+	Metabolite	KEGG Compound	C14818	326.0,437.0
+Substrate	GeneProduct			336.0,68.0
+CYP3A5	GeneProduct			813.0,78.0
+Cyp27a1	GeneProduct	Entrez Gene	104086	911.0,310.0
+CYP2A13	GeneProduct			716.0,166.0
+Substrate	GeneProduct			438.0,331.0
+Cyp2f2	GeneProduct	Entrez Gene	13107	716.0,346.0
+Fe2+	Metabolite	KEGG Compound	C14818	265.0,167.0
+Substrate	GeneProduct			616.0,111.0
+CYP2C19	GeneProduct			716.0,274.0
+CYP27C1	GeneProduct			911.0,350.0
+Fe3+	Metabolite	KEGG Compound	C14819	295.0,607.0
+Cyb5r3	GeneProduct	Entrez Gene	109754	162.0,543.0
+Cyp11b2	GeneProduct	Entrez Gene	13072	911.0,102.0
+Cyp24a1	GeneProduct	Entrez Gene	13081	911.0,222.0
+CYP2C9	GeneProduct			716.0,234.0
+CYP4F12	GeneProduct			813.0,290.0
+Substrate	GeneProduct			207.0,187.0
+Cyp1a1	GeneProduct	Entrez Gene	13076	716.0,58.0
+Fe2+	Metabolite	KEGG Compound	C14818	496.0,311.0
+Cyb5	GeneProduct	Entrez Gene	109672	237.0,607.0
+Cyb5	GeneProduct	Entrez Gene	109672	268.0,435.5
+CYP2D6	GeneProduct			716.0,298.0
+CYP3A7	GeneProduct			813.0,98.0
+NADH	Metabolite	KEGG Compound	C00004	351.0,555.0
+NAD+	Metabolite	KEGG Compound	C00003	351.0,489.0

@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+15q11.2 copy number variation syndrome	hsa	wikipathways	WP4940
+ELMO2P1	GeneProduct	Entrez Gene	729894	447.0,122.0
+Gamma tubulin complex	Complex			367.0,291.0
+TUBGCP5	GeneProduct	Entrez Gene	114791	367.0,122.0
+NIPA2	GeneProduct	Entrez Gene	81614	207.0,122.0
+TUBGCP6	GeneProduct	Entrez Gene	85378	367.0,417.0
+TUBGCP4	GeneProduct	Entrez Gene	27229	367.0,367.0
+Fragile X syndrome	Pathway	WikiPathways	WP4549	288.0,234.0
+Mg2+	Metabolite	KEGG Compound	C00305	168.0,200.0
+TUBGCP2	GeneProduct	Entrez Gene	10844	367.0,317.0
+NIPA1	GeneProduct	Entrez Gene	123606	127.0,122.0
+CYFIP1	GeneProduct	Entrez Gene	23191	287.0,122.0
+TUBGCP3	GeneProduct	Entrez Gene	10426	367.0,342.0
+FMR1	GeneProduct	Entrez Gene	2332	287.0,177.0
+TUBGCP5	GeneProduct	Entrez Gene	114791	367.0,392.0

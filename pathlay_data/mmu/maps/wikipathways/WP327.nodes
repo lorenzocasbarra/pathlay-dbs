@@ -1,0 +1,17 @@
+TEXT	TYPE	DB	ID	X	Y
+GPCRs, class C metabotropic glutamate, pheromone	mmu	wikipathways	WP327
+Grm1	GeneProduct	Entrez Gene	14816	101.0,154.33333333333334
+Grm5	GeneProduct	Entrez Gene	108071	101.0,174.33333333333334
+Grm2	GeneProduct	Entrez Gene	108068	101.0,194.33333333333334
+Grm3	GeneProduct	Entrez Gene	108069	101.0,214.33333333333334
+Grm8	GeneProduct	Entrez Gene	14823	101.0,234.33333333333334
+Grm4	GeneProduct	Entrez Gene	268934	101.0,254.33333333333334
+Grm7	GeneProduct	Entrez Gene	108073	101.0,274.3333333333333
+GRM6	GeneProduct	Entrez Gene	108072	101.0,294.3333333333333
+Casr	GeneProduct	Entrez Gene	12374	100.0,363.3333333333333
+Gabbr1	GeneProduct	Entrez Gene	54393	264.0,157.33333333333334
+Gabbr2	GeneProduct	Entrez Gene	242425	264.0,177.33333333333334
+Gprc5d	GeneProduct	Entrez Gene	93746	264.0,245.33333333333334
+Gprc5c	GeneProduct	Entrez Gene	70355	264.0,265.3333333333333
+Gprc5b	GeneProduct	Entrez Gene	64297	264.0,285.3333333333333
+Gprc5a	GeneProduct	Entrez Gene	232431	264.0,305.3333333333333

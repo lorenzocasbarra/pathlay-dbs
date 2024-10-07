@@ -1,0 +1,29 @@
+TEXT	TYPE	DB	ID	X	Y
+mRNA vaccine activation of dendritic cell and induction of IFN-1	hsa	wikipathways	WP5187
+Spike Protein	Protein	Uniprot-TrEMBL	P0DTC2	455.25,350.25
+S peptide presentation	GeneProduct	Entrez Gene	3140	733.25,355.75
+MAVS	GeneProduct	Entrez Gene	57506	197.25,556.25
+IRF-7	GeneProduct	Entrez Gene	3665	492.0,659.7971801757812
+IRF3	GeneProduct	Entrez Gene	3661	373.0,659.7971801757812
+Type 1 IFNs	GeneProduct			588.75,768.75
+RIG-I (DDX58)	GeneProduct	Entrez Gene	23586	195.75,458.75
+SARS-CoV 2 mRNA	Rna			193.0,159.0
+Cellular immunity				1096.25,546.75
+MDA5	GeneProduct	Entrez Gene	64135	321.0,457.0
+T cell receptor	Protein	Uniprot-TrEMBL	P01848	952.75,354.25
+TLR3	GeneProduct	Entrez Gene	7098	604.25,533.25
+IFN-1 receptor	Protein			997.25,448.75
+NF-kB	GeneProduct	Entrez Gene	8792	202.0,659.7971801757812
+Humoral immunity				1086.25,119.75
+Proinflammatory cytokine genes				249.75,813.25
+Proinflammatory cytokines	GeneProduct			609.5,819.25
+ISRE				361.25,758.25
+SARS-CoV 2 mRNA	Rna			193.5,333.0
+TLR7	GeneProduct	Entrez Gene	51284	448.25,452.25
+TLR8	GeneProduct	Entrez Gene	51311	493.25,548.25
+SARS-CoV 2 mRNA	Rna			543.5,491.0
+Type 1 IFNs	GeneProduct			823.75,450.75
+S peptide presentation	GeneProduct	Entrez Gene	3140	726.25,696.75
+T cell receptor	Protein	Uniprot-TrEMBL	P01848	964.75,695.25
+IFN-1 receptor	Protein			973.25,785.75
+Type 1 IFNs	GeneProduct			809.75,786.75

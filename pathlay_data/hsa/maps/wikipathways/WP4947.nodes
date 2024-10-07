@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+Nitric oxide metabolism in cystic fibrosis	hsa	wikipathways	WP4947
+NOS1 	GeneProduct	Ensembl	ENSG00000089250	63.0,111.0
+DDAH1	GeneProduct	Entrez Gene	23576	323.0,354.0
+DDAH2	GeneProduct	Entrez Gene	23564	323.0,374.0
+PRMT1	GeneProduct	Entrez Gene	3276	697.0,74.0
+PRMT2	GeneProduct	Entrez Gene	3275	697.0,94.0
+PRMT3	GeneProduct	Entrez Gene	10196	697.0,114.0
+CARM1	GeneProduct	Entrez Gene	10498	697.0,134.0
+PRMT5	GeneProduct	Entrez Gene	10419	697.0,154.0
+PRMT6	GeneProduct	Entrez Gene	55170	697.0,174.0
+PRMT7	GeneProduct	Entrez Gene	54496	697.0,194.0
+PRMT8	GeneProduct	Entrez Gene	56341	697.0,214.0
+L-Arginine	Metabolite	KEGG Compound	C00062	184.0,91.0
+Carboxyl anhydrase	GeneProduct	Pfam	PF00194	164.125,398.75
+Nω,Nω- dimethyl- L- arginine	Metabolite	ChEBI	17929	411.625,318.25
+NOS3	GeneProduct	Entrez Gene	4846	63.0,151.0
+NOS2	GeneProduct	Entrez Gene	4843	63.0,131.0
+L-arginine residue	Metabolite	ChEBI	29952	512.0,105.0
+NO-signaling	Pathway	WikiPathways	WP1850	63.0,186.0
+Nitric oxide	Metabolite	KEGG Compound	C00533	184.0,186.0
+Nitrogen dioxide	Metabolite	ChEBI	33101	184.0,283.0
+Nitrooxidanyl	Metabolite	ChEBI	29329	63.0,284.0
+Dimethylamine	Metabolite	KEGG Compound	C00543	413.0,414.0
+Nω,N'ω-dimethyl-L-arginine	Metabolite	ChEBI	25682	629.625,320.25
+Nω,Nω-dimethyl-L-arginine residue	Metabolite	ChEBI	61896	514.5,198.0

@@ -1,0 +1,192 @@
+TEXT	TYPE	DB	ID	X	Y
+Retinoblastoma gene in cancer	hsa	wikipathways	WP2446
+ORC1	GeneProduct	Entrez Gene	4998	556.0,1037.5
+RAF1	GeneProduct	Entrez Gene	5894	206.0,136.0
+FAF1	GeneProduct	Entrez Gene	11124	1283.0,664.0
+MCM7	GeneProduct	Entrez Gene	4176	476.0,1037.0
+RPA1	GeneProduct	Entrez Gene	6117	476.0,1057.0
+CCNB2	GeneProduct	Entrez Gene	9133	483.6574074074074,565.8425925925926
+CDC45	GeneProduct	Entrez Gene	8318	556.0,977.5
+mitotic cell cycle	Pathway	WikiPathways	WP179	695.5,971.0
+SMC2	GeneProduct	Entrez Gene	10592	700.6851851851852,633.9444444444442
+PLK4	GeneProduct	Entrez Gene	10733	546.0,635.0
+MCM7	GeneProduct	Entrez Gene	4176	585.0,138.0
+ANLN	GeneProduct	Entrez Gene	54443	1283.0,644.0
+NPAT	GeneProduct	Entrez Gene	4863	964.159663865546,774.2619047619044
+RRM2	GeneProduct	Entrez Gene	6241	554.0,879.0
+MCM3	GeneProduct	Entrez Gene	4172	476.0,977.0
+TYMS	GeneProduct	Entrez Gene	7298	554.0,919.0
+POLA1	GeneProduct	Entrez Gene	5422	853.0,788.5
+M/G1 transition of mitotic cell cycle	Pathway			1066.486111111111,863.0
+MDM2	GeneProduct	Entrez Gene	4193	348.0,257.0
+CDT1	GeneProduct	Entrez Gene	81620	1077.0,713.5
+G1/S transition of mitotic cell cycle	Pathway	WikiPathways	WP45	1163.9398148148146,836.0
+DNA replication checkpoint	Pathway			1258.0833333333335,745.0
+MSH6	GeneProduct	Entrez Gene	2956	780.6851851851852,673.9444444444442
+cell cycle checkpoint	Pathway			821.0,1052.0
+HMGB1	GeneProduct	Entrez Gene	3146	1203.0,664.0
+growth factor activity	Pathway			1007.5,313.0
+CDK1	GeneProduct	Entrez Gene	983	476.0,957.0
+SUV39H1	GeneProduct	Entrez Gene	6839	714.0,449.0
+KIF4A	GeneProduct	Entrez Gene	24137	1363.0,684.0
+RFC5	GeneProduct	Entrez Gene	5985	384.0,1077.0
+MIR29B2	GeneProduct	Entrez Gene	407025	772.6666666666665,248.0
+DNA replication	Pathway	WikiPathways	WP466	1037.0,590.0
+RFC4	GeneProduct	Entrez Gene	5984	384.0,1057.0
+MIR29B1	GeneProduct	Entrez Gene	407024	772.6666666666665,228.0
+CCNE2	GeneProduct	Entrez Gene	9134	656.0,835.0
+E2F1	GeneProduct	Entrez Gene	1869	61.0,348.0
+SAP30	GeneProduct	Entrez Gene	8819	62.0,676.0
+CCDC6	GeneProduct	Entrez Gene	8030	737.0,855.0
+MCM6	GeneProduct	Entrez Gene	4175	476.0,1017.0
+RABIF	GeneProduct	Entrez Gene	5877	1203.0,704.0
+regulation of cyclin-dependent protein kinase activity	Pathway			1057.1064814814813,910.0
+DNA repair	Pathway	WikiPathways	WP1805	898.0,600.0
+BARD1	GeneProduct	Entrez Gene	580	780.6851851851852,653.9444444444442
+POLD3	GeneProduct	Entrez Gene	10714	1283.0,684.0
+CDK4	GeneProduct	Entrez Gene	1019	536.0,295.0
+MCM4	GeneProduct	Entrez Gene	4173	476.0,997.0
+PRIM1	GeneProduct	Entrez Gene	5557	853.0,808.5
+CDK2	GeneProduct	Entrez Gene	1017	371.0,103.0
+MIR21	RNA	Ensembl	ENSG00000284190	748.8931082981717,919.2053445850916
+POLE	GeneProduct	Entrez Gene	5426	556.0,1017.5
+CCND3	GeneProduct	Entrez Gene	896	656.0,855.0
+CDC25A	GeneProduct	Entrez Gene	993	656.0,875.0
+PRMT2	GeneProduct	Entrez Gene	3275	419.68907563025186,321.3529411764707
+CDC25B	GeneProduct	Entrez Gene	994	546.0,655.0
+G1/S transition of mitotic cell cycle	Pathway	WikiPathways	WP45	522.4675925925926,500.5787037037036
+CDKN1A	GeneProduct	Entrez Gene	1026	371.0,26.0
+RPA3	Protein	Entrez Gene	6119	757.4074410163339,170.80626134301266
+CCNB1	GeneProduct	Entrez Gene	891	737.0,815.0
+POLE2	GeneProduct	Entrez Gene	5427	853.0,828.5
+RBBP7	GeneProduct	Entrez Gene	5931	62.0,716.0
+CDKN1B	GeneProduct	Entrez Gene	1027	249.0,100.0
+DCK	GeneProduct	Entrez Gene	1633	1363.0,664.0
+MAP kinase activity	Pathway	WikiPathways	WP382	757.0,313.00000000000006
+SMARCA2	GeneProduct	Entrez Gene	6595	1363.0,704.0
+TOP2A	GeneProduct	Entrez Gene	7153	913.0,655.0
+WEE1	GeneProduct	Entrez Gene	7465	556.0,1057.5
+CCNE1	GeneProduct	Entrez Gene	898	656.0,815.0
+DHFR	GeneProduct	Entrez Gene	1719	554.0,899.0
+SMC3	GeneProduct	Entrez Gene	9126	700.6851851851852,653.9444444444442
+SKP2	GeneProduct	Entrez Gene	6502	98.0,56.0
+ABL1	GeneProduct	Entrez Gene	25	647.5553539019965,73.90744101633393
+TFDP1	GeneProduct	Entrez Gene	7027	61.0,368.0
+G2/M transition of mitotic cell cycle	Pathway	WikiPathways	WP1859	739.2916666666665,588.0
+ABL1	GeneProduct	Entrez Gene	25	492.13432835820845,109.34328358208944
+CCND1	GeneProduct	Entrez Gene	595	536.0,315.0
+JNK cascade	Pathway			878.0,125.0
+SIN3A	GeneProduct	Entrez Gene	25942	62.0,696.0
+MAPK13	GeneProduct	Entrez Gene	5603	563.0,200.0
+DNMT1	GeneProduct	Entrez Gene	1786	267.0,778.0
+CCNE1	GeneProduct	Entrez Gene	898	371.0,83.0
+H2AFZ	GeneProduct	Entrez Gene	3015	1283.0,704.0
+TTK	GeneProduct	Entrez Gene	7272	1029.0,639.0
+histone H3-K9 methylation	Pathway			905.5277777777777,419.0
+SMC1A	GeneProduct	Entrez Gene	8243	384.0,1117.0
+RPA2	Protein	Entrez Gene	6118	757.4074410163339,151.05626134301264
+CHEK1	GeneProduct	Entrez Gene	1111	384.0,1017.0
+RPA1	Protein	Entrez Gene	6117	757.4074410163339,131.05626134301266
+RBP1	GeneProduct	Entrez Gene	5947	60.0,477.0
+RB1	GeneProduct	Entrez Gene	5925	388.0,194.0
+CDK1	GeneProduct	Entrez Gene	983	737.0,835.0
+HMGB2	GeneProduct	Entrez Gene	3148	1203.0,684.0
+TP53	GeneProduct	Entrez Gene	7157	559.0,435.0
+CDC7	GeneProduct	Entrez Gene	8317	556.0,997.5
+PRKDC	GeneProduct	Entrez Gene	5591	700.6851851851852,673.9444444444442
+HDAC1	GeneProduct	Entrez Gene	3065	60.0,497.0
+HLTF	GeneProduct	Entrez Gene	6596	1203.0,644.0
+MYC	GeneProduct	Entrez Gene	4609	647.5553539019966,39.79673321234117
+CDKN1B	GeneProduct	Entrez Gene	1027	256.0,44.0
+FANCG	GeneProduct	Entrez Gene	2189	384.0,1097.0
+DNA damage response, signal transduction  resulting in induction of apoptosis	Pathway	WikiPathways	WP707	972.0,192.5
+RBBP4	GeneProduct	Entrez Gene	5928	62.0,736.0
+PCNA	GeneProduct	Entrez Gene	5111	964.159663865546,794.2619047619044
+CCNA2	GeneProduct	Entrez Gene	890	483.6574074074074,585.8425925925926
+STMN1	GeneProduct	Entrez Gene	3925	1029.0,659.0
+RRM1	GeneProduct	Entrez Gene	6240	913.0,635.0
+RFC3	GeneProduct	Entrez Gene	5983	384.0,1037.0
+RB1	GeneProduct	Entrez Gene	5925	61.0,328.0
+RB1	GeneProduct	Entrez Gene	5925	492.13432835820845,89.34328358208947
+TFDP1	GeneProduct	Entrez Gene	7027	60.0,457.0
+E2F1	GeneProduct	Entrez Gene	1869	60.0,437.0
+RB1	GeneProduct	Entrez Gene	5925	60.0,417.0
+SKP2	GeneProduct	Entrez Gene	6502	256.0,24.0
+RB1	GeneProduct	Entrez Gene	5925	98.0,76.0
+TFDP1	GeneProduct	Entrez Gene	7027	433.0,786.0
+E2F2	GeneProduct	Entrez Gene	1870	433.0,766.0
+ZNF655	Protein	Entrez Gene	79027	797.0,27.0
+RB1	GeneProduct	Entrez Gene	5925	797.0,47.0
+RB1	GeneProduct	Entrez Gene	5925	348.0,237.0
+MDM2	GeneProduct	Entrez Gene	4193	66.0,1061.0
+TFDP1	GeneProduct	Entrez Gene	7027	66.0,1101.0
+E2F1	GeneProduct	Entrez Gene	1869	66.0,1081.0
+MDM2	GeneProduct	Entrez Gene	4193	521.0,381.0
+RBP1	GeneProduct	Entrez Gene	5947	267.0,738.0
+HDAC1	GeneProduct	Entrez Gene	3065	267.0,758.0
+TFDP1	GeneProduct	Entrez Gene	7027	267.0,718.0
+E2F1	GeneProduct	Entrez Gene	1869	267.0,698.0
+RB1	GeneProduct	Entrez Gene	5925	267.0,678.0
+RB1	GeneProduct	Entrez Gene	5925	585.0,158.0
+TFDP1	GeneProduct	Entrez Gene	7027	714.0,429.0
+E2F1	GeneProduct	Entrez Gene	1869	714.0,409.0
+RB1	GeneProduct	Entrez Gene	5925	714.0,389.0
+RB1	GeneProduct	Entrez Gene	5925	206.0,156.0
+RB1	GeneProduct	Entrez Gene	5925	419.68907563025186,341.3529411764707
+TP53	GeneProduct	Entrez Gene	7157	526.0,26.0
+E2F1	GeneProduct	Entrez Gene	1869	964.159663865546,754.2619047619044
+E2F3	GeneProduct	Entrez Gene	1871	554.0,839.0
+TFDP1	GeneProduct	Entrez Gene	7027	554.0,859.0
+G1/S transition of mitotic cell cycle	Pathway	WikiPathways	WP45	959.3811252268603,1019.0
+TFDP1	GeneProduct	Entrez Gene	7027	65.0,944.0
+E2F1	GeneProduct	Entrez Gene	1869	65.0,924.0
+TFDP1	GeneProduct	Entrez Gene	7027	172.0,946.0
+E2F2	GeneProduct	Entrez Gene	1870	172.0,926.0
+TFDP1	GeneProduct	Entrez Gene	7027	278.0,948.0
+E2F3	GeneProduct	Entrez Gene	1869	278.0,928.0
+regulation of cyclin-dependent protein kinase activity	Pathway			772.6666666666663,562.0
+mitotic spindle organization	Pathway			1200.435185185185,609.0
+TFDP2	GeneProduct	Entrez Gene	7029	65.0,1012.0
+E2F1	GeneProduct	Entrez Gene	1869	65.0,992.0
+TFDP2	GeneProduct	Entrez Gene	7029	172.0,1014.0
+E2F2	GeneProduct	Entrez Gene	1870	172.0,994.0
+TFDP2	GeneProduct	Entrez Gene	7029	278.0,1015.0
+E2F3	GeneProduct	Entrez Gene	1869	278.0,995.0
+RBP1	GeneProduct	Entrez Gene	5947	169.0,478.0
+HDAC1	GeneProduct	Entrez Gene	3065	169.0,498.0
+TFDP1	GeneProduct	Entrez Gene	7027	169.0,458.0
+E2F2	GeneProduct	Entrez Gene	1870	169.0,438.0
+RB1	GeneProduct	Entrez Gene	5925	169.0,418.0
+RBP1	GeneProduct	Entrez Gene	5947	277.0,481.0
+HDAC1	GeneProduct	Entrez Gene	3065	277.0,501.0
+TFDP1	GeneProduct	Entrez Gene	7027	277.0,461.0
+E2F3	GeneProduct	Entrez Gene	1871	277.0,441.0
+RB1	GeneProduct	Entrez Gene	5925	277.0,421.0
+RBP1	GeneProduct	Entrez Gene	5947	61.0,604.0
+HDAC1	GeneProduct	Entrez Gene	3065	61.0,624.0
+TFDP2	GeneProduct	Entrez Gene	7029	61.0,584.0
+E2F1	GeneProduct	Entrez Gene	1869	61.0,564.0
+RB1	GeneProduct	Entrez Gene	5925	61.0,544.0
+RBP1	GeneProduct	Entrez Gene	5947	168.0,605.0
+HDAC1	GeneProduct	Entrez Gene	3065	168.0,625.0
+TFDP2	GeneProduct	Entrez Gene	7029	168.0,585.0
+E2F2	GeneProduct	Entrez Gene	1870	168.0,565.0
+RB1	GeneProduct	Entrez Gene	5925	168.0,545.0
+RBP1	GeneProduct	Entrez Gene	5947	276.0,608.0
+HDAC1	GeneProduct	Entrez Gene	3065	276.0,628.0
+TFDP2	GeneProduct	Entrez Gene	7029	276.0,588.0
+E2F3	GeneProduct	Entrez Gene	1871	276.0,568.0
+RB1	GeneProduct	Entrez Gene	5925	276.0,548.0
+RBP1	GeneProduct	Entrez Gene	5947	142.0,736.0
+HDAC1	GeneProduct	Entrez Gene	3065	102.0,756.0
+TFDP2	GeneProduct	Entrez Gene	7029	142.0,716.0
+E2F1	GeneProduct	Entrez Gene	1869	142.0,696.0
+RB1	GeneProduct	Entrez Gene	5925	142.0,676.0
+E2F2	GeneProduct	Entrez Gene	1870	169.0,350.0
+TFDP1	GeneProduct	Entrez Gene	7027	169.0,370.0
+RB1	GeneProduct	Entrez Gene	5925	169.0,330.0
+E2F3	GeneProduct	Entrez Gene	1871	276.0,351.0
+TFDP1	GeneProduct	Entrez Gene	7027	276.0,371.0
+RB1	GeneProduct	Entrez Gene	5925	276.0,331.0
+CDK6	GeneProduct	Entrez Gene	1021	636.0,238.0
+CCND1	GeneProduct	Entrez Gene	595	636.0,258.0

@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Serotonin transporter activity	hsa	wikipathways	WP1455
+SCAMP2	GeneProduct	Entrez Gene	10066	270.0,95.0
+Hic-5	GeneProduct	Entrez Gene	7041	108.48333333333333,285.98333333333335
+SLC6A4	GeneProduct	Entrez Gene	6532	161.0,179.0
+ITGB3	GeneProduct	Entrez Gene	3690	56.0,226.0
+Serotonin	Metabolite	KEGG Compound	C00780	205.0,35.0
+IL1B	GeneProduct	Entrez Gene	3553	455.0,188.48333333333332
+L-Tryptophan	Metabolite	KEGG Compound	C00078	535.0,35.0
+PP2A	GeneProduct	Entrez Gene	5516	240.0,313.0
+Syntaxin 1A	GeneProduct	Entrez Gene	6804	269.0,216.0
+MAOA	GeneProduct	Entrez Gene	4128	455.0,155.0
+nNOS	GeneProduct	Entrez Gene	4842	61.483333333333334,86.98333333333333
+TPH2	GeneProduct	Entrez Gene	121278	395.0,95.0
+Citalopram	Metabolite	KEGG Compound	C07572	105.0,45.0
+IL1R1	GeneProduct	Entrez Gene	3554	456.0504201680672,277.0

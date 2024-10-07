@@ -1,0 +1,5 @@
+TEXT	TYPE	DB	ID	X	Y
+FABP4 in ovarian cancer	hsa	wikipathways	WP4400
+FABP4	GeneProduct	Entrez Gene	2167	293.5,358.0
+MIR409	Rna	Ensembl	ENSG00000199107	293.5,233.0
+Hypoxia		Wikidata	Q105688	293.5,78.0

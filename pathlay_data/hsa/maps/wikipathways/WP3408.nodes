@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Evolocumab mechanism to reduce LDL cholesterol	hsa	wikipathways	WP3408
+PCSK9	GeneProduct	Entrez Gene	255738	219.0,112.0
+LDLR	GeneProduct	Entrez Gene	3949	319.0,158.0
+LDL-C	Metabolite	ChEBI	CHEBI:47774	319.0,76.0
+Evolocumab	Metabolite	Wikidata	Q15623825	219.0,67.0
+PCSK9	GeneProduct	Entrez Gene	255738	104.0,168.0
+LDLR	GeneProduct	Entrez Gene	3949	104.0,148.0
+LDL-C	Metabolite	ChEBI	CHEBI:47774	103.0,76.0
+PCSK9	GeneProduct	Entrez Gene	255738	104.0,284.0
+LDLR	GeneProduct	Entrez Gene	3949	104.0,264.0
+LDL-C	Metabolite	ChEBI	CHEBI:47774	104.0,244.0
+LDLR	GeneProduct	Entrez Gene	3949	320.0,245.0
+LDL-C	Metabolite	ChEBI	CHEBI:47774	320.0,225.0
+LDLR	GeneProduct	Entrez Gene	3949	365.0,332.0
+LDL-C	Metabolite	ChEBI	CHEBI:47774	269.0,332.0

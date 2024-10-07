@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Arsenic liver toxicity pathway	hsa	wikipathways	WP5228
+DNA damage response	Pathway	WikiPathways	WP707	275.6597556530588,486.5839619860561
+NRF2 pathway	Pathway	WikiPathways	WP2884	275.6597556530588,287.9768591846455
+KE1487:Binding, Thiol/seleno-proteins involved in protection against oxidative stress	Key Event	AOP-Wiki KE	1487	275.6597556530588,73.69444444444443
+KE1940: Up-regulation of reactive oxygen species	Key Event	AOP-Wiki KE	1940	275.6597556530588,164.12474123081097
+KE1969: Increased oxidative stress	Key Event	AOP-Wiki KE	1969	275.6597556530588,262.9768591846455
+KE716: Increase, cell proliferation (hepatocytes)	Key Event	AOP-Wiki KE	716	275.6597556530588,568.0129246676444
+KE155: Inadequate DNA repair	Key Event	AOP-Wiki KE	155	419.56656988778946,461.5839619860561
+Arsenic carcinogenesis - reactive oxygen species	Pathway	WikiPathways	WP5233	275.6597556530588,98.69444444444443
+TNF-alpha signaling pathway	Pathway	WikiPathways	WP231	275.6597556530588,388.18306530466555
+Cell cycle	Pathway	WikiPathways	WP179	275.6597556530588,593.0129246676444
+KE1395: Liver cancer	Key Event	AOP-Wiki KE	1395	275.6597556530588,659.4752584933616
+KE1194: Increased DNA damage	Key Event	AOP-Wiki KE	1194	152.84080061052953,461.5839619860561
+Oxidative damage response	Pathway	WikiPathways	WP3941	275.6597556530588,189.12474123081097
+KE1894: Chronic low grade systemic inflammation	Key Event	AOP-Wiki KE	1894	275.6597556530588,363.18306530466555

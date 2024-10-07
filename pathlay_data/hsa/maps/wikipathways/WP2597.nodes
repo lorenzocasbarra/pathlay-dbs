@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+Secretion of hydrochloric acid in parietal cells	hsa	wikipathways	WP2597
+Gastrin	GeneProduct	Uniprot-TrEMBL	P01350	527.0,110.61829652996846
+Chloride ion	Metabolite	KEGG Compound	C00698	353.0,295.61829652996846
+Acetylcholine	Metabolite	KEGG Compound	C01996	527.0,134.61829652996846
+ATP4A	GeneProduct	Entrez Gene	495	421.0,173.61829652996846
+Potassium	Metabolite	HMDB	HMDB0000586	353.0,271.61829652996846
+Histamine		Metabolite	Chemspider	753	527.0,85.61829652996846
+Carbon dioxide	Metabolite	KEGG Compound	C00011	85.0,235.61829652996846
+HRH2	GeneProduct	Entrez Gene	3274	397.0,85.61829652996846
+Water	Metabolite	KEGG Compound	C00001	85.0,210.61829652996846
+Bicarbonate ion	Metabolite	Chemspider	749	264.0,234.61829652996846
+Zinc	Metabolite	Chemspider	22430	175.43672692673653,142.61829652996846
+CHRM1	GeneProduct	Entrez Gene	1128	397.0,134.61829652996846
+CCKBR	GeneProduct	Entrez Gene	887	397.0,110.61829652996846
+Hydrogen	Metabolite	KEGG Compound	C00282	264.0,211.61829652996846
+Bicarbonate ion	Metabolite	Chemspider	749	262.0,372.61829652996846
+Hydrogen	Metabolite	KEGG Compound	C00282	500.0,210.61829652996846
+Chloride ion	Metabolite	KEGG Compound	C00698	353.0,373.61829652996846
+Potassium	Metabolite	HMDB	HMDB0000586	500.0,271.61829652996846
+Chloride ion	Metabolite	KEGG Compound	C00698	500.0,295.61829652996846

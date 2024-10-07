@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+Arylamine metabolism	hsa	wikipathways	WP694
+UGT1A9	GeneProduct	Entrez Gene	54600	170.0,154.0
+UGT1A4	GeneProduct	Entrez Gene	54657	170.0,134.0
+CYP1A2	GeneProduct	Entrez Gene	1544	369.5003882623485,323.0
+NAT1	GeneProduct	Entrez Gene	9	371.95814555881554,84.64516129032258
+SULT1A2	GeneProduct	Entrez Gene	6799	154.05089975921123,370.203599036845
+NAT1	GeneProduct	Entrez Gene	9	369.50038826234857,470.0
+N-Acetylarylamine	Metabolite	KEGG Compound	C07565	521.5,206.0
+O-acetylarylamine	Metabolite			369.50038826234857,528.0
+N-aryl sulfamic acid	Metabolite			75.5,254.0
+Deacetylase	GeneProduct			371.95814555881554,277.6451612903225
+NAT2	GeneProduct	Entrez Gene	10	369.50038826234857,490.0
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	279.0,126.0
+SULT1A1	GeneProduct	Entrez Gene	6817	154.05089975921123,350.203599036845
+Arylamine	Metabolite	KEGG Compound	C00292	239.0,201.0
+an N-hydroxyarylamine	Metabolite	ChEBI	CHEBI:13792	239.0,427.0
+Arylamine N-glucuronide	Metabolite			73.5,201.0
+N-hydroxy-N-acetylamine	Metabolite			521.0,427.0
+Coenzyme A	Metabolite	KEGG Compound	C00010	462.0,129.0
+Arylamine N,O-sulfate	Metabolite			62.0,427.0
+Deacetylase	GeneProduct			371.31600171093726,390.8156134485887
+NAT2	GeneProduct	Entrez Gene	10	371.95814555881554,104.64516129032258

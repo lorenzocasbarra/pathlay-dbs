@@ -1,0 +1,31 @@
+TEXT	TYPE	DB	ID	X	Y
+Osteoclast signaling	hsa	wikipathways	WP12
+Ca2+	Metabolite	KEGG Compound	C00076	157.5,250.0
+OPG	Protein	Entrez Gene	4982	750.0,89.0
+H+	Metabolite	KEGG Compound	C00080	249.5,254.0
+PDGFB	Protein	Entrez Gene	5155	604.0,107.0
+Pi	Metabolite	ChEBI	CHEBI:35780	418.5,365.5
+H+	Metabolite	KEGG Compound	C00080	564.5,365.0
+TRPV	Protein	Entrez Gene	56302	127.5,317.0
+RANK ligand	Protein	Entrez Gene	8600	750.0,141.5
+Ca2+	Metabolite	KEGG Compound	C00076	114.5,359.0
+H+	Metabolite	KEGG Compound	C00080	284.5,67.0
+H+	Metabolite	KEGG Compound	C00080	208.5,367.0
+AIMP2	GeneProduct	Entrez Gene	7965	665.0,261.0
+TRAP	Protein	Entrez Gene	54	467.5,366.0
+Cathepsin K	Protein	Entrez Gene	1513	610.5,232.0
+IFN-b	Protein	Entrez Gene	3456	90.0,113.0
+H+	Metabolite	KEGG Compound	C00080	564.5,265.0
+Na+/H+ transporter	Protein	Entrez Gene	6548	246.5,318.0
+Na+	Metabolite	KEGG Compound	C01330	256.5,364.5
+H+ ATPase	Protein	Entrez Gene	9550	568.0,317.0
+MAPK8	GeneProduct	Entrez Gene	5599	750.0,277.0
+Na+	Metabolite	KEGG Compound	C01330	291.5,255.5
+RANK	Protein	Entrez Gene	8792	691.0,222.0
+TRAP	Protein	Entrez Gene	54	521.5,234.0
+Type 1 interferon receptor	Protein	Entrez Gene	3454	172.5,182.0
+b3 integrin	Protein	Entrez Gene	3690	738.0,317.5
+Cathepsin K	Protein	Entrez Gene	1513	653.0,366.0
+OGR1	Protein	Entrez Gene	8111	322.0,131.0
+Osteopontin	Protein	Entrez Gene	6696	738.0,337.0
+PDGFB	Protein	Entrez Gene	5155	604.0,87.0

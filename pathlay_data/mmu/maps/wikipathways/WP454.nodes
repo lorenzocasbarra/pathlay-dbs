@@ -1,0 +1,24 @@
+TEXT	TYPE	DB	ID	X	Y
+Osteoclast signaling	mmu	wikipathways	WP454
+H+	Metabolite	KEGG Compound	C00080	186.0,367.0
+OPG	Protein	Entrez Gene	18383	836.0,192.0
+Pi	Metabolite			308.0,367.0
+PDGFB	Protein	Entrez Gene	18591	589.0,102.0
+TRPV	Protein	Entrez Gene	194352	127.5,317.0
+RANK ligand	Protein	Entrez Gene	21943	732.0,130.0
+H+	Metabolite	KEGG Compound	C00080	567.0,367.0
+H+	Metabolite	KEGG Compound	C00080	271.0,66.0
+TRAP	Protein	Entrez Gene	11433	481.0,367.0
+PDGFB	Protein	Entrez Gene	18591	589.0,82.0
+IFN-b	Protein	Entrez Gene	15977	90.0,113.0
+Ca2+	Metabolite	KEGG Compound	C00076	156.0,246.0
+Ca2+	Metabolite	KEGG Compound	C00076	394.0,367.0
+Na+/H+ transporter	Protein	Entrez Gene	20544	246.5,318.0
+H+ ATPase	Protein	Entrez Gene	66290	568.0,317.0
+Na+	Metabolite	KEGG Compound	C01330	297.0,247.0
+RANK	Protein	Entrez Gene	21934	689.0,225.0
+Type 1 interferon receptor	Protein	Entrez Gene	15975	172.5,182.0
+b3 integrin	Protein	Entrez Gene	16416	738.0,317.5
+Cathepsin K	Protein	Entrez Gene	13038	653.0,367.0
+OGR1	Protein	Entrez Gene	238377	320.0,133.0
+Osteopontin	Protein	Entrez Gene	20750	738.0,337.0

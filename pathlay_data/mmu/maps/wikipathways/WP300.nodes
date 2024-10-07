@@ -1,0 +1,7 @@
+TEXT	TYPE	DB	ID	X	Y
+Histone modifications	mmu	wikipathways	WP300
+HAT1	GeneProduct	Entrez Gene	107435	511.0,159.0
+HDAC1	GeneProduct	Entrez Gene	433759	509.0,96.0
+HDAC2	GeneProduct	Entrez Gene	15182	509.0,116.0
+EHMT1	GeneProduct	Entrez Gene	77683	266.0,147.0
+EHMT2	GeneProduct	Entrez Gene	110147	266.0,169.0

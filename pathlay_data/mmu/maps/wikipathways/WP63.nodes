@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+Pentose phosphate pathway	mmu	wikipathways	WP63
+G6pdx	GeneProduct	Entrez Gene	14381	461.0,132.66666666666666
+Sedoheptulose-7-Phosphate	Metabolite	CAS	2646-35-7	292.6666666666667,552.3333333333334
+Fructose-6-Phosphate	Metabolite	CAS	643-13-0	890.0,534.6666666666666
+Xylulose-5-Phosphate	Metabolite	CAS	60802-29-1	525.0,428.6666666666667
+Glyceraldehyde-3-phosphate	Metabolite	HMDB	HMDB0001112	890.0,571.3333333333334
+D-Ribose-5-Phosphate	Metabolite	CAS	3615-55-2	271.6666666666667,428.6666666666667
+6-Phosphogluconate	Metabolite	HMDB	HMDB0001316	403.33333333333337,269.0
+Pgls	GeneProduct	Entrez Gene	66171	460.0,223.66666666666666
+Rpe	GeneProduct	Entrez Gene	66646	542.6666666666666,364.3333333333333
+Erythrose-4-Phosphate	Metabolite	HMDB	HMDB0001321	314.5,643.0
+Ribulose-5-Phosphate	Metabolite	CAS	4151-19-3	403.33333333333337,350.0
+Glucose-6-Phosphate	Metabolite	CAS	59-56-3	403.3333333333333,93.33333333333333
+Taldo1	GeneProduct	Entrez Gene	21351	471.0,591.6666666666666
+Rpia	GeneProduct	Entrez Gene	19895	263.0,363.3333333333333
+Tkt	GeneProduct	Entrez Gene	21881	401.0,488.3333333333333
+Glyceraldehyde-3-phosphate	Metabolite	HMDB	HMDB0001112	500.4166666666667,552.3333333333334
+6-Phosphonoglucono-delta-lactone	Metabolite	HMDB	HMDB0001127	403.33333333333337,188.5
+Pgd	GeneProduct	Entrez Gene	110208	464.0,303.3333333333333
+Glycolysis/Gluconeogenesis	Pathway	WikiPathways	wp157	891.5,644.0
+Tkt	GeneProduct	Entrez Gene	21881	673.0,553.3333333333334
+Fructose-6-Phosphate	Metabolite	HMDB	HMDB0000124	482.0,645.0

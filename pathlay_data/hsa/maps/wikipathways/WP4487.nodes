@@ -1,0 +1,12 @@
+TEXT	TYPE	DB	ID	X	Y
+Ophthalmate biosynthesis in hepatocytes	hsa	wikipathways	WP4487
+MRP-transporter	Protein			295.3776185226021,349.37596471885325
+Cys	Metabolite	Wikidata	Q186474	137.0,103.0
+GCS	Protein	Enzyme Nomenclature	6.3.2.2	216.0,144.10253583241456
+Gamma-Glu-Cys	Metabolite	Wikidata	Q288236	137.0,198.0
+GSH	Metabolite	KEGG Compound	C00051	137.0,285.0
+2AB	Metabolite	Wikidata	Q27104317	295.0,103.0
+Gamma-Glu-2AB	Metabolite	PubChem-compound	78437958	295.0,198.0
+Ophthalmate	Metabolite	KEGG Compound	C21016	295.0,285.0
+GS	Protein	Enzyme Nomenclature	6.3.2.3	216.0,235.0
+Ophthalmate	Metabolite	KEGG Compound	C21016	295.07717750826896,411.86879823594273

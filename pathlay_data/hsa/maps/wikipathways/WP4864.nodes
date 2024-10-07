@@ -1,0 +1,41 @@
+TEXT	TYPE	DB	ID	X	Y
+Host-pathogen interaction of human coronaviruses - apoptosis	hsa	wikipathways	WP4864
+OC43 infection	Pathway			632.0,402.25
+Apoptosome	Protein			577.9184952978056,561.2163009404388
+Apoptosis	Pathway			862.0,509.0
+BCL2	GeneProduct	Entrez Gene	596	208.75,288.75
+BID	GeneProduct	Entrez Gene	637	683.25,249.75
+CASP3	GeneProduct	Entrez Gene	836	767.75,428.25
+CASP7	GeneProduct	Entrez Gene	840	767.75,453.25
+FADD	GeneProduct	Entrez Gene	8772	856.0,163.0
+M	Protein	Uniprot-TrEMBL	P59596	926.0,361.0
+MAPK11	GeneProduct	Entrez Gene	5600	249.0,437.0
+FASLG	GeneProduct	Entrez Gene	356	854.0,69.0
+BAX	GeneProduct	Entrez Gene	581	451.25,274.75
+BAD	GeneProduct	Entrez Gene	572	452.0,205.0
+TNF	GeneProduct	Entrez Gene	7124	854.0,94.0
+AKT1	GeneProduct	Entrez Gene	207	920.0,436.0
+CASP9	GeneProduct	Entrez Gene	842	590.25,476.25
+E	Protein	Uniprot-TrEMBL	P59637	57.0,301.0
+MAPK12	GeneProduct	Entrez Gene	6300	249.0,462.0
+BBC3	GeneProduct	Entrez Gene	27113	452.0,155.0
+BCL2L11	GeneProduct	Entrez Gene	10018	452.0,180.0
+tBID	GeneProduct	Uniprot-TrEMBL	PRO_0000223233	689.0,334.0
+APAF1	GeneProduct	Entrez Gene	317	382.0,562.0
+Cytochrome C	Metabolite	KEGG Compound	C00524	382.75,475.75
+CASP8	GeneProduct	Entrez Gene	841	856.0,291.0
+MCL1	GeneProduct	Entrez Gene	4170	208.75,338.75
+BCL2L1	GeneProduct	Entrez Gene	598	208.75,313.75
+BAX	GeneProduct	Entrez Gene	581	457.25,379.75
+7a	Protein	Uniprot-TrEMBL	P59635	57.0,326.0
+OC43 infection	Pathway			575.5,203.0
+MAPK13	GeneProduct	Entrez Gene	5603	249.0,487.0
+MAPK14	GeneProduct	Entrez Gene	1432	249.0,512.0
+3a	Protein	Uniprot-TrEMBL	P59632	83.0,474.0
+S	Protein	Uniprot-TrEMBL	P59594	825.7857142857154,560.0408163265298
+E	Protein	Uniprot-TrEMBL	P59637	826.7857142857154,585.0408163265298
+N	Protein	Uniprot-TrEMBL	P59595	826.7857142857154,610.0408163265298
+3b	Protein	Uniprot-TrEMBL	P59633	826.7857142857154,635.0408163265298
+6	Protein	Uniprot-TrEMBL	P59634	826.7857142857154,660.0408163265298
+8a	Protein	Uniprot-TrEMBL	Q7TFA0	826.7857142857154,685.0408163265298
+9b	Protein	Uniprot-TrEMBL	P59636	827.7857142857154,710.0408163265298

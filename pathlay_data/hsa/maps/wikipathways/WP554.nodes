@@ -1,0 +1,35 @@
+TEXT	TYPE	DB	ID	X	Y
+ACE inhibitor pathway	hsa	wikipathways	WP554
+CYP11B2	GeneProduct	Entrez Gene	1585	398.5,423.0
+ACE2	GeneProduct	Entrez Gene	59272	266.5,134.0
+TGFB1	GeneProduct	Entrez Gene	7040	164.5,435.0
+ACE	GeneProduct	Entrez Gene	1636	548.3333333333333,251.66666666666663
+NOS3	GeneProduct	Entrez Gene	4846	623.0,466.33333333333326
+AGTR2	GeneProduct	Entrez Gene	186	439.3333333333333,344.3333333333333
+TFs	GeneProduct			69.5,424.0
+NR3C2	GeneProduct	Entrez Gene	4306	465.0,504.0
+KNG1	GeneProduct	Entrez Gene	3827	613.6666666666667,213.33333333333331
+Bradykinin	Metabolite	KEGG Compound	C00306	613.0,289.0
+MAS1	GeneProduct	Entrez Gene	4142	188.0,343.0
+REN	GeneProduct	Entrez Gene	5972	303.08123249299706,107.44957983193277
+BDKRB2	GeneProduct	Entrez Gene	624	655.3333333333333,342.0
+CMA1	GeneProduct	Entrez Gene	1215	285.0,223.0
+ACE	GeneProduct	Entrez Gene	1636	452.0,219.66666666666663
+CTSG	GeneProduct	Entrez Gene	1511	305.5,197.0
+BDKRB1	GeneProduct	Entrez Gene	623	577.5,342.0
+Ang 1-9	Metabolite	KEGG Compound	C15851	188.5,167.0
+Ang 1-7	Metabolite	Chemspider	110354	188.5,289.0
+Angiotensin II	Metabolite	KEGG Compound	C02135	367.0,289.0
+AGT	GeneProduct	Entrez Gene	183	366.66666666666663,80.5
+ACE inhibitor	Metabolite	ChEBI	CHEBI:35457	451.5,56.66666666666666
+Deoxycorticosterone	Metabolite	KEGG Compound	C03205	315.375,459.75
+Aldosterone	Metabolite	KEGG Compound	C01780	464.5,460.0
+Angiotensin I	Metabolite	KEGG Compound	C00873	366.0,167.0
+AGTR1	GeneProduct	Entrez Gene	185	293.8333333333333,344.3333333333333
+Ca2+	Metabolite	KEGG Compound	C00076	333.5,379.0
+Prostacyclin	Metabolite	KEGG Compound	C01312	583.0,420.0
+ATP6AP2	GeneProduct	Entrez Gene	10159	62.0,343.0
+TFs	GeneProduct			303.0,423.0
+Ang 1-5	Metabolite	KEGG Compound	C15852	86.0,289.0
+ACE	GeneProduct	Entrez Gene	1636	139.0,252.66666666666663
+ACE2	GeneProduct	Entrez Gene	59272	258.0,258.66666666666663

@@ -1,0 +1,22 @@
+TEXT	TYPE	DB	ID	X	Y
+Cytosine methylation	hsa	wikipathways	WP3585
+5-methylcytosine	Metabolite	KEGG Compound	C02376	444.0,90.0
+MECP2	GeneProduct	Entrez Gene	4204	445.0,199.0
+ethanol	Metabolite	KEGG Compound	C00469	238.0,234.0
+MBD3	GeneProduct	Entrez Gene	53615	825.0,169.0
+a-ketoglutarate	Metabolite	ChEBI	CHEBI:16810	671.0,332.0
+isocitrate	Metabolite	KEGG Compound	C00311	985.0,346.0
+hsa-mir-29a	RNA	miRBase mature sequence	MIMAT0000086	318.0,337.0
+5-carboxylcytosine	Metabolite	ChEBI	CHEBI:76793	98.5,565.0
+IDH1	GeneProduct	Entrez Gene	3417	985.0,296.0
+TET2	GeneProduct	Entrez Gene	54790	445.0,359.25
+DNMT1	GeneProduct	Entrez Gene	1786	188.0,105.0
+TET3	Protein	Uniprot-TrEMBL	K9JJH7	445.0,378.0
+TET1	GeneProduct	Entrez Gene	80312	445.0,339.0
+TDG	GeneProduct	Entrez Gene	6996	233.5,490.0
+base excision repair	Pathway	WikiPathways	WP3399	230.5,510.0
+2-hydroxyglutarate	Metabolite	KEGG Compound	C02630	671.0,360.75
+5-formylcytosine	Metabolite	ChEBI	CHEBI:76794	795.0,565.0
+5-hydroxymethylcytosine	Metabolite	ChEBI	CHEBI:76792	795.0,215.0
+cytosine	Metabolite	KEGG Compound	C00380	98.5,215.0
+IDH2	GeneProduct	Entrez Gene	3418	985.0,395.0

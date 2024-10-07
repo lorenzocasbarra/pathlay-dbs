@@ -1,0 +1,22 @@
+TEXT	TYPE	DB	ID	X	Y
+Mitochondrial complex I inhibition leading to chemical-induced Fanconi syndrome	hsa	wikipathways	WP4944
+KE888: Binding of inhibitor,  NADH-ubiquinone oxidoreductase (complex I)	Event	AOP-Wiki KE	888	372.0370370370377,151.54532163742715
+Autophagy	Pathway	WikiPathways	WP4923	555.2912658855596,617.6908234579171
+Necrosis	Pathway	WikiPathways	WP5022	555.2912658855596,592.6908234579171
+Deguelin	Metabolite	KEGG Compound	C10417	320.0,69.0
+Decreased proximal tubule vectorial transport	Pathway	WikiPathways	WP4917	371.2533379774765,843.9629629629634
+Decreased mitochondrial oxidative phosphorylation	Pathway	WikiPathways	WP111	372.0370370370377,327.25
+Apoptosis	Pathway	WikiPathways	WP1772	555.2912658855596,567.6908234579171
+Ferroptosis	Pathway	WikiPathways	WP4313	555.2912658855597,642.6908234579171
+Assembly of mitochondrial complex I	Pathway	WikiPathways	WP4324	661.467738225858,179.3763785673071
+Oxidative stress response	Pathway	WikiPathways	WP3941	372.03703703703775,428.0
+Impaired proteostasis	Pathway	WikiPathways	WP4918	179.93858800773705,566.4722222222213
+Unfolded Protein Response	Pathway	WikiPathways	WP4925	179.93858800773705,591.4722222222211
+Rotenone	Event	AOP-Wiki Stressor	50	434.0,69.0
+KE887: Inhibition,  NADH-ubiquinone oxidoreductase (complex I)	Event	AOP-Wiki KE	887	372.03703703703775,207.7194621695533
+KE1477: Decrease, OXPHOS	Event	AOP-Wiki KE	1477	372.0370370370377,301.75
+KE1562: Decreased Na/K ATPase activity 	Event	AOP-Wiki KE	1562	372.03703703703775,402.75
+KE1563: Decreased proximal tubular vectorial transport 	Event	AOP-Wiki KE	1563	371.25333797747646,818.7129629629635
+KE1564: Chemical induced Fanconi syndrome 	Event	AOP-Wiki KE	1564	372.03703703703775,973.388888888889
+KE55: N/A, Cell injury/death 	Event	AOP-Wiki KE	55	555.2912658855596,542.4408234579171
+KE889: Impaired, Proteostasis 	Event	AOP-Wiki KE	889	179.93858800773702,541.2222222222213

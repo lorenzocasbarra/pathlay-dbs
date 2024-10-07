@@ -1,0 +1,31 @@
+TEXT	TYPE	DB	ID	X	Y
+UDP-derived sugars synthesis in fibroblasts	hsa	wikipathways	WP5394
+UGDH	GeneProduct	Entrez Gene	7358	311.0,335.0
+GALE	GeneProduct	Entrez Gene	2582	540.0,940.0
+GPI	GeneProduct	Entrez Gene	2821	543.0,406.0
+HK3	GeneProduct	Entrez Gene	3101	747.6666666666663,204.0
+UXS1	GeneProduct	Entrez Gene	80146	308.0,443.0
+GCK	GeneProduct	Entrez Gene	2645	747.6666666666663,229.0
+HK2	GeneProduct	Entrez Gene	3099	747.6666666666663,179.0
+UDP-α-D-glucose	Metabolite	ChEBI	58885	376.65400046678116,281.75
+PGM3	GeneProduct	Entrez Gene	5238	538.0,763.0
+PGM1	GeneProduct	Entrez Gene	5236	492.66666666666686,212.6666666666668
+HK1	GeneProduct	Entrez Gene	3098	747.6666666666663,154.0
+GFPT1	GeneProduct	Entrez Gene	2673	538.9999999999999,518.75
+GALE	GeneProduct	Entrez Gene	2582	264.75000000000017,213.91666666666663
+UDP-α-D-galactose	Metabolite	ChEBI	66914	144.0,282.0
+β-D-fructofuranose 6-phosphate	Metabolite	ChEBI	57634	637.9999999999999,470.0
+N-acetyl-α-D-galactosamine 1-phosphate	Metabolite	ChEBI	61970	936.0,995.0
+α-D-galactosamine 1-phosphate	Metabolite	ChEBI	142399	936.0,769.0
+D-galactosamine 6-phosphate	Metabolite	KEGG Compound	C06377	936.0,581.0
+D-glucosamine 6-phosphate	Metabolite	KEGG Compound	C00352	638.0,581.0
+UDP-N-acetyl-α-D-galactosamine	Metabolite	ChEBI	67138	638.0,996.0
+UDP-N-acetyl-α-D-glucosamine	Metabolite	ChEBI	57705	638.0,890.0
+N-acetyl-α-D-glucosamine 1-phosphate	Metabolite	ChEBI	57776	638.0,821.0
+N-acetyl-α-D-glucosamine 6-phosphate	Metabolite	ChEBI	57513	638.0,714.0
+α-D-glucosamine 1-phosphate	Metabolite	ChEBI	58516	638.0,646.0
+α-D-glucose 6-phosphate	Metabolite	ChEBI	58225	638.0,353.0
+D-glucopyranose 6-phosphate	Metabolite	ChEBI	4170	638.0,281.0
+D-glucopyranose	Metabolite	KEGG Compound	C00031	638.0,106.0
+UDP-α-D-xylose	Metabolite	ChEBI	57632	376.65400046678116,497.9295654296875
+UDP-α-D-glucuronate	Metabolite	ChEBI	58052	376.65400046678116,395.93341064453125

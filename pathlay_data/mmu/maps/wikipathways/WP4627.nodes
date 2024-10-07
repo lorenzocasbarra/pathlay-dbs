@@ -1,0 +1,50 @@
+TEXT	TYPE	DB	ID	X	Y
+ Lipids measured in liver metastasis from breast cancer	mmu	wikipathways	WP4627
+(9Z)-octa- decenoyl-CoA	Metabolite	ChEBI	CHEBI:57387	219.8240627165477,247.96111586732013
+1-octadecanoyl-2-(9Z-octadecenoyl)- sn-glycero-3-cytidine-5ÃŠÂ¼-diphosphate	Metabolite	ChEBI	CHEBI:85353	474.2123135639262,92.87244897959184
+1-octadecanoyl-2-(9Z-octadecenoyl) -sn-glycero-3-phosphate	Metabolite	LIPID MAPS	LMGP10010037	474.2123135639256,216.42921026340755
+Phosphatidate  phosphatase LPIN1	Protein	Uniprot-TrEMBL	Q14693	361.2651304653316,282.0648305416912
+CoA	Metabolite	KEGG Compound	C00010	321.6980764458698,242.68308309469944
+1-octadecanoyl-2- (9Z-octadecenoyl)-sn-glycerol	Metabolite	ChEBI	CHEBI:75468	474.2123135639258,347.1090046774152
+ABHD5	Protein	Uniprot-TrEMBL	Q8WTS1	262.31421010943683,172.6414864782412
+1-octadecanoyl-sn- glycero-3-phosphate	Metabolite	ChEBI	CHEBI:74565	100.8295553779798,216.4292102634072
+Diacylglycerol kinase zeta	Protein	Uniprot-TrEMBL	E9PK94	652.9917735434655,283.5422859854802
+Phosphatidate cytidylyl- transferase 1	Protein	Uniprot-TrEMBL	Q92903	581.2651304653327,150.07315320494394
+CoA	Metabolite	KEGG Compound	C00010	514.9345201628837,730.7064481922348
+(9Z,12Z)-octa decadienoyl-CoA	Metabolite	ChEBI	CHEBI:57383	633.2267934722635,504.6696752834005
+1-hexadecanoyl-2-(9Z-octadecenoyl)- sn-glycero-3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:72837	509.45228970361956,872.9616285905443
+(5Z,8Z,11Z,14Z)-eicosatetraenoyl-CoA	Metabolite	ChEBI	CHEBI:57368	1004.1442031017893,698.7650528758941
+1-hexadecanoyl-2-(5Z,8Z,11Z,14Z -eicosatetraenoyl)- sn-glycero-3-phospho-D-myo-inositol	Metabolite	ChEBI	CHEBI:72834	951.1912857034267,805.8058169748193
+(9Z)-octadecenoate	Metabolite	ChEBI	CHEBI:30823	654.1612296260103,734.5302818688981
+octadecanoyl-CoA	Metabolite	KEGG Compound	C00412	138.78965094759457,548.2922185684608
+1,2-dihexadecanoyl-sn-glycero- 3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:72835	917.3679898569184,587.4227492829542
+1-hexadecanoyl-sn-glycero-3-phospho- (1D-myo-inositol)	Metabolite	ChEBI	CHEBI:72833	508.8685807035878,602.154807744835
+1-hexadecanoyl-2-dodecanoyl- sn-glycero-3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:75160	125.19561815336463,602.1360608986777
+hexadecanoyl-CoA	Metabolite	KEGG Compound	C00154	813.5050504876878,505.8444725686533
+(9Z)-octadecenoyl-CoA	Metabolite	KEGG Compound	C00510	313.60380571748306,818.2420924147135
+dodecanoyl-CoA	Metabolite	KEGG Compound	C01832	217.82629940979686,726.3851411835176
+1-hexadecanoyl-2-(9Z,12Z-octadecadienoyl) -sn-glycero-3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:72838	508.8685807035877,422.064536514278
+1-hexadecanoyl-2-octadecanoyl- sn-glycero-3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:72836	159.0036290891403,425.06697974508995
+CoA	Metabolite	KEGG Compound	C00010	857.0234777177351,750.0358739531541
+CoA	Metabolite	KEGG Compound	C00010	424.39001264156155,505.1156973379039
+CoA	Metabolite	KEGG Compound	C00010	371.3020563322831,725.7145861070258
+CoA	Metabolite	KEGG Compound	C00010	756.5540580249772,645.3366308756451
+CoA	Metabolite	KEGG Compound	C00010	166.59803617962083,482.7583676454672
+1-(9Z-octadecenoyl)-2-(5Z,8Z,11Z,14Z-eicosatetraenoyl)- sn-glycero-3-phospho-1D-myo-inositol	Metabolite	ChEBI	CHEBI:78765	1287.7812263493754,274.8193601473352
+(5Z,8Z,11Z,14Z)-eicosatetraenoyl-CoA	Metabolite	ChEBI	CHEBI:57368	1068.3132660893923,152.11017706474897
+(9Z)-octadecenoate	Metabolite	ChEBI	CHEBI:30823	777.5851923110268,353.211114980241
+CoA	Metabolite	KEGG Compound	C00010	1068.0231214733035,360.9174082956891
+sn-glycero-3-phospho-1D-myo-inositol	Metabolite	ChEBI	CHEBI:58444	913.7482028113204,433.5522575316396
+1-(9Z-octadecenoyl)-sn-glycero- 3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:78762	914.641211658052,274.8193601473352
+Coenzyme A(4-)	Metabolite	ChEBI	CHEBI:57287	1470.6598385778984,483.4917583128788
+1-octadecanoyl-2-(5Z,8Z,11Z,14Z,17Z-eicosapentaenoyl)- sn-glycero-3-phospho-1D-myo-inositol	Metabolite	LIPID MAPS	LMGP06010854	1782.5588857950238,378.5458161773286
+Lysophospholipid acyltransferase 7	Protein	Uniprot-TrEMBL	Q96N66	1471.6483421924413,124.82933635644537
+1-octadecanoyl-sn-glycero- 3-phospho-(1D-myo-inositol)	Metabolite	ChEBI	CHEBI:74243	1243.815329127515,378.54581617732856
+(5Z,8Z,11Z,14Z,17Z)- eicosapentaenoyl-CoA(4-)	Metabolite	ChEBI	CHEBI:73862	1684.9106526404125,229.58485358681045
+all-trans-retinyl dodecanoate	Metabolite	ChEBI	CHEBI:140089	1938.720997722647,671.5214717886305
+All-trans-retinol 	Metabolite	ChEBI	CHEBI:17336	1941.4037609687957,765.9774577041187
+amino acid residue	Metabolite	ChEBI	CHEBI:83228	1540.3664486921543,611.7911636485568
+1,2-didodecanoyl-sn-glycero- 3-phosphocholine	Metabolite	LIPID MAPS	LMGP01010429	1187.0576895051868,640.4724226817082
+Not yet identified acetylated amino acid residue	Metabolite			1540.3664486921543,793.427230046945
+Lecithin retinol acyltransferase	GeneProduct	Entrez Gene	79235	1544.625619003379,706.8910928836701
+2-dodecanoyl-sn-glycero- 3-phosphocholine	Metabolite	ChEBI	CHEBI:140088	1194.4594333012951,758.0436416622565

@@ -1,0 +1,19 @@
+TEXT	TYPE	DB	ID	X	Y
+Transcription factors regulate miRNAs related to cardiac hypertrophy	hsa	wikipathways	WP1559
+hsa-mir-21	Rna	Ensembl	ENSG00000284190	152.0,229.0
+hsa-mir-125b-2	Rna	Ensembl	ENSG00000207863	699.0,229.0
+NFkB	GeneProduct	Entrez Gene	4790	619.0,131.0
+hsa-mir-125b-1	Rna	Ensembl	ENSG00000207971	619.0,229.0
+NFkB	GeneProduct	Entrez Gene	4790	505.0,112.0
+RAS	GeneProduct	Entrez Gene	5923	232.0,133.0
+MIR1-2	Rna	Ensembl	ENSG00000284453	403.75,229.0
+AKT1	GeneProduct	Entrez Gene	207	699.0,131.0
+Calcineurin	GeneProduct	Entrez Gene	5534	801.0,130.0
+hsa-mir-133b	Rna	Ensembl	ENSG00000199080	801.0,229.0
+AKT1	GeneProduct	Entrez Gene	207	152.75,133.25
+MIR29A	GeneProduct	Entrez Gene	407021	505.0,229.0
+hsa-mir-1-1	Rna	Ensembl	ENSG00000199017	323.75,229.0
+TGFbeta	GeneProduct	Entrez Gene	7040	505.0,132.0
+MEF-2	GeneProduct	Entrez Gene	50804	363.0,133.0
+AKT2	GeneProduct	Entrez Gene	208	152.75,113.25
+STAT3	GeneProduct	Entrez Gene	6774	72.0,133.0

@@ -1,0 +1,17 @@
+TEXT	TYPE	DB	ID	X	Y
+Serotonin and anxiety-related events	mmu	wikipathways	WP2140
+Serotonin Receptor Htr2a 	GeneProduct	Ensembl	ENSMUSG00000034997	272.88320895522384,128.61389925373135
+Arc	GeneProduct	Entrez Gene	11838	513.25,215.25
+Serotonin	Metabolite	KEGG Compound	C00780	43.25,99.75
+ketanserin	Metabolite	KEGG Compound	C07464	64.25,388.75
+Serotonin Receptor Htr2c	GeneProduct	Ensembl	ENSMUSG00000041380	272.88320895522384,204.11389925373135
+Serotonin Receptor Htr1a	GeneProduct	Ensembl	ENSMUSG00000021721	272.88320895522384,285.11389925373135
+C-Fos	GeneProduct	Ensembl	ENSMUSG00000021250	512.25,116.25
+Plek	GeneProduct	Entrez Gene	56193	671.25,147.25
+Ppp3ca	GeneProduct	Entrez Gene	19055	671.25,118.25
+Prkcb1	GeneProduct	Entrez Gene	18751	671.25,89.25
+Plcd4	GeneProduct	Entrez Gene	18802	673.25,328.25
+Grin2d	GeneProduct	Entrez Gene	14814	673.25,299.25
+Nlgn1	GeneProduct	Entrez Gene	192167	673.25,270.25
+Crhr1	GeneProduct	Entrez Gene	12921	272.88320895522384,399.26395594541157
+CRF_MOUSE	GeneProduct	Entrez Gene	12918	99.49384843737097,454.14876901748204

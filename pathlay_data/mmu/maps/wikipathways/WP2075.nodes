@@ -1,0 +1,111 @@
+TEXT	TYPE	DB	ID	X	Y
+Alzheimer's disease	mmu	wikipathways	WP2075
+NO	Metabolite	KEGG Compound	C00533	683.2563025210083,929.7626050420163
+Induction of Apoptosis	Pathway	WikiPathways	WP1896	1014.0,144.0
+Iron	Metabolite	KEGG Compound	C00023	198.0,807.0
+Apoptosis	Pathway	WikiPathways	WP1254	533.5,205.0
+Hydrogen peroxide	Metabolite	KEGG Compound	C00027	247.0,862.0
+Nae1	GeneProduct	Entrez Gene	234664	413.375,205.25
+Modulation of gene expression	Pathway	WikiPathways	WP1821	1016.5,129.0
+App	GeneProduct	Entrez Gene	11820	324.0,235.0
+Oxidative Phosphorylation	Pathway	WikiPathways	WP623	741.5,174.0
+Cell Death	Pathway	WikiPathways	WP1254	1176.6595174262734,499.0
+Calcium Signaling Pathway	Pathway			612.5,822.0
+Protein oxidation	Pathway			935.8484466172529,893.0373758082321
+IP3	Metabolite	HMDB	HMDB0001498	531.8404825737266,618.0
+Copper	Metabolite	KEGG Compound	C00070	198.5,773.0
+Calcium	Metabolite	HMDB	HMDB0000464	523.5,668.0
+Apbb1	GeneProduct	Entrez Gene	11785	413.375,234.25
+Gm2221	GeneProduct	Entrez Gene	100039417	413.375,261.25
+Adam10	GeneProduct	Entrez Gene	11487	441.375,153.25
+Bace1	GeneProduct	Entrez Gene	23821	454.375,291.25
+Psenen	GeneProduct	Entrez Gene	66340	480.375,334.25
+Psen1	GeneProduct	Entrez Gene	19164	431.3647766113281,334.5
+Ncstn	GeneProduct	Entrez Gene	59287	480.375,354.25
+Aph1a	GeneProduct	Entrez Gene	226548	457.375,374.25
+Ide	GeneProduct	Entrez Gene	15925	141.375,394.25
+Mme	GeneProduct	Entrez Gene	17380	141.375,429.25
+Lpl	GeneProduct	Entrez Gene	16956	245.24710584343995,448.08573577252355
+Apoe	GeneProduct	Entrez Gene	11816	245.24710584343995,468.08573577252355
+Lrp1	GeneProduct	Entrez Gene	16971	323.375,458.1882716049382
+Fas	GeneProduct	Entrez Gene	14102	323.375,491.25
+Tnfrsf1a	GeneProduct	Entrez Gene	21937	323.375,511.24999999999994
+Fadd	GeneProduct	Entrez Gene	14082	413.375,502.25
+Casp8	GeneProduct	Entrez Gene	12370	501.375,502.25
+Cx I	GeneProduct			719.375,232.25
+Cx II	GeneProduct			719.375,259.25
+Cx III	GeneProduct			719.375,287.25
+Cx IV	GeneProduct			719.375,314.25
+Cx V	GeneProduct			719.375,342.25
+APP processing	Pathway			538.0,234.0
+Hsd17b10	GeneProduct	Entrez Gene	15108	793.875,353.25
+Bid	GeneProduct	Entrez Gene	12122	584.375,502.25
+Gm10121	GeneProduct	Entrez Gene	100043266	866.375,425.25
+Calm2	GeneProduct	Entrez Gene	12314	650.375,534.25
+1500003O03Rik	GeneProduct	Entrez Gene	56398	772.375,532.25
+Bad	GeneProduct	Entrez Gene	12015	893.375,483.25
+CALM2	GeneProduct			650.375,554.25
+CALM3	GeneProduct			650.375,574.25
+Calml3	GeneProduct	Entrez Gene	70405	650.375,594.25
+Calm4	GeneProduct	Entrez Gene	80796	650.375,614.25
+Ppp3ca	GeneProduct	Entrez Gene	19055	825.375,532.25
+Ppp3cb	GeneProduct	Entrez Gene	19056	825.375,552.25
+Ppp3cc	GeneProduct	Entrez Gene	19057	825.375,572.25
+Ppp3r1	GeneProduct	Entrez Gene	19058	772.375,572.25
+Ppp3r2	GeneProduct	Entrez Gene	19059	772.375,592.25
+2010110P09Rik	GeneProduct	Entrez Gene	70261	772.375,552.25
+Adam17	GeneProduct	Entrez Gene	11491	441.375,173.25
+Psen2	GeneProduct	Entrez Gene	19165	431.3647766113281,354.5
+Apaf1	GeneProduct	Entrez Gene	11783	893.375,518.25
+Casp9	GeneProduct	Entrez Gene	12371	997.375,499.25
+Casp3	GeneProduct	Entrez Gene	12367	1076.375,499.25
+Snca	GeneProduct	Entrez Gene	20617	147.375,557.25
+GPCR	GeneProduct	Entrez Gene	227289	323.375,561.25
+Grin1	GeneProduct	Entrez Gene	14810	293.375,648.25
+Cacna1c	GeneProduct	Entrez Gene	12288	296.375,733.25
+Grin2a	GeneProduct	Entrez Gene	14811	293.375,668.25
+Grin2b	GeneProduct	Entrez Gene	14812	293.375,688.25
+Grin2c	GeneProduct	Entrez Gene	14813	349.375,658.25
+Grin2d	GeneProduct	Entrez Gene	14814	349.375,678.25
+Cacna1d	GeneProduct	Entrez Gene	12289	296.375,753.25
+Cacna1f	GeneProduct	Entrez Gene	54652	350.375,733.25
+Cacna1s	GeneProduct	Entrez Gene	12292	350.375,753.25
+Gnaq	GeneProduct	Entrez Gene	14682	413.375,562.25
+Plcb1	GeneProduct	Entrez Gene	18795	503.375,552.25
+Plcb2	GeneProduct	Entrez Gene	18796	503.375,572.25
+Plcb3	GeneProduct	Entrez Gene	18797	558.375,552.25
+Plcb4	GeneProduct	Entrez Gene	18798	558.375,572.25
+Tnf	GeneProduct	Entrez Gene	21926	169.375,912.25
+Il1b	GeneProduct	Entrez Gene	16176	170.375,954.25
+Mapk1	GeneProduct	Entrez Gene	26413	737.375,658.25
+Mapk3	GeneProduct	Entrez Gene	26417	737.375,678.25
+Casp12	GeneProduct	Entrez Gene	12364	1089.375,793.25
+Apoptosis	Pathway	WikiPathways	WP1254	1033.5,475.0
+Ryr3	GeneProduct	Entrez Gene	20192	747.375,754.25
+Psenen	GeneProduct	Entrez Gene	66340	828.375,732.25
+Atp2a2	GeneProduct	Entrez Gene	11938	919.375,745.25
+Atp2a1	GeneProduct	Entrez Gene	11937	919.375,725.25
+Atp2a3	GeneProduct	Entrez Gene	53313	919.375,765.25
+Eif2ak3	GeneProduct	Entrez Gene	13666	819.375,842.25
+Ern1	GeneProduct	Entrez Gene	78943	888.375,842.25
+Atf6	GeneProduct	Entrez Gene	226641	957.375,842.25
+Itpr1	GeneProduct	Entrez Gene	16438	747.375,784.25
+Itpr2	GeneProduct	Entrez Gene	16439	747.375,804.25
+Itpr3	GeneProduct	Entrez Gene	16440	747.375,824.25
+Calcium	Metabolite	HMDB	HMDB0000464	824.5,684.0
+Calcium	Metabolite	HMDB	HMDB0000464	918.5,684.0
+Capn1	GeneProduct	Entrez Gene	12333	508.375,890.25
+Capn2	GeneProduct	Entrez Gene	12334	508.375,910.25
+Trp53	GeneProduct	Entrez Gene	22059	508.375,983.0567226890753
+Cdk5r1	GeneProduct	Entrez Gene	12569	637.375,984.0567226890753
+Nos1	GeneProduct	Entrez Gene	18125	595.879201680672,929.7626050420162
+Cdk5	GeneProduct	Entrez Gene	12568	637.375,1028.5609243697472
+Tau	GeneProduct	Entrez Gene	17762	747.131302521008,1006.8130252100841
+Gsk3b	GeneProduct	Entrez Gene	56637	716.0892857142863,1057.1071428571433
+Casp3	GeneProduct	Entrez Gene	12367	802.173319327731,1069.3676470588236
+Casp7	GeneProduct	Entrez Gene	12369	802.173319327731,1093.5693277310927
+Apoptosis	Pathway	WikiPathways	WP1254	938.529411764706,928.0672268907559
+DNA damage	Pathway			938.5294117647059,942.2689075630248
+Inflammation	Pathway	WikiPathways	WP453	938.5294117647059,956.9747899159656
+Lipid peroxidation	Pathway	WikiPathways	WP1878	938.529411764706,971.1764705882345
+ONOO-	Metabolite	HMDB	HMDB0002179	781.4915966386553,929.7626050420162

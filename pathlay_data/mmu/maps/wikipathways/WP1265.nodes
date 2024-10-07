@@ -1,0 +1,13 @@
+TEXT	TYPE	DB	ID	X	Y
+Polyol pathway	mmu	wikipathways	WP1265
+Sorbitol	Metabolite	KEGG Compound	C00794	287.0,97.0
+D-Glucose	Metabolite	KEGG Compound	C00031	491.0,97.0
+Khk	GeneProduct	Entrez Gene	16548	376.0,227.0
+D-Fructose	Metabolite	KEGG Compound	C10906	287.98333333333335,188.98333333333332
+Aldob	GeneProduct	Entrez Gene	230163	464.0,340.0
+Dihydroxyacetone phosphate	Metabolite	KEGG Compound	C00111	202.0,386.0
+Glyceraldehyde	Metabolite	KEGG Compound	C02154	370.0,386.0
+Akr1b3	GeneProduct	Entrez Gene	11677	395.0,43.0
+Fructose 1-phosphate	Metabolite	HMDB	HMDB0001076	287.0,281.0
+Sord	GeneProduct	Entrez Gene	20322	372.0,141.0
+D-Glyceraldehyde 3-phosphate	Metabolite	KEGG Compound	C00118	287.0,478.0

@@ -1,0 +1,50 @@
+TEXT	TYPE	DB	ID	X	Y
+Target of rapamycin signaling	hsa	wikipathways	WP1471
+PRKAB1	GeneProduct	Entrez Gene	5564	328.0,194.0
+PRKAG3	GeneProduct	Entrez Gene	53632	408.0,214.0
+TSC2	GeneProduct	Entrez Gene	7249	534.0,307.0
+PRKAB2	GeneProduct	Entrez Gene	5565	328.0,174.0
+ULK1	GeneProduct	Entrez Gene	8408	252.98333333333332,561.4833333333333
+MLST8	GeneProduct	Entrez Gene	64223	781.0,494.0
+RRAGC	GeneProduct	Entrez Gene	64121	105.0,257.0
+RAC1	GeneProduct	Entrez Gene	5879	758.0,588.0
+DDIT4	GeneProduct	Entrez Gene	54541	534.0,184.0
+CDC42	GeneProduct	Entrez Gene	998	758.0,608.0
+RHEB	GeneProduct	Entrez Gene	6009	534.0,384.0
+PRKAG1	GeneProduct	Entrez Gene	5571	408.0,174.0
+MTOR	GeneProduct	Entrez Gene	2475	701.0,494.0
+HMGCR	GeneProduct	Entrez Gene	3156	70.32348804500704,683.5443037974684
+PRR5	GeneProduct	Entrez Gene	55615	701.0,514.0
+RPTOR	GeneProduct	Entrez Gene	57521	249.0,492.0
+RRAGD	GeneProduct	Entrez Gene	58528	105.0,277.0
+RPS6KB1	GeneProduct	Entrez Gene	6198	352.5,586.0
+Ribosome biogenesis	Pathway			182.5,684.0
+Insulin signaling	Pathway	WikiPathways	WP481	702.5,54.0
+MLST8	GeneProduct	Entrez Gene	64223	407.0,492.0
+ULK3	GeneProduct	Entrez Gene	25989	252.98333333333332,601.4833333333333
+RRAGB	GeneProduct	Entrez Gene	10325	105.0,237.0
+PRKAA2	GeneProduct	Entrez Gene	5563	248.0,194.0
+RRAGA	GeneProduct	Entrez Gene	10670	105.0,217.0
+AKT1	GeneProduct	Entrez Gene	207	702.5,186.0
+Myelination	Pathway			70.32348804500704,734.1772151898733
+FKBP1A	GeneProduct	Entrez Gene	2280	262.89746416758544,390.89746416758544
+Insulin signaling	Pathway	WikiPathways	WP481	352.5,702.0
+ULK2	GeneProduct	Entrez Gene	9706	252.98333333333332,581.4833333333333
+PRKAA1	GeneProduct	Entrez Gene	5562	248.0,174.0
+DDIT4L	GeneProduct	Entrez Gene	115265	534.0,204.0
+mRNA translation	Pathway	WikiPathways	WP107	439.63569576490926,664.0
+IDI1	GeneProduct	Entrez Gene	3422	70.32348804500701,662.4472573839669
+AKT1S1	GeneProduct	Entrez Gene	84335	428.0,435.0
+PRR5L	GeneProduct	Entrez Gene	79899	781.0,514.0
+TSC1	GeneProduct	Entrez Gene	7248	534.0,287.0
+Actin Organization	Pathway			789.8333333333334,707.6666666666667
+Autophagy	Pathway			283.5,653.0
+MAPKAP1	GeneProduct	Entrez Gene	79109	621.0,514.0
+PRKCA	GeneProduct	Entrez Gene	5578	657.0,588.0
+PRKAG2	GeneProduct	Entrez Gene	51422	408.0,194.0
+Cytoskeletal dynamics	Pathway			622.8333333333334,708.6666666666667
+SREPB2	GeneProduct			70.323488045007,616.0337552742616
+Rapamycin	Metabolite	KEGG Compound	C07909	262.89746416758544,370.89746416758544
+EIF4EBP1	GeneProduct	Entrez Gene	1978	440.0,586.0
+MTOR	GeneProduct	Entrez Gene	2475	328.0,492.0
+RICTOR	GeneProduct	Entrez Gene	253260	621.0,494.0

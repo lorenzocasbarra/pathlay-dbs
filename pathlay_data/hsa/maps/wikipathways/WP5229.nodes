@@ -1,0 +1,32 @@
+TEXT	TYPE	DB	ID	X	Y
+Nephrotoxcicity adverse outcome pathway	hsa	wikipathways	WP5229
+SLC22A2	GeneProduct	Entrez Gene	6582	916.1392794397717,64.42205520751901
+Inflammatory response pathway	Pathway	WikiPathways	WP453	296.0274665421709,507.5402829558649
+KE1968: Increase, mitochondrial dysfunction	Event	AOP-Wiki KE	1968	1115.0296719761561,191.77297575948342
+KE1194: Increase, DNA damage	Event	AOP-Wiki KE	1194	706.5096453447354,191.77297575948344
+DNA damage response	Pathway	WikiPathways	WP707	706.5096453447354,241.60910269274808
+p53 transcriptional gene network	Pathway	WikiPathways	WP4963	706.5096453447354,345.79264451094696
+KE1923: Altered gene expression, P53 dependent apoptosis pathway	Event	AOP-Wiki KE	1923	706.5096453447354,320.58015567501513
+KE1815: Activation of ER stress	Event	AOP-Wiki KE	1815	1477.4820391988358,191.77297575948342
+Cytokines and inflammatory response	Pathway	WikiPathways	WP530	296.02746654217094,482.57506066034
+Ferroptosis	Pathway	WikiPathways	WP4313	932.4448390560256,750.977387227353
+Autophagy	Pathway	WikiPathways	WP4923	932.4448390560256,725.9686536392534
+RIPK1-mediated regulated necrosis	Pathway	WikiPathways	WP5022	932.4448390560256,701.9545439268179
+KE814: Occurence, kidney toxicity	Event	AOP-Wiki KE	814	932.3466850828731,849.4737569060771
+KE1633: Increase in inflammation	Event	AOP-Wiki KE	1633	296.02746654217094,457.35184449050143
+Apoptosis modulation and signaling	Pathway	WikiPathways	WP1772	1307.1291361976328,338.11599299309074
+TLR4 signaling and tolerance	Pathway	WikiPathways	WP3851	296.0274665421709,241.80662756220576
+Oxidative stress response	Pathway	WikiPathways	WP408	706.5096453447354,508.21614872559326
+Overview of proinflammatory and profibrotic mediators	Pathway	WikiPathways	WP5095	296.0274665421709,345.2691944071259
+KE1115: Increased, Reactive oygen species	Event	AOP-Wiki KE	1115	706.5096453447354,458.21614872559326
+KE55: Cell injury/death	Event	AOP-Wiki KE	55	932.4448390560254,650.6383704214937
+KE1262: Apoptosis	Event	AOP-Wiki KE	1262	1307.1291361976328,313.38021094926984
+Apoptosis modulation and signaling	Pathway	WikiPathways	WP1772	932.4448390560256,676.2654010773681
+DNA repair pathways, full network	Pathway	WikiPathways	WP4946	706.5096453447354,216.23741969046944
+Electron transport chain: OXPHOS system in mitochondria	Pathway	WikiPathways	WP111	1115.029671976157,217.2953994344411
+KE1848: Toll Like Receptor (TLR) dysregulation	Event	AOP-Wiki KE	1848	296.02746654217094,191.77297575948344
+Toll-like receptor signaling pathway	Pathway	WikiPathways	WP75	296.02746654217094,216.90431183608604
+KE1496: Increased, secretion of proinflammatory mediators	Event	AOP-Wiki KE	1496	296.027466542171,320.5801556750151
+SLC31A1	GeneProduct	Entrez Gene	1317	916.1392794397717,39.42205520751901
+Unfolded protein response	Pathway	WikiPathways	WP4925	1477.4820391988276,216.94408698095586
+Oxidative damage response	Pathway	WikiPathways	WP3941	706.5096453447354,483.21614872559326

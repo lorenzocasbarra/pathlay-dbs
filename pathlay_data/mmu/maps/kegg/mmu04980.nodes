@@ -1,0 +1,63 @@
+TEXT	TYPE	DB	ID	X	Y
+Cobalamin transport and metabolism	mmu	kegg	mmu04980
+Tcn2	GeneProduct	Entrez Gene	21452	127,403
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	127,429
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	127,429
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,429
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,429
+Cd320	GeneProduct	Entrez Gene	54219	201,403
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	320,429
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	320,429
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	320,429
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	320,429
+Tcn2	GeneProduct	Entrez Gene	21452	320,403
+Lmbrd1	GeneProduct	Entrez Gene	68421	490,417
+Tcn2	GeneProduct	Entrez Gene	21452	434,403
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	433,430
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	433,430
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	433,430
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	433,430
+Abcd4	GeneProduct	Entrez Gene	19300	490,434
+Zfp143	GeneProduct	Entrez Gene	20841	307,198
+Zfp523	GeneProduct	Entrez Gene	224656	307,198
+Cob(II)alamin	Metabolite	KEGG Compound	C00541	654,425
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	543,425
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	543,425
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	543,425
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	543,425
+Mmachc	GeneProduct	Entrez Gene	67096	595,414
+	Metabolite	KEGG Compound	C06409	654,519
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	654,230
+Mmut	GeneProduct	Entrez Gene	17850	654,208
+	Metabolite	KEGG Compound	C06410	766,520
+Mtrr	GeneProduct	Entrez Gene	210009	707,534
+	Metabolite	KEGG Compound	C22880	900,520
+Homocysteine	Metabolite	KEGG Compound	C00155	789,484
+L-2-Amino-4methylthiobutyric acid	Metabolite	KEGG Compound	C00073	866,481
+5-Methyltetrahydrofolate	Metabolite	KEGG Compound	C00440	869,562
+(6S)-THFA	Metabolite	KEGG Compound	C00101	792,565
+Mtr	GeneProduct	Entrez Gene	238505	830,540
+Mmab	GeneProduct	Entrez Gene	77697	626,287
+(R)-Methylmalonyl-CoA	Metabolite	KEGG Compound	C01213	599,194
+Succinyl coenzyme A	Metabolite	KEGG Compound	C00091	721,194
+Hcfc1	GeneProduct	Entrez Gene	15161	353,198
+Prdx1	GeneProduct	Entrez Gene	18477	299,242
+Thap11	GeneProduct	Entrez Gene	59016	399,198
+Mmadhc	GeneProduct	Entrez Gene	109129	626,388
+Cob(II)alamin	Metabolite	KEGG Compound	C00541	653,319
+Mmaa	GeneProduct	Entrez Gene	109136	601,226
+Mmadhc	GeneProduct	Entrez Gene	109129	626,467
+Cblif	GeneProduct	Entrez Gene	14603	127,303
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	127,329
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	127,329
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,329
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,329
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	127,229
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	127,229
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,229
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,229
+Cyanocob(III)alamin	Metabolite	KEGG Compound	C02823	127,130
+Methylcob(III)alamin	Metabolite	KEGG Compound	C06453	127,130
+(5'-Deoxy-5'-adenosyl)cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,130
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,130
+Cd320	GeneProduct	Entrez Gene	54219	274,403

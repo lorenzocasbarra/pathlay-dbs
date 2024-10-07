@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+Mammary gland development pathway - Puberty (Stage 2 of 4)	hsa	wikipathways	WP2814
+PGR	GeneProduct	Entrez Gene	5241	497.0,364.0
+AP1	GeneProduct	Entrez Gene	3725	357.0,219.0
+EGF	GeneProduct	Entrez Gene	1950	37.0,350.0
+ESR1	GeneProduct	Entrez Gene	2099	357.0,418.59058388552745
+Estrogen signaling pathway	Pathway	WikiPathways	WP712	239.0,350.0
+STAT5A	GeneProduct	Entrez Gene	6776	497.0,418.59058388552745
+ERBB2	GeneProduct	Entrez Gene	2064	118.0,350.0
+FOSL1	GeneProduct	Entrez Gene	8061	507.0,129.0
+AREG	GeneProduct	Entrez Gene	374	497.0,472.0
+FN1	GeneProduct	Entrez Gene	2335	507.0,273.0
+VIM	GeneProduct	Entrez Gene	7431	507.0,237.0
+NRIP1	GeneProduct	Entrez Gene	8204	636.0,418.59058388552745
+MYC	GeneProduct	Entrez Gene	4609	507.0,165.0
+TIMP1	GeneProduct	Entrez Gene	7076	507.0,309.0
+CCND1	GeneProduct	Entrez Gene	595	507.0,201.0
+DNA	Metabolite	KEGG Compound	C00039	422.88202247190986,418.5905838855274
+DNA	Metabolite	KEGG Compound	C00039	571.5309185196825,418.5905838855274
+Puberty	Pathway	WikiPathways	WP2814	357.0,61.99961471557617
+Involution	Pathway	WikiPathways	WP2815	634.0,61.99961471557617
+Pregnancy and lactation	Pathway	WikiPathways	WP2817	495.0,61.99961471557617
+Embryonic development	Pathway	WikiPathways	WP2813	221.0,61.99961471557617

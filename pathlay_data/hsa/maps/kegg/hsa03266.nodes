@@ -1,0 +1,11 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Herpesvirus	hsa	kegg	hsa03266
+ITGA5	GeneProduct	Entrez Gene	3678	894,195
+ITGB3	GeneProduct	Entrez Gene	3690	894,212
+PILRB	GeneProduct	Entrez Gene	29990	894,172
+PILRA	GeneProduct	Entrez Gene	29992	894,172
+IDE	GeneProduct	Entrez Gene	3416	896,323
+TNFRSF14	GeneProduct	Entrez Gene	8764	896,370
+NECTIN1	GeneProduct	Entrez Gene	5818	896,393
+IGF2R	GeneProduct	Entrez Gene	3482	896,441
+NECTIN2	GeneProduct	Entrez Gene	5819	896,417

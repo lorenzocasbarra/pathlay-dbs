@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+Arachidonate epoxygenase / epoxide hydrolase	hsa	wikipathways	WP678
+Glutathionyl-HETrEs	Metabolite			362.0,439.0
+CYP2C9	GeneProduct	Entrez Gene	1559	511.0,187.49166666666667
+5,6-DiH-PGF1a	Metabolite			176.0,140.0
+EPHX2	GeneProduct	Entrez Gene	2053	250.0,323.5
+Phosphotidyl-EpETrEs	Metabolite			490.75,439.0
+11,12-DiHETrE	Metabolite	HMDB	HMDB0002314	665.0,203.0
+COX	GeneProduct	Entrez Gene	9377	306.0,220.0
+EPHX2	GeneProduct	Entrez Gene	2053	609.75,312.5
+14(15)-EpETrE	Metabolite	HMDB	HMDB0004264	465.0,297.0
+EPHX2	GeneProduct	Entrez Gene	2053	571.0,267.0
+5(6)-Epoxy-PGE1	Metabolite	PubChem-compound	53481368	326.0,171.0
+CYP2C8	GeneProduct	Entrez Gene	1558	511.0,170.48333333333332
+5,6-DiHETrE	Metabolite	HMDB	HMDB0002343	176.0,217.0
+GST3	GeneProduct	Entrez Gene	2950	344.5,360.5
+Catalyst	GeneProduct			488.5,360.5
+8(9)-EpETrE	Metabolite	HMDB	HMDB0002232	373.0,297.0
+5(6)-EpETrE	Metabolite	HMDB	HMDB0002190	371.0,277.0
+11(12)-EpETrE	Metabolite	HMDB	HMDB0010409	465.25,277.0
+COX	GeneProduct	Entrez Gene	1351	120.25,183.0
+CYP2J2	GeneProduct	Entrez Gene	1573	511.0,150.48333333333332
+EPHX2	GeneProduct	Entrez Gene	2053	270.25,274.0
+8,9-DiHETrE	Metabolite	HMDB	HMDB0002311	155.0,397.0
+14,15-DiHETrE	Metabolite	HMDB	HMDB0002265	668.0,382.0
+Arachidonic acid	Metabolite	KEGG Compound	C00219	419.5,97.0

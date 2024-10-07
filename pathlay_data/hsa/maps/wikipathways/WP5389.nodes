@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+DNA adduct formation leading to kidney failure	hsa	wikipathways	WP5389
+DNA adduct formation				391.0,100.0
+DNA damage response	Pathway	WikiPathways	WP707	590.5,119.14297658862893
+DNA damage				391.0,166.0
+Cell death				391.0,219.0
+Inflammation				391.0,326.0
+Fibrosis				391.0,455.0
+Kidney failure				391.0,535.0
+DNA repair pathways	Pathway	WikiPathways	WP4946	590.5,144.64297658862893
+Apoptosis	Pathway	WikiPathways	WP254	391.0,244.25
+Apoptosis modulation and signaling	Pathway	WikiPathways	WP1772	391.0,269.75
+Collagen biosynthesis and modifying enzymes	Pathway	WikiPathways	WP2725	391.0,480.25
+Overview of proinflammatory and profibrotic mediators	Pathway	WikiPathways	WP5095	391.0,402.25
+Type II interferon signaling	Pathway	WikiPathways	WP619	391.0,351.25
+TNF-alpha signaling pathway	Pathway	WikiPathways	WP231	391.0,376.75

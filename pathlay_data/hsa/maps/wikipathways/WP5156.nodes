@@ -1,0 +1,15 @@
+TEXT	TYPE	DB	ID	X	Y
+SARS-CoV-2 replication organelle formation	hsa	wikipathways	WP5156
+Beclin-1	GeneProduct	Entrez Gene	8678	473.75,468.25
+VPS15		GeneProduct	Entrez Gene	30849	537.75,437.75
+VPS34	GeneProduct	Entrez Gene	5289	537.75,468.25
+AMBRA	GeneProduct	Entrez Gene	55626	473.75,437.75
+ATG14	GeneProduct	Entrez Gene	22863	501.75,499.75
+PI3P	Metabolite	ChEBI	26034	664.75,481.75
+DFCP1	GeneProduct	Entrez Gene	53349	772.75,480.75
+nsp3	Protein	NCBI Protein	YP_009725299	665.75,412.75
+rep 1ab	Protein	Uniprot-TrEMBL	P0DTD1	211.0,574.75
+rep 1ab	Protein	Uniprot-TrEMBL	P0DTD1	345.0,460.75
+rep 1ab	Protein	Uniprot-TrEMBL	P0DTD1	337.0,623.75
+rep 1ab	Protein	Uniprot-TrEMBL	P0DTD1	856.0,554.75
+rep 1ab	Protein	Uniprot-TrEMBL	P0DTD1	928.0,521.75

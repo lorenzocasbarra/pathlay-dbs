@@ -1,0 +1,38 @@
+TEXT	TYPE	DB	ID	X	Y
+Ebstein-Barr virus LMP1 signaling	hsa	wikipathways	WP262
+MAP3K3	GeneProduct	Entrez Gene	4215	453.0,340.0
+p52	GeneProduct	Entrez Gene	115482704	680.0,566.0
+JNK	GeneProduct	Entrez Gene	5599	505.0,573.0
+TNF	GeneProduct	Entrez Gene	7124	758.0,730.0
+p65	GeneProduct	Entrez Gene	65125	663.0,317.0
+LMP1	GeneProduct	Entrez Gene	9260	496.0,91.0
+p65	GeneProduct	Entrez Gene	65125	680.0,586.0
+p100	GeneProduct	Entrez Gene	84164	663.0,297.0
+I-Kappa-B	GeneProduct	Ensembl	ENSG00000100906	122.0,315.78345498783455
+IL8	GeneProduct	Entrez Gene	3576	670.0,730.0
+p65	GeneProduct	Entrez Gene	65125	438.0,638.0
+TRADD	GeneProduct	Entrez Gene	8717	446.0,221.0
+IFNB	GeneProduct	Entrez Gene	3456	670.0,770.0
+IKK-beta	GeneProduct	Entrez Gene	3551	370.0,450.0
+TRAF6	GeneProduct	Entrez Gene	7189	453.0,280.0
+IKK-alpha	GeneProduct	Entrez Gene	1147	370.0,430.0
+MAP3K7	GeneProduct	Entrez Gene	6885	453.0,300.0
+p50	GeneProduct	Entrez Gene	115482723	122.0,337.0
+IRAK1	GeneProduct	Entrez Gene	3654	446.0,241.0
+TRAF1	GeneProduct	Entrez Gene	7185	581.0,131.0
+p50	GeneProduct	Entrez Gene	115482723	438.0,618.0
+CCL5	GeneProduct	Entrez Gene	6352	758.0,750.0
+NIK	GeneProduct	Entrez Gene	9448	581.0,151.0
+TAB1	GeneProduct	Entrez Gene	10454	453.0,320.0
+p65	GeneProduct	Entrez Gene	65125	122.0,357.0
+IKK-alpha	GeneProduct	Entrez Gene	1147	618.0,222.0
+IKK-gamma	GeneProduct	Entrez Gene	8517	372.6595744680851,412.6595744680851
+p65	GeneProduct	Entrez Gene	65125	545.0,707.0
+p50	GeneProduct	Entrez Gene	115482723	200.0,450.0
+CCL20	GeneProduct	Entrez Gene	6364	670.0,750.0
+p38	GeneProduct	Entrez Gene	26073	588.0,573.0
+p65	GeneProduct	Entrez Gene	65125	200.0,470.0
+I-Kappa-B	GeneProduct	Ensembl	ENSG00000100906	200.0,430.0
+HSP90	GeneProduct	Entrez Gene	3320	370.0,470.0
+SFC complex	GeneProduct			113.0,222.0
+p50/p52	GeneProduct	Ensembl	ENSG00000109320	545.0,687.0

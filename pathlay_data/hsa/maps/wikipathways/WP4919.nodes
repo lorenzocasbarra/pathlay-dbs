@@ -1,0 +1,46 @@
+TEXT	TYPE	DB	ID	X	Y
+Neuroinflammation	hsa	wikipathways	WP4919
+Calmodulin	Metabolite	KEGG Compound	C00391	732.0,709.0
+JNK	GeneProduct	Entrez Gene	5599	512.8665966386552,149.0
+COX2	GeneProduct	Entrez Gene	8923202	275.7647058823522,813.6218487394957
+ROS	Pathway	WikiPathways	WP3941	583.7749328613281,319.3134068080358
+IL-1B	GeneProduct	HomoloGene	481	449.7226890756304,812.6218487394957
+p50	GeneProduct	Entrez Gene	115482723	133.0,370.0
+p65	GeneProduct	Entrez Gene	65125	133.0,395.0
+L-arginine	Metabolite	KEGG Compound	C00062	809.25,779.75
+COX1	GeneProduct	Entrez Gene	8923218	275.76470588235225,776.8571428571429
+Nitrate reductase	GeneProduct	BRENDA	1.7.99.4	816.5,365.0
+NADPH	Metabolite	KEGG Compound	C00005	915.0,716.0
+JUN	GeneProduct	Entrez Gene	3725	362.0,344.0
+FOS	GeneProduct	Entrez Gene	2353	304.0,430.0
+AKT	GeneProduct	Entrez Gene	207	246.0,209.0
+IKKα	GeneProduct	Ensembl	ENSG00000213341	194.0,272.0
+MAPK14	GeneProduct	Entrez Gene	1432	382.0,156.0
+Nitrate	Metabolite	KEGG Compound	C00244	667.0,419.0
+PI3K	GeneProduct	Entrez Gene	5294	246.0,148.0
+Ca2+	Metabolite	KEGG Compound	C00076	732.0,734.0
+iNOS	GeneProduct	Ensembl	ENSG00000007171	734.0,850.0
+Nitrite	Metabolite	KEGG Compound	C00088	923.0,419.0
+TNF-α	GeneProduct	HomoloGene	496	449.7226890756304,775.857142857143
+NO	Metabolite	KEGG Compound	C00533	777.0,592.0
+O2	Metabolite	KEGG Compound	C00007	914.0,808.0
+L-citrulline	Metabolite	KEGG Compound	C00327	668.0,634.0
+MTOR	GeneProduct	Entrez Gene	2475	130.0,209.0
+IκBα	GeneProduct	Ensembl	ENSG00000100906	133.0,345.0
+NADP+	Metabolite	KEGG Compound	C00006	915.0,674.0
+TLR4	GeneProduct	Entrez Gene	7099	512.8665966386552,83.0
+H2O	Metabolite	KEGG Compound	C00001	599.0,484.0
+NADPH	Metabolite	KEGG Compound	C00005	772.0,470.0
+NADP+	Metabolite	KEGG Compound	C00006	867.0,470.0
+O2	Metabolite	KEGG Compound	C00007	624.0,532.0
+JUN	GeneProduct	Entrez Gene	3725	304.0,405.0
+p50	GeneProduct	Entrez Gene	115482723	425.0,430.0
+p65	GeneProduct	Entrez Gene	65125	425.0,405.0
+p50	GeneProduct	Entrez Gene	115482723	133.0,499.65546218487367
+p65	GeneProduct	Entrez Gene	65125	133.0,524.6554621848736
+IκBα	GeneProduct	Ensembl	ENSG00000100906	133.0,474.65546218487367
+IκBα	GeneProduct	Ensembl	ENSG00000100906	71.19327731092426,572.201680672269
+p50	GeneProduct	Entrez Gene	115482723	427.0,594.0
+p65	GeneProduct	Entrez Gene	65125	425.0,487.0
+p50	GeneProduct	Entrez Gene	115482723	427.0,569.0
+p65	GeneProduct	Entrez Gene	65125	425.0,512.0

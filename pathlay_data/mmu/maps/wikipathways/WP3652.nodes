@@ -1,0 +1,25 @@
+TEXT	TYPE	DB	ID	X	Y
+Ectodysplasin A signaling in hair follicle development	mmu	wikipathways	WP3652
+p50	GeneProduct	Entrez Gene	18033	499.0,269.0
+Cell Differentiation	Pathway	WikiPathways	WP2082	669.0,606.0
+Rel	GeneProduct	Entrez Gene	19698	547.6666666666667,404.0
+EDA-A5 isoform	Protein	Uniprot-TrEMBL	Q1L2D9	592.6235827664399,66.0
+Nfkb2	GeneProduct	Entrez Gene	18034	449.6666666666667,388.0
+BMP Pathway	Pathway			175.99999999999997,468.00000000000006
+Relb	GeneProduct	Entrez Gene	19698	669.25,512.75
+Ltb	GeneProduct	Entrez Gene	16994	669.25,492.75
+Nfkb1	GeneProduct	Entrez Gene	18033	449.6666666666667,363.0
+Edar	GeneProduct	Entrez Gene	13608	499.0,153.0
+Rela	GeneProduct	Entrez Gene	19697	547.6666666666667,354.0
+Dkk4	GeneProduct	Entrez Gene	234130	303.25,369.25
+Sostdc1	GeneProduct	Entrez Gene	66042	303.0,468.01360544217715
+p65	GeneProduct	Entrez Gene	19697	499.0,249.0
+Relb	GeneProduct	Entrez Gene	19698	547.6666666666667,379.0
+EDA-A1 isoform	Protein	Uniprot-TrEMBL	Q3UV69	388.125850340136,66.0
+Edaradd	GeneProduct	Entrez Gene	171211	499.0,173.0
+Dkk1	GeneProduct	Entrez Gene	13380	303.25,389.25
+Cell Growth	Pathway			499.00000000000006,614.75
+Gli1	GeneProduct	Entrez Gene	14632	499.0,509.0
+Ptc	GeneProduct	Entrez Gene	19206	499.0,529.0
+Shh	GeneProduct	Entrez Gene	20423	499.0,489.0
+Wnt Signaling	Pathway	WikiPathways	WP403	166.00000000000006,379.33333333333354

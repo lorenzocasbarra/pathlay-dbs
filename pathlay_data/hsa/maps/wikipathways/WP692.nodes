@@ -1,0 +1,34 @@
+TEXT	TYPE	DB	ID	X	Y
+Sulfation biotransformation reaction	hsa	wikipathways	WP692
+SULT1E1	GeneProduct	Entrez Gene	6783	135.0,162.0
+PAPSS2	GeneProduct	Entrez Gene	9060	310.0,380.0
+Sulfate	Metabolite	KEGG Compound	C00059	185.0,434.0
+ATP	Metabolite	KEGG Compound	C00002	110.0,346.0
+Glutathione (reduced)	Metabolite	HMDB	HMDB0000125	518.4916666666667,28.483333333333334
+SULT1A1	GeneProduct	Entrez Gene	6817	55.0,82.0
+PAPS	Metabolite	KEGG Compound	C00053	463.0,296.0
+PAPSS1	GeneProduct	Entrez Gene	9061	310.0,360.0
+GPX	GeneProduct			669.0,54.0
+Sulfotransferase	GeneProduct			517.0,159.0
+G6PD	GeneProduct	Entrez Gene	2539	238.0,57.0
+SULT6B1	GeneProduct	Entrez Gene	391365	135.0,202.0
+SULT4A1	GeneProduct	Entrez Gene	25830	55.0,202.0
+NADPH	Metabolite	KEGG Compound	C00005	384.0,92.0
+SULT1A4	GeneProduct	Entrez Gene	445329	135.0,102.0
+Glutathione (oxidized)	Metabolite	HMDB	HMDB0003337	517.0,82.0
+SULT1A2	GeneProduct	Entrez Gene	6799	135.0,82.0
+PPi	Metabolite	KEGG Compound	C00013	111.0,395.0
+GSR	GeneProduct	Entrez Gene	2936	372.0,56.0
+SULT2A1	GeneProduct	Entrez Gene	6822	55.0,182.0
+SULT1C3	GeneProduct	Entrez Gene	442038	135.0,142.0
+APS	Metabolite	KEGG Compound	C00224	185.0,296.0
+SULT1A3	GeneProduct	Entrez Gene	6818	55.0,102.0
+SULT1C4	GeneProduct	Entrez Gene	27233	55.0,162.0
+SULT1C1	GeneProduct	Entrez Gene	6819	135.0,122.0
+ATP	Metabolite	KEGG Compound	C00002	262.0,249.0
+PAP	Metabolite	KEGG Compound	C00054	578.0,296.0
+SULT1C2	GeneProduct	Entrez Gene	6819	55.0,142.0
+NADP+	Metabolite	KEGG Compound	C00006	383.0,24.0
+SULT1B1	GeneProduct	Entrez Gene	27284	55.0,122.0
+SULT2B1	GeneProduct	Entrez Gene	6820	135.0,182.0
+ADP	Metabolite	KEGG Compound	C00008	362.0,249.0

@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+TGF-beta signaling in thyroid cells for epithelial-mesenchymal transition	hsa	wikipathways	WP3859
+RUNX2	GeneProduct	Entrez Gene	860	402.0,413.0
+PI3K	GeneProduct	Entrez Gene	5294	460.0,200.0
+CDH16	GeneProduct	Entrez Gene	1014	604.0,524.0
+N-CAD	Protein	Uniprot-TrEMBL	A0A024RC42	308.0,504.0
+E-CAD	GeneProduct	Uniprot-TrEMBL	P12830	604.0,504.0
+TNC	GeneProduct	Entrez Gene	3371	387.0,524.0
+ERK	GeneProduct	Entrez Gene	5594	460.0,257.0
+SMAD3	GeneProduct	Entrez Gene	4088	263.0,190.0
+SMAD4	GeneProduct	Entrez Gene	4089	263.0,210.0
+ID1	GeneProduct	Entrez Gene	3397	319.0,380.0
+MAPK	GeneProduct	Ensembl	ENSG00000100030	540.0,200.0
+FN1	GeneProduct	Entrez Gene	2335	308.0,544.0
+SNAI1	GeneProduct	Entrez Gene	6615	549.0,384.0
+CDH6	GeneProduct	Entrez Gene	1004	387.0,504.0
+VIM	GeneProduct	Entrez Gene	7431	308.0,524.0
+SMAD2	GeneProduct	Entrez Gene	4087	263.0,170.0
+TGF-B	GeneProduct	Uniprot-TrEMBL	P01137	370.75,86.25
+SNAI2	GeneProduct	Entrez Gene	6591	495.0,414.0
+AKT	GeneProduct	Entrez Gene	207	540.0,257.0

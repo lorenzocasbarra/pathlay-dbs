@@ -1,0 +1,102 @@
+TEXT	TYPE	DB	ID	X	Y
+Pentose and glucuronate interconversions	hsa	kegg	hsa00040
+3-dehydro-l-gulonate 6-phosphate	Metabolite	KEGG Compound	C14899	738,545
+beta-d-glucuronoside	Metabolite	KEGG Compound	C03033	422,419
+GUSB	GeneProduct	Entrez Gene	2990	489,419
+KL	GeneProduct	Entrez Gene	9365	489,419
+FGGY	GeneProduct	Entrez Gene	55277	491,889
+RPE	GeneProduct	Entrez Gene	6120	542,830
+RPEL1	GeneProduct	Entrez Gene	729020	542,830
+CRPPA	GeneProduct	Entrez Gene	729920	706,880
+XYLB	GeneProduct	Entrez Gene	9942	491,727
+AKR1B1	GeneProduct	Entrez Gene	231	818,629
+AKR1B15	GeneProduct	Entrez Gene	441282	818,629
+AKR1B10	GeneProduct	Entrez Gene	57016	818,629
+DCXR	GeneProduct	Entrez Gene	51181	520,646
+AKR1B1	GeneProduct	Entrez Gene	231	388,639
+AKR1B15	GeneProduct	Entrez Gene	441282	388,639
+AKR1B10	GeneProduct	Entrez Gene	57016	388,639
+CRYL1	GeneProduct	Entrez Gene	51084	663,417
+UGP2	GeneProduct	Entrez Gene	7360	269,507
+UGT2B11	GeneProduct	Entrez Gene	10720	348,419
+UGT2A1	GeneProduct	Entrez Gene	10941	348,419
+UGT2B28	GeneProduct	Entrez Gene	54490	348,419
+UGT1A10	GeneProduct	Entrez Gene	54575	348,419
+UGT1A8	GeneProduct	Entrez Gene	54576	348,419
+UGT1A7	GeneProduct	Entrez Gene	54577	348,419
+UGT1A6	GeneProduct	Entrez Gene	54578	348,419
+UGT1A5	GeneProduct	Entrez Gene	54579	348,419
+UGT1A9	GeneProduct	Entrez Gene	54600	348,419
+UGT1A4	GeneProduct	Entrez Gene	54657	348,419
+UGT1A1	GeneProduct	Entrez Gene	54658	348,419
+UGT1A3	GeneProduct	Entrez Gene	54659	348,419
+UGT2A2	GeneProduct	Entrez Gene	574537	348,419
+UGT2B4	GeneProduct	Entrez Gene	7363	348,419
+UGT2B7	GeneProduct	Entrez Gene	7364	348,419
+UGT2B10	GeneProduct	Entrez Gene	7365	348,419
+UGT2B15	GeneProduct	Entrez Gene	7366	348,419
+UGT2B17	GeneProduct	Entrez Gene	7367	348,419
+UGT2A3	GeneProduct	Entrez Gene	79799	348,419
+UGDH	GeneProduct	Entrez Gene	7358	269,435
+d-altronate	Metabolite	KEGG Compound	C00817	168,250
+d-glucose 1-phosphate	Metabolite	KEGG Compound	C00103	269,534
+d-fructuronate	Metabolite	KEGG Compound	C00905	452,345
+d-mannonate	Metabolite	KEGG Compound	C00514	292,345
+d-tagaturonate	Metabolite	KEGG Compound	C00558	292,250
+l-gulonate	Metabolite	KEGG Compound	C00800	662,385
+d-glucuronate 1-phosphate	Metabolite	KEGG Compound	C05385	422,385
+udp-glucuronate	Metabolite	KEGG Compound	C00167	270,385
+udp-glucose	Metabolite	KEGG Compound	C00029	269,471
+l-xylulose	Metabolite	KEGG Compound	C00312	657,639
+d-xylonolactone	Metabolite	KEGG Compound	C02266	205,639
+xylitol	Metabolite	KEGG Compound	C00379	437,639
+d-xylose	Metabolite	KEGG Compound	C00181	336,639
+d-ribitol 5-phosphate	Metabolite	KEGG Compound	C01068	653,878
+cdp-ribitol	Metabolite	KEGG Compound	C00789	759,878
+pyruvate	Metabolite	KEGG Compound	C00022	205,915
+2-dehydro-3-deoxy-d-xylonate	Metabolite	KEGG Compound	C03826	205,828
+d-xylonate	Metabolite	KEGG Compound	C00502	205,746
+d-ribulose	Metabolite	KEGG Compound	C00309	437,878
+ribitol	Metabolite	KEGG Compound	C00474	318,878
+d-xylulose 5-phosphate	Metabolite	KEGG Compound	C00231	541,727
+d-xylulose	Metabolite	KEGG Compound	C00310	437,727
+d-ribulose 5-phosphate	Metabolite	KEGG Compound	C00199	541,878
+d-lyxose	Metabolite	KEGG Compound	C00476	336,803
+l-ribulose	Metabolite	KEGG Compound	C00508	869,809
+l-arabitol	Metabolite	KEGG Compound	C00532	763,639
+l-xylulose 5-phosphate	Metabolite	KEGG Compound	C03291	657,732
+l-lyxose	Metabolite	KEGG Compound	C01508	601,735
+l-ribulose 5-phosphate	Metabolite	KEGG Compound	C01101	657,809
+l-arabinose	Metabolite	KEGG Compound	C00259	869,639
+d-arabitol	Metabolite	KEGG Compound	C01904	437,803
+3-dehydro-l-gulonate	Metabolite	KEGG Compound	C00618	662,445
+pectin	Metabolite	KEGG Compound	C00714	452,96
+pectate	Metabolite	KEGG Compound	C00470	452,148
+digalacturonate	Metabolite	KEGG Compound	C02273	452,199
+4-(4-deoxy-alpha-d-gluc-4-enuronosyl)-d-galacturonate	Metabolite	KEGG Compound	C06118	292,148
+5-dehydro-4-deoxy-d-glucuronate	Metabolite	KEGG Compound	C04053	292,199
+(4s)-4,6-dihydroxy-2,5-dioxohexanoate	Metabolite	KEGG Compound	C04349	88,199
+l-xylonate	Metabolite	KEGG Compound	C05411	831,445
+(4r,5s)-4,5,6-trihydroxy-2,3-dioxohexanoate	Metabolite	KEGG Compound	C04575	749,445
+l-lyxonate	Metabolite	KEGG Compound	C05412	749,386
+l-xylulose 1-phosphate	Metabolite	KEGG Compound	C06441	566,573
+glycolaldehyde	Metabolite	KEGG Compound	C00266	479,542
+glycerone phosphate	Metabolite	KEGG Compound	C00111	448,573
+DHDH	GeneProduct	Entrez Gene	27294	254,650
+2-dehydro-3-deoxy-d-gluconate	Metabolite	KEGG Compound	C00204	168,345
+glycerol	Metabolite	KEGG Compound	C00116	884,250
+d-galacturonate	Metabolite	KEGG Compound	C00333	452,250
+l-galactonate	Metabolite	KEGG Compound	C15930	604,250
+2-dehydro-3-deoxy-l-galactonate	Metabolite	KEGG Compound	C20680	698,250
+l-glyceraldehyde	Metabolite	KEGG Compound	C02426	791,250
+SORD	GeneProduct	Entrez Gene	6652	462,695
+AKR1A1	GeneProduct	Entrez Gene	10327	607,375
+d-glucuronate	Metabolite	KEGG Compound	C00191	555,385
+2,5-dioxopentanoate	Metabolite	KEGG Compound	C00433	86,828
+2-oxoglutarate	Metabolite	KEGG Compound	C00026	86,900
+d-xylono-1,4-lactone	Metabolite	KEGG Compound	C02753	131,639
+d-arabinose	Metabolite	KEGG Compound	C00216	437,1011
+d-ribulose 1-phosphate	Metabolite	KEGG Compound	C22337	541,943
+glycolaldehyde	Metabolite	KEGG Compound	C00266	653,943
+glycerone phosphate	Metabolite	KEGG Compound	C00111	631,973
+4-deoxy-l-threo-hex-4-enopyranuronate	Metabolite	KEGG Compound	C22712	372,199

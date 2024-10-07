@@ -1,0 +1,33 @@
+TEXT	TYPE	DB	ID	X	Y
+Wnt/beta-catenin signaling in leukemia	hsa	wikipathways	WP3658
+Junction plakoglobin	GeneProduct	Entrez Gene	3728	534.0,505.0
+DKK	GeneProduct	Ensembl	ENSG00000107984	467.0,122.0
+c-MYC	GeneProduct	Ensembl	ENSG00000136997	815.75,805.25
+AML1	GeneProduct	Entrez Gene	861	728.0,428.0
+TCF	GeneProduct	Entrez Gene	3172	565.0,791.0
+Phosphate	Metabolite	KEGG Compound	C00009	802.0,352.0
+LEF	GeneProduct	Ensembl	ENSG00000138795	565.0,811.0
+PPARD	GeneProduct	Entrez Gene	5467	815.75,825.25
+GSK3B	GeneProduct	Entrez Gene	2932	534.0,382.0
+Frizzled	Protein	Uniprot-TrEMBL	E5RGK8	612.0,222.0
+WNT	GeneProduct	Ensembl	ENSG00000125084	612.0,202.0
+RARA	GeneProduct	Entrez Gene	5914	730.0,520.0
+PLZF	GeneProduct	Entrez Gene	7704	729.0,572.0
+cyclin-D1	GeneProduct	Entrez Gene	595	815.75,785.25
+BCL9	GeneProduct	Entrez Gene	607	547.0,695.0
+RUNX1T1	GeneProduct	Entrez Gene	862	728.0,448.0
+FLT3	GeneProduct	Entrez Gene	2322	836.0,132.0
+PML	GeneProduct	Entrez Gene	5371	730.0,500.0
+AKT	GeneProduct	Entrez Gene	207	802.0,372.0
+Catenin beta-1	Protein	Uniprot-TrEMBL	B4DGU4	362.0,362.0
+RARA	GeneProduct	Entrez Gene	5914	729.0,592.0
+Phosphate	Metabolite	KEGG Compound	C00009	534.0,402.0
+LRP6	GeneProduct	Entrez Gene	4040	612.0,182.0
+APC	GeneProduct	Entrez Gene	324	534.0,342.0
+CK1	GeneProduct	Entrez Gene	122011	534.0,362.0
+LRP5	GeneProduct	Entrez Gene	4041	612.0,162.0
+WIF1	GeneProduct	Entrez Gene	11197	348.0,122.0
+AXIN	GeneProduct	Entrez Gene	8312	534.0,322.0
+SALL4	GeneProduct	Entrez Gene	57167	815.75,765.25
+Catenin beta-1	Protein	Uniprot-TrEMBL	B4DGU4	534.0,485.0
+PYGO	GeneProduct	Ensembl	ENSG00000171016	547.0,715.0

@@ -1,0 +1,33 @@
+TEXT	TYPE	DB	ID	X	Y
+Benzo(a)pyrene metabolism	hsa	wikipathways	WP696
+9-hydroxy-benzo[a]pyrene	Metabolite			822.0,178.0
+Benzo[a]pyrene-9-sulfate	Metabolite	PubChem-compound	149850	1123.0,148.0
+CYP3A4	GeneProduct	Entrez Gene	1576	248.0,559.0
+AKR1C2	GeneProduct	Entrez Gene	1646	670.0,539.0
+AKR1C3	GeneProduct	Entrez Gene	8644	750.0,539.0
+7,8-dihydroxy-7,8-dihydro-benzo[a]pyrene	Metabolite	Chemspider	24123	469.0,509.0
+CYP1A1	GeneProduct	Entrez Gene	1543	248.0,519.0
+Benzo[a]pyrene-7,8-dione	Metabolite	KEGG Compound	C22356	610.5,624.0
+SULT	GeneProduct			966.0,176.0
+Benzo[a]pyrene	Metabolite	KEGG Compound	C07535	469.0,71.0
+AKR1A1	GeneProduct	Entrez Gene	10327	670.0,519.0
+Benzo[a]pyrene-6,12-dione	Metabolite			319.0,299.0
+EPHX1	GeneProduct	Entrez Gene	2052	565.0,415.0
+AKR1C4	GeneProduct	Entrez Gene	1109	670.0,559.0
+Benzo[a]pyrene radical cation	Metabolite			209.0,184.0
+3-hydroxy-benzo[a]pyrene	Metabolite			641.0,176.0
+7-hydroxy-benzo[a]pyrene	Metabolite			735.0,205.0
+Benzo[a]pyrene-3,6-dione	Metabolite			209.5,328.0
+Benzo[a]pyrene-7-glucuronide	Metabolite			1147.5,326.0
+CYP1A1	GeneProduct	Entrez Gene	1543	559.0,254.0
+Benzo[a]pyrene-7-sulfate	Metabolite	PubChem-compound	23703977	1126.0,204.0
+AKR1C1	GeneProduct	Entrez Gene	1645	750.0,519.0
+CYP1B1	GeneProduct	Entrez Gene	1545	559.0,274.0
+Benzo[a]pyrene-9-glucuronide	Metabolite			1145.5,262.0
+CYP1B1	GeneProduct	Entrez Gene	1545	248.0,539.0
+9,10-epoxy-7,8-dihydroxy-7,8-dihydro-benzo[a]pyrene	Metabolite	Chemspider	46738	326.5,622.0
+6-hydroxy-benzo[a]pyrene	Metabolite			209.5,240.0
+Cytochrome P450 peroxidase	GeneProduct			211.8373934226554,102.85749086479899
+Glucuronosyltransferase	GeneProduct			974.0,292.0
+7,8-epoxy-benzo[a]pyrene	Metabolite			469.5,338.0
+Benzo[a]pyrene-1,6-dione	Metabolite	PubChem-compound	18300	92.5,299.0

@@ -1,0 +1,31 @@
+TEXT	TYPE	DB	ID	X	Y
+Iron-sulfur cluster biogenesis	hsa	wikipathways	WP5152
+NFS1	GeneProduct	Entrez Gene	9054	217.5,162.0
+LYRM4	GeneProduct	Entrez Gene	57128	217.5,137.0
+e-	Metabolite	KEGG Compound	C05359	140.5,423.0
+ISCU	GeneProduct	Entrez Gene	23479	303.0,203.0
+L-cysteine	Metabolite	KEGG Compound	C00097	170.0,210.0
+Fe	Metabolite	ChEBI	CHEBI:18248	109.5,305.0
+FXN	GeneProduct	Entrez Gene	2395	179.5,256.0
+[4Fe-4S] cluster	Metabolite	ChEBI	CHEBI:49883	288.5,422.0
+S	Metabolite	KEGG Compound	C00087	252.0,210.0
+FDX1	GeneProduct	Entrez Gene	2230	194.5,357.0
+FDXR	GeneProduct	Entrez Gene	2232	194.5,385.0
+ABCB7	GeneProduct	Entrez Gene	22	443.0,381.0
+HSPA9	GeneProduct	Entrez Gene	3313	211.0,492.0
+HSCB	GeneProduct	Entrez Gene	150274	215.0,521.0
+GLRX5	GeneProduct	Entrez Gene	51218	213.0,463.0
+NUBP2	GeneProduct	Entrez Gene	10101	587.0,449.0
+NUBP1	GeneProduct	Entrez Gene	4682	588.0,398.0
+NARF	GeneProduct	Entrez Gene	26502	691.0,469.0
+CIAO1	GeneProduct	Entrez Gene	4682	730.0,497.0
+CIAO2B	GeneProduct	Entrez Gene	51647	763.0,464.0
+FXN	GeneProduct	Entrez Gene	2395	718.5,194.0
+NFU1	GeneProduct	Entrez Gene	27247	718.0,165.0
+NFS1	GeneProduct	Entrez Gene	9054	587.5,182.0
+ISCU	GeneProduct	Entrez Gene	23479	588.0,209.0
+Fe	Metabolite	ChEBI	CHEBI:18248	237.5,279.0
+Fe	Metabolite	ChEBI	CHEBI:18248	255.0,304.0
+Fe	Metabolite	ChEBI	CHEBI:18248	122.5,275.0
+[4Fe-4S] cluster	Metabolite	ChEBI	CHEBI:49883	586.0,424.0
+ISCU	GeneProduct	Entrez Gene	23479	288.5,397.0

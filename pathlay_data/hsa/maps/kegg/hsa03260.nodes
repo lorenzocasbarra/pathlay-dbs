@@ -1,0 +1,10 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Human immunodeficiency virus	hsa	kegg	hsa03260
+CD4	GeneProduct	Entrez Gene	920	96,516
+CCR5	GeneProduct	Entrez Gene	1234	148,516
+CXCR4	GeneProduct	Entrez Gene	7852	199,516
+CLEC4M	GeneProduct	Entrez Gene	10332	251,516
+CD209	GeneProduct	Entrez Gene	30835	251,516
+CLEC4M	GeneProduct	Entrez Gene	10332	307,516
+CD209	GeneProduct	Entrez Gene	30835	307,516
+Heparan sulfate	Metabolite	KEGG Compound	C00925	94,546

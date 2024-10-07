@@ -1,0 +1,24 @@
+TEXT	TYPE	DB	ID	X	Y
+GLP-1 secretion from intestine to portal vein	hsa	wikipathways	WP5446
+				325.0,269.0
+				325.25,432.5
+PCSK1	GeneProduct	Entrez Gene	5122	276.0,354.0
+SGLT1	GeneProduct	Entrez Gene	6523	238.75,160.5
+Insulin secretion  in pancreas	Pathway	WikiPathways	WP5452	539.75,452.75
+Ca2+	Metabolite	KEGG Compound	C00076	100.0,279.0
+GLP-1	Protein	Wikidata	Q424611	378.5,304.75
+Sympathetic  nervous  system				486.0,77.0
+KATP channel	GeneProduct	Wikidata	Q4654794	411.0,160.0
+Parasympathetic nervous  system				590.0,77.0
+Alpha AR	GeneProduct	Wikidata	Q66563054	486.0,160.5
+mAChR	GeneProduct	Wikidata	Q410959	590.0,160.5
+GPCR	GeneProduct	Entrez Gene	442206	92.0,160.5
+SLC2A2	GeneProduct	Entrez Gene	6514	346.75,160.5
+GCG	GeneProduct	Entrez Gene	2641	196.75,304.75
+GLP-1	Protein	Wikidata	Q424611	378.5,434.75
+GNAQ	GeneProduct	Entrez Gene	2776	115.0,185.5
+G-gamma	GeneProduct	InterPro	IPR036284	70.0,210.5
+G-beta 	GeneProduct	InterPro	IPR016346	70.0,235.5
+Na+ channel	GeneProduct	Wikidata	Q424960	206.0,196.0
+Ca+ channel	GeneProduct	Wikidata	Q15322916	270.0,196.0
+Decrease hunger in hypothalamus	Pathway	WikiPathways	WP5445	539.75,411.75

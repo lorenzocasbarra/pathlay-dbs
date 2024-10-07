@@ -1,0 +1,13 @@
+TEXT	TYPE	DB	ID	X	Y
+Somatroph axis (GH) and its relationship to dietary restriction and aging	hsa	wikipathways	WP4186
+FOXO	GeneProduct	Ensembl	ENSG00000150907	168.85000000000002,351.0807499999999
+IGF-1	GeneProduct	Ensembl	ENSG00000140443	278.0,132.0
+PTEN	Protein	Ensembl	ENSG00000171862	161.05552457734373,200.0
+SIRT1	GeneProduct	Entrez Gene	23411	633.4583749999999,269.0
+PI3K 	Protein	NCBI Protein	NP_006209.2	278.0,200.0
+GH	Metabolite	KEGG Compound	C18181	278.0,61.0
+MTOR	GeneProduct	Entrez Gene	2475	415.1176999999998,354.0807499999999
+PGC-1 alpha	Protein	Uniprot-TrEMBL	Q01711	633.616,350.0807499999999
+AKT	GeneProduct	Entrez Gene	207	278.0,270.0
+IGF and insuline signaling	Pathway	WikiPathways	WP2799	431.5,91.0
+AMPK	Protein	Enzyme Nomenclature	2.7.11.31	492.3857499999999,270.0

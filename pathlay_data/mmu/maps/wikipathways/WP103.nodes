@@ -1,0 +1,33 @@
+TEXT	TYPE	DB	ID	X	Y
+Cholesterol biosynthesis	mmu	wikipathways	WP103
+Nsdhl	GeneProduct	Entrez Gene	18194	617.0,347.0
+(S)-2,3-Epoxysqualene	Metabolite	KEGG Compound	C01054	540.0,526.0
+Mevalonic acid	Metabolite	KEGG Compound	C00418	370.0,255.0
+farnesyl pyrophosphate	Metabolite	KEGG Compound	C00448	370.0,578.0
+Fdps	GeneProduct	Entrez Gene	110196	111.66666666666667,633.3333333333334
+Hmgcs1	GeneProduct	Entrez Gene	208715	298.3333333333333,136.33333333333334
+Sc4mol	GeneProduct	Entrez Gene	66234	617.0,367.0
+Lathosterol	Metabolite	KEGG Compound	C01189	540.0,313.3333333333333
+Sqle	GeneProduct	Entrez Gene	20775	617.0,565.6666666666666
+Lanosterin	Metabolite	CAS	79-63-0	540.0,437.0
+Mevalonic acid 5-pyrophosphate	Metabolite	CAS	1492-08-6	370.0,392.0
+Idi1	GeneProduct	Entrez Gene	319554	198.0,424.3333333333333
+Mvd	GeneProduct	Entrez Gene	192156	298.3333333333333,424.3333333333333
+Cyp51	GeneProduct	Entrez Gene	13121	617.0,387.0
+Hmgcr	GeneProduct	Entrez Gene	15357	298.3333333333333,211.0
+7-Dehydrocholesterol	Metabolite	KEGG Compound	C01164	540.0,241.98333333333332
+Dhcr7	GeneProduct	Entrez Gene	13360	617.0,206.66666666666666
+isopentenyl pyrophosphate	Metabolite	CAS	358-71-4	370.0,467.0
+Pmvk	GeneProduct	Entrez Gene	68603	298.3333333333333,355.0
+HMG-CoA	Metabolite	KEGG Compound	C00356	370.0,179.5
+Geranyl-PP	Metabolite	CAS	6699-20-3	209.0,578.0
+Cholesterol	Metabolite	KEGG Compound	C00187	540.0,166.66666666666666
+Fdps	GeneProduct	Entrez Gene	110196	276.3333333333333,518.3333333333334
+Mevalonic acid-5P	Metabolite	CAS	73566-35-5	370.0,327.0
+Squalene	Metabolite	KEGG Compound	C00751	540.0,609.0
+Sc5d	GeneProduct	Entrez Gene	235293	617.0,283.3333333333333
+Fdft1	GeneProduct	Entrez Gene	14137	412.3333333333333,655.0
+Lss	GeneProduct	Entrez Gene	16987	617.0,479.0
+Mvk	GeneProduct	Entrez Gene	17855	298.3333333333333,285.0
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	370.0,99.0
+Dimethylallylpyrophosphate	Metabolite	CAS	358-72-5	81.0,466.0

@@ -1,0 +1,20 @@
+TEXT	TYPE	DB	ID	X	Y
+GLP-1 in pancreatic islet cells	hsa	wikipathways	WP5447
+Glucose	Metabolite	KEGG Compound	C00031	485.0,64.4
+GLP-1	Protein	Wikidata	Q424611	749.0,222.0
+Insulin	GeneProduct	Entrez Gene	3630	112.0,309.0
+GLP1R	GeneProduct	Entrez Gene	2740	292.0,417.0
+GCG	GeneProduct	Entrez Gene	2641	658.6666666666669,129.4
+IL6	GeneProduct	Entrez Gene	3569	485.0,129.4
+IL6R	GeneProduct	Entrez Gene	3570	571.0,129.4
+SLC2A1	GeneProduct	Entrez Gene	6513	602.0,65.4
+SLC2A2	GeneProduct	Entrez Gene	6514	263.0,362.0
+INS	GeneProduct	Entrez Gene	3630	204.0,417.0
+Glucose	Metabolite	KEGG Compound	C00031	262.0,309.0
+Metabolic stress		Other	http://purl.jp/bio/4/id/200906012910470412	345.0,67.0
+Systematic inflammation		Wikidata	Q7663815	345.0,117.0
+Exercise		Wikidata	Q219067	345.0,92.0
+Hyperglycemia		Wikidata	Q271993	345.0,142.0
+Obesity		Wikidata	Q12174	345.0,167.0
+Diabetes		Wikidata	Q12206	345.0,192.0
+Proliferation		Wikidata	Q189101	60.0,417.0

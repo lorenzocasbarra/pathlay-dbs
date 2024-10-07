@@ -1,0 +1,4 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Rotavirus	hsa	kegg	hsa03271
+ITGA2	GeneProduct	Entrez Gene	3673	506,461
+ITGB1	GeneProduct	Entrez Gene	3688	559,461

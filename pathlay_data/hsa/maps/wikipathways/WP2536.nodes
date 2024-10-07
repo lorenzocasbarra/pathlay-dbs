@@ -1,0 +1,6 @@
+TEXT	TYPE	DB	ID	X	Y
+Colchicine metabolic pathway	hsa	wikipathways	WP2536
+Colchicine	Metabolite	KEGG Compound	C07592	145.0,111.0
+3DMC	Metabolite	Chemspider	264748	310.0,111.0
+2DMC	Metabolite	Chemspider	22210	145.0,246.0
+CYP3A4	GeneProduct	Entrez Gene	1576	211.0,192.0

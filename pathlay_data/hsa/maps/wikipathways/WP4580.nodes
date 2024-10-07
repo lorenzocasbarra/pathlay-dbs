@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Blood clotting and drug effects	hsa	wikipathways	WP4580
+Cross-linked fibrin	Pathway	WikiPathways	WP4927	567.5755064456719,604.25
+Vitamin K  pathway	Pathway	WikiPathways	WP5186	638.5,413.25
+Thromboxane A2	Metabolite	KEGG Compound	C02198	363.5,305.5
+Prostaglandin H2	Metabolite	KEGG Compound	C00427	363.5,215.5
+Coumadin	Metabolite	ChEBI	CHEBI:10034	393.0,468.15709421641793
+COX	Protein	InterPro	IPR038147	461.0,153.0
+Thrombin	Metabolite	KEGG Compound	C00752	480.0,410.75
+Arachidonic acid	Metabolite	KEGG Compound	C00219	363.5,106.75
+Prostacyclin	Metabolite	KEGG Compound	C01312	580.5,215.5
+Prothrombin	Metabolite	ChEBI	CHEBI:8583	273.0,410.75
+Fibrinogen	Protein	Wikidata	Q381899	393.0,523.75
+Vitamin K	Metabolite	KEGG Compound	C01628	567.5,467.0
+Thromboxane A2	Metabolite	KEGG Compound	C02198	363.5,365.8141884328358
+Fibrin	Metabolite	KEGG Compound	C00290	567.5,523.75
+NSAIDs	Metabolite	ChEBI	CHEBI:35475	263.90709421641793,171.09290578358213
+Eicosanoid synthesis	Pathway	WikiPathways	WP167	208.5,112.25

@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Activation of NLRP3 inflammasome by SARS-CoV-2	hsa	wikipathways	WP4876
+Chloroquine	Metabolite	KEGG Compound	C07625	217.51814882032676,172.41379310344834
+Cytokine storm	Pathway	WikiPathways	WP5257	458.0,321.0
+TRAF3	GeneProduct	Entrez Gene	7187	256.0,84.0
+NLRP3	GeneProduct	Entrez Gene	114548	402.0,70.0
+RELA	GeneProduct	Entrez Gene	5970	127.0,159.0
+NFKB1	GeneProduct	Entrez Gene	4790	72.0,159.0
+NFKB1 p105	GeneProduct	Ensembl	ENSG00000109320	94.5,79.0
+orf3a	Protein	RefSeq	YP_009724391	256.0,109.0
+IL1B	GeneProduct	Entrez Gene	3553	458.0,256.0
+pro-IL1B	GeneProduct	Ensembl	ENSG00000125538	335.75,256.0
+pro-IL1B	Rna	Ensembl	ENSG00000125538	199.75,256.0
+ASC	GeneProduct	Entrez Gene	29108	402.0,95.0
+CASP1	GeneProduct	Entrez Gene	834	402.0,204.0
+pro-CASP1	GeneProduct	Ensembl	ENSG00000137752	402.0,120.0

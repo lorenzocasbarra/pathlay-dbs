@@ -1,0 +1,31 @@
+TEXT	TYPE	DB	ID	X	Y
+Canonical and non-canonical TGF-B signaling	hsa	wikipathways	WP3874
+SMAD4	GeneProduct	Entrez Gene	4089	179.0,258.0
+BMPR2	GeneProduct	Entrez Gene	659	461.0,117.0
+MAPK14	GeneProduct	Entrez Gene	1432	461.0,250.0
+SMAD3	GeneProduct	Entrez Gene	4088	179.0,238.0
+LOXL4	GeneProduct	Entrez Gene	84171	179.0,438.2330363412922
+BMP1	GeneProduct	Entrez Gene	649	461.0,57.0
+LOXL2	GeneProduct	Entrez Gene	4017	179.0,458.2330363412922
+LOXL4	GeneProduct	Entrez Gene	84171	68.0,298.0
+LOXL1	GeneProduct	Entrez Gene	4016	179.0,398.2330363412922
+GREM1	GeneProduct	Entrez Gene	26585	461.0,37.0
+LOX	GeneProduct	Entrez Gene	4015	179.0,418.2330363412922
+LOXL2	GeneProduct	Entrez Gene	4017	68.0,318.0
+LOX	GeneProduct	Entrez Gene	4015	318.0,397.0
+LOX	GeneProduct	Entrez Gene	4015	68.0,258.0
+LOXL1	GeneProduct	Entrez Gene	4016	318.0,417.0
+JNK2	GeneProduct	Entrez Gene	5601	294.0,244.0
+JNK1	GeneProduct	Entrez Gene	5599	294.0,224.0
+LOX	GeneProduct	Entrez Gene	4015	386.0,274.0
+TGFBR2	GeneProduct	Entrez Gene	7048	294.0,116.0
+LOXL1	GeneProduct	Entrez Gene	4016	386.0,294.0
+LOXL1	GeneProduct	Entrez Gene	4016	68.0,278.0
+LOXL1	GeneProduct	Entrez Gene	4016	461.0,402.0
+SMAD2	GeneProduct	Entrez Gene	4087	179.0,218.0
+LOXL4	GeneProduct	Entrez Gene	84171	461.0,421.9999999999999
+TGFBR1	GeneProduct	Entrez Gene	7046	294.0,136.0
+LOXL1	GeneProduct	Entrez Gene	4016	522.0,295.0
+LOXL4	GeneProduct	Entrez Gene	84171	522.0,315.0
+BMPR1	GeneProduct	Ensembl	ENSG00000107779	461.0,137.0
+TGFB1	GeneProduct	Entrez Gene	7040	294.0,37.25

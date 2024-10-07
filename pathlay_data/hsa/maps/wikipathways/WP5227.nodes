@@ -1,0 +1,34 @@
+TEXT	TYPE	DB	ID	X	Y
+Thyroid hormone imbalance leading to neurodevelopmental abnormalities	hsa	wikipathways	WP5227
+Thyroid hormone biosynthesis pathway 	Pathway	WikiPathways	WP1981	346.63017391934096,217.18968167069715
+KE279: Thyroperoxidase inhibition 	Key Event	AOP-Wiki KE	279	346.63017391934096,186.42467594405696
+KE1656: Thyroid receptor antagonism	Key Event	AOP-Wiki KE	1656	1133.1183932791594,490.4940371210202
+KE424: NIS inhibition  	Key Event	AOP-Wiki KE	424	695.6132922666156,184.050424497773
+KE277: Decrease thyroid hormone synthesis  	Key Event	AOP-Wiki KE	277	346.63017391934096,303.7541315581363
+KE425: Decrease of thyroidal iodide	Key Event	AOP-Wiki KE	425	695.6132922666156,303.75413155813624
+KE281: Decreased T4 in serum	Key Event	AOP-Wiki KE	281	524.3137300106605,407.03858643176864
+KE381: Reduced levels of BDNF 	Key Event	AOP-Wiki KE	381	309.285921812262,529.5521470017403
+BDNF signaling pathway	Pathway	WikiPathways	WP2380	309.2859218122618,555.9612932860138
+KE280: Decreased T4 in neuronal tissue  	Key Event	AOP-Wiki KE	280	776.7637088147807,529.5521470017403
+KE756: Altered hippocampal gene expression  	Key Event	AOP-Wiki KE	756	776.7637088147828,628.331439862132
+Hippocampal synaptogenesis and neurogenesis	Pathway	WikiPathways	WP5231	776.3297862736099,656.9627610307512
+KE851: Decreased GABAergic interneurons 	Key Event	AOP-Wiki KE	851	309.285921812261,636.0005652654569
+GABA receptor signaling pathway	Pathway	WikiPathways	WP4159	309.28592181226156,662.5586228104412
+KE757: Altered hippocampal anatomy   	Key Event	AOP-Wiki KE	757	776.7637088147792,755.9250472056442
+KE758: Altered hippocampal physiology 	Key Event	AOP-Wiki KE	758	776.7637088147806,842.1840211827562
+KE385: Decreased synaptogenesis  	Key Event	AOP-Wiki KE	385	309.28592181226156,747.7148517303032
+KE386: Decreased neuronal network function	Key Event	AOP-Wiki KE	386	309.285921812262,840.7702573540801
+Hippocampal synaptogenesis and neurogenesis	Pathway	WikiPathways	WP5231	311.0265435478508,775.623421668253
+KE341: Learning and memory impairment 	Key Event	AOP-Wiki KE	341	309.285921812262,910.5146918070444
+KE42: Decreased cognitive function 	Key Event	AOP-Wiki KE	42	941.6325148166047,921.2116140227371
+KE319: loss of cochlear function	Key Event	AOP-Wiki KE	319	704.6462284080966,920.6640887106595
+Thyroid hormone biosynthesis pathway 	Pathway	WikiPathways	WP1981	695.6132922666155,213.44094751009374
+Thyroid hormone biosynthesis pathway 	Pathway	WikiPathways	WP1981	346.63017391934096,333.2820894495427
+KE2104: Decreased binding TH to thyroid receptor	Key Event	AOP-Wiki KE	2104	1133.1183932791591,555.9183673469378
+KE2105: Decreased myelin basic protein expression in oligodendrocytes	Key Event	AOP-Wiki KE	2105	1133.1183932791741,610.5612244897947
+KE2106: Impaired oligodendrocyte maturation	Key Event	AOP-Wiki KE	2106	1133.1183932791594,696.0204081632643
+KE2107: Hypomyelination	Key Event	AOP-Wiki KE	2107	1133.1183932791628,777.448979591836
+Oligodendrocyte specification and differentiation,  leading to myelin components for CNS	Pathway	WikiPathways	WP4304	1133.1183932791594,723.5204081632643
+Oligodendrocyte specification and differentiation,  leading to myelin components for CNS	Pathway	WikiPathways	WP4304	1133.1183932791628,804.948979591836
+Oligodendrocyte specification and differentiation,  leading to myelin components for CNS	Pathway	WikiPathways	WP4304	1133.1183932791741,638.0612244897947
+KE2108: Altered white brain matter	Key Event	AOP-Wiki KE	2108	1133.118393279174,857.6020408163262

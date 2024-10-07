@@ -1,0 +1,14 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Ebolavirus, Lyssavirus and Morbillivirus	hsa	kegg	hsa03265
+NGFR	GeneProduct	Entrez Gene	4804	747,677
+CHRNA1	GeneProduct	Entrez Gene	1134	747,631
+NCAM1	GeneProduct	Entrez Gene	4684	747,654
+NCAM2	GeneProduct	Entrez Gene	4685	747,654
+NPC1	GeneProduct	Entrez Gene	4864	647,401
+ASGR1	GeneProduct	Entrez Gene	432	704,401
+CLEC4M	GeneProduct	Entrez Gene	10332	747,1073
+CD209	GeneProduct	Entrez Gene	30835	747,1073
+CD46	GeneProduct	Entrez Gene	4179	747,1005
+SLAMF1	GeneProduct	Entrez Gene	6504	747,1026
+NECTIN4	GeneProduct	Entrez Gene	81607	747,1047
+FCGR2B	GeneProduct	Entrez Gene	2213	747,817

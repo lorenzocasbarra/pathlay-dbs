@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+GPR40 pathway	hsa	wikipathways	WP3958
+inositol-3-phosphate	Metabolite	ChEBI	CHEBI:16595	267.0,367.0
+PLCH1	GeneProduct	Entrez Gene	23007	341.0,233.0
+DAG	Metabolite	ChEBI	CHEBI:18035	400.0,362.0
+PLCD3	GeneProduct	Entrez Gene	113026	341.0,271.0
+PLCG2	GeneProduct	Entrez Gene	5336	253.0,210.0
+PKD1	GeneProduct	Entrez Gene	5310	464.33333333333354,240.99999999999994
+IP3R	GeneProduct	Entrez Gene	3710	296.32882011605426,503.1315280464216
+PLCD1	GeneProduct	Entrez Gene	5333	253.0,286.0
+PLCZ1	GeneProduct	Entrez Gene	89869	341.0,194.0
+PLCB1	GeneProduct	Entrez Gene	23236	253.0,249.0
+Ca2+	Metabolite	KEGG Compound	C00076	406.3552546744033,440.53062540296594
+GNA11	GeneProduct	Entrez Gene	2767	296.0,115.0
+PLCE1	GeneProduct	Entrez Gene	51196	253.0,229.0
+PLCL1	GeneProduct	Entrez Gene	5334	341.0,252.0
+PLCB2	GeneProduct	Entrez Gene	5330	253.0,267.0
+PLCB3	GeneProduct	Entrez Gene	5331	341.0,214.0
+GPR40	GeneProduct	Entrez Gene	2864	296.0,96.0
+PLCG1	GeneProduct	Entrez Gene	5335	253.0,191.0
+Unknown target  genes	GeneProduct			588.1666666666655,191.3333333333338

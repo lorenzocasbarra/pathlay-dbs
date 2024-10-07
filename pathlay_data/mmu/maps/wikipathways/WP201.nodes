@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Ptf1a related regulatory pathway	mmu	wikipathways	WP201
+Pdx1	GeneProduct	Entrez Gene	18609	745.0,438.0
+Rbpj	GeneProduct	Entrez Gene	19664	85.5,232.0
+miR-495	RNA	miRBase Sequence	MI0004639	495.48333333333335,121.0
+Nkx6-1	GeneProduct	Entrez Gene	18096	226.48333333333332,532.4833333333333
+Ctnnb1	GeneProduct	Entrez Gene	12387	161.0,121.0
+Hes1	GeneProduct	Entrez Gene	15205	745.0,121.0
+Prox1	GeneProduct	Entrez Gene	19130	294.4833333333333,532.4833333333333
+Rbpj	GeneProduct	Entrez Gene	19664	646.9833333333333,232.0
+Notch1	GeneProduct	Entrez Gene	18128	617.9833333333333,121.0
+Pdx1	Protein	Ensembl	ENSMUSG00000029644	85.5,370.0
+Fgf10	GeneProduct	Entrez Gene	14165	238.98333333333332,121.0
+Kat2b	GeneProduct	Entrez Gene	18519	85.5,121.0
+miR-145	RNA	miRBase Sequence	MI0000169	409.98333333333335,121.0
+Rbpjl	GeneProduct	Entrez Gene	19668	647.0,370.0
+miR-18a	RNA	miRBase Sequence	MI0000567	323.48333333333335,121.0
+Ptf1a	GeneProduct	Entrez Gene	19213	380.5,289.0

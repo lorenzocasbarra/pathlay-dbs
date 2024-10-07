@@ -1,0 +1,27 @@
+TEXT	TYPE	DB	ID	X	Y
+Hedgehog signaling	hsa	wikipathways	WP47
+ADRBK1	Protein	Entrez Gene	156	373.5,448.0
+IHH	Protein	Entrez Gene	3549	135.0,218.0
+GLI2	Protein	Entrez Gene	2736	535.0,605.0
+SHH	Protein	Entrez Gene	6469	272.0,218.0
+SAP18	Protein	Entrez Gene	10284	249.0,842.0
+SMO	Protein	Entrez Gene	6608	535.0,371.0
+STK36	Protein	Entrez Gene	27148	647.0,515.0
+GLI1	Protein	Entrez Gene	2735	477.0,605.0
+DHH	Protein	Entrez Gene	50846	190.0,218.0
+GLI3	Protein	Entrez Gene	2737	594.0,605.0
+GLI1	Protein	Entrez Gene	2735	322.0,854.0
+IHH	Protein	Entrez Gene	3549	325.0,218.0
+SUFU	Protein	Entrez Gene	51684	337.0,759.0
+GLI2	Protein	Entrez Gene	2736	380.0,854.0
+ARRB2	Protein	Entrez Gene	406	656.5,371.0
+PTCH2	Protein	Entrez Gene	8643	136.5,375.0
+SUFU	Protein	Entrez Gene	51684	492.0,514.0
+STK36	Protein	Entrez Gene	27148	423.0,759.0
+KIF7	Protein	Entrez Gene	374654	578.0,515.0
+SHH	Protein	Entrez Gene	6469	82.0,218.0
+PTCH1	Protein	Entrez Gene	5727	322.5,375.0
+SIN3A	Protein	Entrez Gene	25942	249.0,862.0
+DHH	Protein	Entrez Gene	50846	378.0,218.0
+GLI3	Protein	Entrez Gene	2737	439.0,854.0
+SMO	Protein	Entrez Gene	6608	240.5,491.0

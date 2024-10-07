@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+GPCRs, class B secretin-like	mmu	wikipathways	WP456
+Calcr	GeneProduct	Entrez Gene	12311	96.0,149.66666666666666
+Calcrl	GeneProduct	Entrez Gene	54598	96.0,169.66666666666666
+Crhr1	GeneProduct	Entrez Gene	12921	96.0,233.66666666666666
+Crhr2	GeneProduct	Entrez Gene	12922	96.0,253.66666666666666
+Gipr	GeneProduct	Entrez Gene	381853	96.0,311.6666666666667
+Glp2r	GeneProduct	Entrez Gene	93896	96.0,371.6666666666667
+Glp1r	GeneProduct	Entrez Gene	14652	96.0,391.6666666666667
+Gcgr	GeneProduct	Entrez Gene	14527	96.0,411.6666666666667
+Ghrhr	GeneProduct	Entrez Gene	14602	96.0,469.6666666666667
+Pth2r	GeneProduct	Entrez Gene	213527	307.0,143.0
+Pth1r	GeneProduct	Entrez Gene	19228	307.0,163.0
+Adcyap1r1	GeneProduct	Entrez Gene	11517	307.0,216.0
+SCTR	GeneProduct	Entrez Gene	319229	307.0,261.0
+Vipr1	GeneProduct	Entrez Gene	22354	307.0,317.0
+Vipr2	GeneProduct	Entrez Gene	22355	307.0,337.0
+Cd97	GeneProduct	Entrez Gene	26364	307.0,409.0
+Emr1	GeneProduct	Entrez Gene	13733	307.0,429.0
+Cd97	GeneProduct	Entrez Gene	26364	307.0,449.0
+EMR2	GeneProduct			307.0,469.0
+Lphn1	GeneProduct	Entrez Gene	330814	519.3333333333334,157.0
+Lphn2	GeneProduct	Entrez Gene	99633	519.3333333333334,177.0
+Lphn3	GeneProduct	Entrez Gene	319387	519.3333333333334,197.0
+Eltd1	GeneProduct	Entrez Gene	170757	519.3333333333334,217.0
+Gpr64	GeneProduct	Entrez Gene	237175	518.3333333333334,280.6666666666667

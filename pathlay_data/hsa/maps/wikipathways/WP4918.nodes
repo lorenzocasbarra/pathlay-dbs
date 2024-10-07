@@ -1,0 +1,28 @@
+TEXT	TYPE	DB	ID	X	Y
+Cellular proteostasis	hsa	wikipathways	WP4918
+Degradation via autophagy	Pathway	WikiPathways	WP4923	744.5,272.0
+PFDN3	GeneProduct	Entrez Gene	7411	201.0,146.0
+Degradation via UPS	Pathway	WikiPathways	WP183	299.00000190734863,769.0140845070423
+PFDN1	GeneProduct	Entrez Gene	5201	201.0,96.0
+Hsp110	GeneProduct	Ensembl	ENST00000629751	407.0,459.0
+Hsp40	GeneProduct	Entrez Gene	3337	405.0,174.0
+Hsp90	GeneProduct	Entrez Gene	3320	226.0,565.0
+CHIP	GeneProduct	Entrez Gene	10273	926.0,489.0
+UPR	Pathway	WikiPathways	WP1939	1060.0,622.0
+Hsp70	GeneProduct	Ensembl	ENSG00000225217	405.0,199.0
+PFDN4	GeneProduct	Entrez Gene	5203	201.0,171.0
+PFDN5	GeneProduct	Entrez Gene	5204	201.0,196.0
+PFDN6	GeneProduct	Entrez Gene	10471	201.0,221.0
+PFDN2	GeneProduct	Entrez Gene	5202	201.0,121.0
+Hsp40	GeneProduct	Entrez Gene	3337	407.0,409.0
+Hsp70	GeneProduct	Ensembl	ENSG00000225217	407.0,434.0
+Hsp40	GeneProduct	Entrez Gene	3337	134.0,266.0
+Hsp70	GeneProduct	Ensembl	ENSG00000225217	134.0,291.0
+Hsp110	GeneProduct	Ensembl	ENST00000629751	408.0,692.0
+Hsp40	GeneProduct	Entrez Gene	3337	408.0,642.0
+Hsp70	GeneProduct	Ensembl	ENSG00000225217	408.0,667.0
+Hsp90	GeneProduct	Entrez Gene	3320	89.0,358.0
+Hsp70	GeneProduct	Ensembl	ENSG00000225217	925.0,447.5
+Hsp70	GeneProduct	Ensembl	ENSG00000225217	715.0,607.5
+Hsp90	GeneProduct	Entrez Gene	3320	822.0,611.0
+CHIP	GeneProduct	Entrez Gene	10273	226.0,616.0

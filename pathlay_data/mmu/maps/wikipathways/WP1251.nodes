@@ -1,0 +1,211 @@
+TEXT	TYPE	DB	ID	X	Y
+Metapathway biotransformation	mmu	wikipathways	WP1251
+GSTA5	GeneProduct			481.0,292.0
+Sulfotransferase	GeneProduct			491.0,868.0
+Cyp4b1	GeneProduct	Entrez Gene	13120	161.0,305.0
+Ndst4	GeneProduct	Entrez Gene	64580	691.0,610.0
+GSTA4	GeneProduct	Entrez Gene	14860	481.0,272.0
+Akr7a5	GeneProduct	Entrez Gene	110198	265.0,479.0
+Nat12	GeneProduct	Entrez Gene	70646	558.0,165.0
+NAT1	GeneProduct			478.0,85.0
+Flavin monooxygenase	GeneProduct			185.0,685.0
+SULT1C2	GeneProduct	Entrez Gene	69083	691.0,210.0
+UGT1A5	GeneProduct	Entrez Gene	394433	350.0,205.0
+NAT2	GeneProduct	Entrez Gene	17961	558.0,85.0
+Substrate-SH	Metabolite	ChEBI	CHEBI:29256	265.0,977.0
+Ugt1a5	GeneProduct	Entrez Gene	394433	270.0,205.0
+Cyp39a1	GeneProduct	Entrez Gene	56050	81.0,585.0
+Cyp27a1	GeneProduct	Entrez Gene	104086	161.0,545.0
+CYP2D6	GeneProduct			161.0,185.0
+Ndst2	GeneProduct	Entrez Gene	17423	691.0,590.0
+Cyp2u1	GeneProduct	Entrez Gene	71519	161.0,245.0
+CYP450	GeneProduct			185.0,861.0
+Fmo5	GeneProduct	Entrez Gene	14263	272.0,125.0
+Ndst3	GeneProduct	Entrez Gene	83398	771.0,590.0
+Hs6st1	GeneProduct	Entrez Gene	50785	691.0,550.0
+Gstt2	GeneProduct	Entrez Gene	14872	481.0,412.0
+UGT1A7	GeneProduct	Entrez Gene	394432	350.0,225.0
+Cyp4f18	GeneProduct	Entrez Gene	72054	161.0,325.0
+AKR1C2	GeneProduct			265.0,439.0
+Cyp4x1	GeneProduct	Entrez Gene	81906	161.0,385.0
+Hs3st1	GeneProduct	Entrez Gene	15476	771.0,470.0
+Mgst2	GeneProduct	Entrez Gene	211666	481.0,452.0
+HS3ST3A1	GeneProduct	Entrez Gene	15478	771.0,490.0
+Amino acid acyltransferase	GeneProduct			489.5,794.0
+CYP2A7	GeneProduct			81.0,125.0
+Cyp4f39	GeneProduct	Entrez Gene	320997	161.0,365.0
+Gpx1	GeneProduct	Entrez Gene	14775	478.0,509.0
+Substrate-NH2	Metabolite	ChEBI	CHEBI:50047	265.0,997.0
+N-acetyltransferase	GeneProduct			492.0,940.0
+Chst7	GeneProduct	Entrez Gene	60322	691.0,350.0
+Tpmt	GeneProduct	Entrez Gene	22017	268.0,618.0
+Glyat	GeneProduct	Entrez Gene	107146	957.0,87.0
+Hnmt	GeneProduct	Entrez Gene	140483	268.48333333333335,598.9833333333333
+Baat	GeneProduct	Entrez Gene	12012	877.0,87.0
+Fmo3	GeneProduct	Entrez Gene	14262	272.0,105.0
+CYP2B6	GeneProduct			81.0,145.0
+CYP2C19	GeneProduct			81.0,185.0
+Chst1	GeneProduct	Entrez Gene	76969	691.0,290.0
+GSTA1	GeneProduct	Entrez Gene	14857	481.0,252.0
+Cyp24a1	GeneProduct	Entrez Gene	13081	161.0,505.0
+Chst3	GeneProduct	Entrez Gene	53374	691.0,310.0
+UGT1A10	GeneProduct	Entrez Gene	394430	270.0,265.0
+CYP4F12	GeneProduct			81.0,365.0
+UGT2B4	GeneProduct			270.0,305.0
+Sult1b1	GeneProduct	Entrez Gene	56362	691.0,190.0
+UGT1A9	GeneProduct	Entrez Gene	394434	350.0,245.0
+CYP27C1	GeneProduct			161.0,565.0
+CYP2A6	GeneProduct			161.0,105.0
+SULT1C4	GeneProduct			691.0,230.0
+Cyp46a1	GeneProduct	Entrez Gene	13116	161.0,585.0
+CYP2C9	GeneProduct			81.0,165.0
+Substrate=O	Metabolite	ChEBI	CHEBI:36586	371.0,755.0
+Cyp4v3	GeneProduct	Entrez Gene	102294	81.0,385.0
+Nat6	GeneProduct	Entrez Gene	56441	558.0,105.0
+GSTM4	GeneProduct	Entrez Gene	14865	481.0,352.0
+Gpx2	GeneProduct	Entrez Gene	14776	558.0,509.0
+CYP11B1	GeneProduct	Entrez Gene	110115	161.0,445.0
+Substrate-Aa	Metabolite			595.0,833.0
+CYP2C18	GeneProduct			161.0,165.0
+CYP4F11	GeneProduct			161.0,345.0
+GLYATL1	GeneProduct			877.0,107.0
+Substrate-CH3	Metabolite			605.0,1129.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	270.0,185.0
+Cyp1a2	GeneProduct	Entrez Gene	13077	161.0,85.0
+Akr1b3	GeneProduct	Entrez Gene	11677	345.0,399.0
+Hs3st2	GeneProduct	Entrez Gene	195646	691.0,490.0
+Nat14	GeneProduct	Entrez Gene	269854	558.0,185.0
+Gpx3	GeneProduct	Entrez Gene	14778	478.0,529.0
+Cyp1b1	GeneProduct	Entrez Gene	13078	81.0,105.0
+GLYATL2	GeneProduct			957.0,107.0
+Gsto1	GeneProduct	Entrez Gene	14873	481.0,372.0
+Cyp20a1	GeneProduct	Entrez Gene	77951	161.0,485.0
+Cyp2s1	GeneProduct	Entrez Gene	74134	81.0,245.0
+Sult1e1	GeneProduct	Entrez Gene	20860	771.0,230.0
+Cyp19a1	GeneProduct	Entrez Gene	13075	81.0,485.0
+Cyp21a1	GeneProduct	Entrez Gene	13079	81.0,505.0
+AKR7A3	GeneProduct			345.0,479.0
+Cyp26c1	GeneProduct	Entrez Gene	546726	81.0,545.0
+SULT2A1	GeneProduct	Entrez Gene	20859	691.0,250.0
+Hs6st2	GeneProduct	Entrez Gene	50786	771.0,550.0
+Cyp27b1	GeneProduct	Entrez Gene	13115	81.0,565.0
+Cyp26b1	GeneProduct	Entrez Gene	232174	161.0,525.0
+Gstt1	GeneProduct	Entrez Gene	14871	561.0,392.0
+Akr1a4	GeneProduct	Entrez Gene	58810	265.0,399.0
+Fmo1	GeneProduct	Entrez Gene	14261	272.0,85.0
+UGT2B7	GeneProduct			350.0,305.0
+Nat5	GeneProduct	Entrez Gene	72117	478.0,105.0
+UGT2A2	GeneProduct	Entrez Gene	552899	270.0,285.0
+Inmt	GeneProduct	Entrez Gene	21743	348.48333333333335,598.9833333333333
+Nnmt	GeneProduct	Entrez Gene	18113	348.0,578.0
+Gstm7	GeneProduct	Entrez Gene	68312	481.0,332.0
+AKR1C3	GeneProduct			345.0,439.0
+Aldo-keto reductase	GeneProduct			316.0,686.0
+Methyltransferase	GeneProduct			490.5,1095.0
+AC161058.2-1	GeneProduct	Ensembl	ENSMUSG00000029541	81.0,265.0
+Nat10	GeneProduct	Entrez Gene	98956	558.0,145.0
+Chst11	GeneProduct	Entrez Gene	58250	691.0,390.0
+Chst9	GeneProduct	Entrez Gene	71367	691.0,370.0
+SULT1C3	GeneProduct			771.0,210.0
+Gal3st4	GeneProduct	Entrez Gene	330217	771.0,450.0
+CYP3A7	GeneProduct			161.0,285.0
+UGT2B15	GeneProduct			350.0,325.0
+UGT2B11	GeneProduct			270.0,325.0
+Cyp7a1	GeneProduct	Entrez Gene	13122	161.0,405.0
+Gstz1	GeneProduct	Entrez Gene	14874	481.0,432.0
+Substrate-O-R	Metabolite	ChEBI	CHEBI:25698	266.0,755.0
+CYP4F2	GeneProduct			81.0,325.0
+Chst2	GeneProduct	Entrez Gene	54371	771.0,290.0
+Cyp2f2	GeneProduct	Entrez Gene	13107	161.0,205.0
+Gal3st1	GeneProduct	Entrez Gene	53897	691.0,430.0
+Hs3st5	GeneProduct	Entrez Gene	319415	691.0,530.0
+Gstk1	GeneProduct	Entrez Gene	76263	481.0,312.0
+Gal3st3	GeneProduct	Entrez Gene	545276	691.0,450.0
+Hs2st1	GeneProduct	Entrez Gene	23908	691.0,470.0
+Cyp8b1	GeneProduct	Entrez Gene	13124	161.0,425.0
+Cyp1a1	GeneProduct	Entrez Gene	13076	81.0,85.0
+Glucuronosyltransferase	GeneProduct			492.5,1029.0
+Gsr	GeneProduct	Entrez Gene	14782	577.0,607.0
+Substrate-Ac	Metabolite			593.0,977.0
+Sult4a1	GeneProduct	Entrez Gene	29859	691.0,270.0
+Substrate-OH	Metabolite	ChEBI	CHEBI:30879	265.0,957.0
+Hs6st3	GeneProduct	Entrez Gene	50787	691.0,570.0
+CYP11B2	GeneProduct	Entrez Gene	13072	81.0,465.0
+GSTM5	GeneProduct	Entrez Gene	14866	561.0,352.0
+CYP4Z1	GeneProduct			81.0,405.0
+Substrate-Gl	Metabolite			597.0,1063.0
+AKR1C4	GeneProduct			265.0,459.0
+Ugt2a2	GeneProduct	Entrez Gene	552899	350.0,265.0
+Ndst1	GeneProduct	Entrez Gene	15531	771.0,570.0
+AKR1C1	GeneProduct			345.0,419.0
+Kcnab1	GeneProduct	Entrez Gene	16497	265.0,499.0
+Gstcd	GeneProduct	Entrez Gene	67553	561.0,292.0
+AC122521.4	GeneProduct	Ensembl	ENSMUSG00000056643	691.0,410.0
+Cyp7b1	GeneProduct	Entrez Gene	13123	81.0,425.0
+Cyp11a1	GeneProduct	Entrez Gene	13070	81.0,445.0
+CYP2C8	GeneProduct			161.0,145.0
+Ugt2a3	GeneProduct	Entrez Gene	72094	350.0,285.0
+Chst10	GeneProduct	Entrez Gene	98388	771.0,370.0
+Sult1c2	GeneProduct	Entrez Gene	69083	771.0,190.0
+Ephx1	GeneProduct	Entrez Gene	13849	686.0,85.0
+Nat9	GeneProduct	Entrez Gene	66176	478.0,145.0
+Nat8l	GeneProduct	Entrez Gene	269642	558.0,125.0
+Sult1a1	GeneProduct	Entrez Gene	20887	771.0,150.0
+Nat13	GeneProduct	Entrez Gene	72117	478.0,185.0
+Hs3st4	GeneProduct	Entrez Gene	628779	771.0,510.0
+UGT1A6	GeneProduct			270.0,225.0
+Gpx4	GeneProduct	Entrez Gene	625249	558.0,529.0
+Cyp2r1	GeneProduct	Entrez Gene	244209	161.0,225.0
+HS3ST3B1	GeneProduct	Entrez Gene	54710	691.0,510.0
+Sult2b1	GeneProduct	Entrez Gene	54200	771.0,250.0
+Gss	GeneProduct	Entrez Gene	14854	467.0,607.0
+Gpx5	GeneProduct	Entrez Gene	14780	478.0,549.0
+Substrate-SO3H	Metabolite			598.5,908.0
+Glutathione transferase	GeneProduct			490.5,685.0
+CYP4F8	GeneProduct			81.0,345.0
+Ephx2	GeneProduct	Entrez Gene	13850	766.0,85.0
+Chst5	GeneProduct	Entrez Gene	56773	691.0,330.0
+UGT2B28	GeneProduct			350.0,345.0
+CYP3A4	GeneProduct			161.0,265.0
+GSTM1	GeneProduct	Entrez Gene	14862	561.0,312.0
+Kcnab3	GeneProduct	Entrez Gene	16499	265.0,519.0
+Fmo2	GeneProduct	Entrez Gene	55990	352.0,85.0
+GSTA3	GeneProduct	Entrez Gene	14859	561.0,272.0
+Kcnab2	GeneProduct	Entrez Gene	16498	345.0,499.0
+AC140307.3-1	GeneProduct	Ensembl	ENSMUSG00000024764	478.0,165.0
+Fmo4	GeneProduct	Entrez Gene	226564	352.48333333333335,105.98333333333333
+Cyp26a1	GeneProduct	Entrez Gene	13082	81.0,525.0
+Sult1a1	GeneProduct	Entrez Gene	20887	691.0,150.0
+Cyp2e1	GeneProduct	Entrez Gene	13106	81.0,205.0
+Chst14	GeneProduct	Entrez Gene	72136	771.0,410.0
+AC154274.1-1	GeneProduct	Ensembl	ENSMUSG00000038045	771.0,270.0
+Hs3st6	GeneProduct	Entrez Gene	328779	771.0,530.0
+Cyp17a1	GeneProduct	Entrez Gene	13074	161.0,465.0
+Chst4	GeneProduct	Entrez Gene	26887	771.0,310.0
+Mgst1	GeneProduct	Entrez Gene	56615	561.0,432.0
+UGT2B17	GeneProduct			270.0,345.0
+Sult1a1	GeneProduct	Entrez Gene	20887	771.0,170.0
+AKR1B10	GeneProduct	Entrez Gene	67861	265.0,419.0
+NAT8	GeneProduct	Entrez Gene	68396	478.0,125.0
+CYP3A43	GeneProduct			81.0,305.0
+Sult1a1	GeneProduct	Entrez Gene	20887	691.0,170.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	270.0,245.0
+CYP3A5	GeneProduct			81.0,285.0
+GSTA2	GeneProduct	Entrez Gene	14858	561.0,252.0
+GSTP1	GeneProduct	Entrez Gene	14870	481.0,392.0
+Comt1	GeneProduct	Entrez Gene	12846	268.0,578.0
+Chst5	GeneProduct	Entrez Gene	56773	771.0,330.0
+Substrate-SG	Metabolite			594.0,755.0
+Xenobiotic substrate	Metabolite			63.0,867.0
+Ugt1a2	GeneProduct	Entrez Gene	22236	350.0,185.0
+CYP2J2	GeneProduct			81.0,225.0
+Mgst3	GeneProduct	Entrez Gene	66447	561.0,452.0
+Akr1d1	GeneProduct	Entrez Gene	208665	345.0,459.0
+Gsto2	GeneProduct	Entrez Gene	68214	561.0,372.0
+Gstm5	GeneProduct	Entrez Gene	14866	561.0,332.0
+GAL3ST2	GeneProduct	Entrez Gene	381334	771.0,430.0
+Gstt2	GeneProduct	Entrez Gene	14872	561.0,412.0
+Chst8	GeneProduct	Entrez Gene	68947	771.0,350.0
+CYP2A13	GeneProduct			161.0,125.0
+Cyp51	GeneProduct	Entrez Gene	13121	81.0,605.0
+Chst12	GeneProduct	Entrez Gene	59031	771.0,390.0

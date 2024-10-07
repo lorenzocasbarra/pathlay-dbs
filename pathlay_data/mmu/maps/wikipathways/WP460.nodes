@@ -1,0 +1,25 @@
+TEXT	TYPE	DB	ID	X	Y
+Blood clotting cascade	mmu	wikipathways	WP460
+F12	GeneProduct	Entrez Gene	58992	62.333333333333336,112.33333333333333
+F11	GeneProduct	Entrez Gene	109821	103.33333333333333,163.33333333333334
+F9	GeneProduct	Entrez Gene	14071	180.0,213.33333333333334
+F10	GeneProduct	Entrez Gene	14058	318.3333333333333,253.33333333333334
+F10	GeneProduct	Entrez Gene	14058	318.3333333333333,273.3333333333333
+Vwf	GeneProduct	Entrez Gene	22371	667.0,120.0
+F5	GeneProduct	Entrez Gene	14067	686.6666666666666,186.66666666666666
+F7	GeneProduct	Entrez Gene	14068	153.33333333333334,353.3333333333333
+F2	GeneProduct	Entrez Gene	14061	486.6666666666667,360.0
+F13b	GeneProduct	Entrez Gene	14060	850.0,340.0
+Serpinf2	GeneProduct	Entrez Gene	18816	660.3333333333334,510.0
+Plau	GeneProduct	Entrez Gene	18792	481.0,510.0
+Plat	GeneProduct	Entrez Gene	18791	299.0,582.0
+Serpinb2	GeneProduct	Entrez Gene	18788	299.0,533.6666666666666
+Serpine1	GeneProduct	Entrez Gene	18787	299.0,513.6666666666666
+Plg	GeneProduct	Entrez Gene	18815	481.0,582.0
+Fgb	GeneProduct	Entrez Gene	110135	526.0,439.0
+Fga	GeneProduct	Entrez Gene	14161	526.0,419.0
+Fgg	GeneProduct	Entrez Gene	99571	526.0,459.0
+F8	GeneProduct	Entrez Gene	14069	516.6666666666666,150.0
+F8a	GeneProduct	Entrez Gene	14070	516.6666666666666,170.0
+Prothrombinase Complex	GeneProduct			561.3333333333334,315.0
+Fibrin	Metabolite	KEGG Compound	C00290	780.0,548.0

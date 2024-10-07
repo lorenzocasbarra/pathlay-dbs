@@ -1,0 +1,10 @@
+TEXT	TYPE	DB	ID	X	Y
+Circulating monocytes and cardiac macrophages in diastolic dysfunction	mmu	wikipathways	WP4474
+Ccl2	GeneProduct	Entrez Gene	20296	279.0,96.0
+Il10	GeneProduct	Entrez Gene	16153	314.0,318.89075630252086
+ROS	Metabolite	ChEBI	CHEBI:26523	425.5,146.0
+Spp1	GeneProduct	Entrez Gene	20750	437.5,325.89075630252086
+ROS	Metabolite	ChEBI	CHEBI:26523	575.5,213.0
+ROS	Metabolite	ChEBI	CHEBI:26523	575.5,509.0
+Il10	GeneProduct	Entrez Gene	16153	366.0,256.89075630252086
+Ccr2	GeneProduct	Entrez Gene	12772	301.0,71.0

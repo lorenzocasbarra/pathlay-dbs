@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+Hypoxia-dependent proliferation of myoblasts	mmu	wikipathways	WP5024
+VEGF	GeneProduct	Entrez Gene	22339	605.0,379.0
+MSTN	GeneProduct	Entrez Gene	17700	1020.0,220.0
+Trim63	GeneProduct	Entrez Gene	433766	467.0,361.0
+MYOD1	GeneProduct	Entrez Gene	17927	615.0,468.0
+proliferation and late differentiation				468.5,559.0
+TSC2	GeneProduct	Entrez Gene	22084	313.0,158.0
+HGF	GeneProduct	Entrez Gene	15234	605.0,320.0
+Fbxo32	GeneProduct	Entrez Gene	67731	467.0,330.25
+PI3K	GeneProduct	Entrez Gene	18708	711.0,220.0
+MYF5	GeneProduct	Entrez Gene	17877	312.0,510.0
+TSC1	GeneProduct	Entrez Gene	64930	313.0,133.0
+PI3KR1	GeneProduct			868.0,220.0
+Calcitriol	GeneProduct	Entrez Gene	12310	1021.0,291.0
+AKT	GeneProduct	Entrez Gene	11651	466.0,220.0
+Smad3	GeneProduct	Entrez Gene	17127	1018.0,149.0
+IGF1	GeneProduct	Entrez Gene	16000	605.0,289.0
+DDIT44	GeneProduct	Entrez Gene	74747	215.0,89.0
+RHEB	GeneProduct	Entrez Gene	19744	313.0,227.0
+FGF	GeneProduct	Entrez Gene	14164	605.0,348.0
+AMPK	GeneProduct			62.0,263.0
+MTOR1	GeneProduct	Entrez Gene	56717	215.0,263.0
+Smad2	GeneProduct	Entrez Gene	17126	1018.0,119.0
+MYOG	GeneProduct	Entrez Gene	17928	756.0,559.0
+Elf4E	GeneProduct			215.0,327.0

@@ -1,0 +1,75 @@
+TEXT	TYPE	DB	ID	X	Y
+Splicing factor NOVA regulated synaptic proteins	mmu	wikipathways	WP1983
+Cav2.2	GeneProduct	Entrez Gene	12287	271.12901892926436,776.6245293329515
+4.1G	GeneProduct	Entrez Gene	13822	657.4697116942012,767.8156516574882
+NIK/Mapk4	GeneProduct	Ensembl	ENSMUSG00000024558	67.0,1045.0
+N-Cadherin	GeneProduct	Entrez Gene	12558	317.6035579809414,635.8252824002288
+LAR	GeneProduct	Entrez Gene	19268	313.5,536.75
+SKIP	GeneProduct	Entrez Gene	66354	105.0,565.0
+MAP4	GeneProduct	Entrez Gene	17758	124.0,869.0
+AGRIN	Protein	Uniprot-TrEMBL	A2ASQ1	383.0,138.0
+Calsyntenin	GeneProduct	Entrez Gene	65945	497.0,665.75
+EphrinA5R	GeneProduct			470.6067394282451,930.3106739428243
+GIRK2	GeneProduct	Entrez Gene	16522	485.0,395.0
+PIP2	Metabolite	HMDB	HMDB0010032	492.5,352.5
+Clasp1	GeneProduct	Entrez Gene	76707	79.0,915.0
+Slo	GeneProduct	Entrez Gene	16531	229.135956343053,825.7280873138935
+CASK	GeneProduct	Ensembl	ENSMUSG00000031012	211.1290189292649,766.3850150089569
+neurochondrin	GeneProduct	Entrez Gene	26562	694.0,388.0
+GlyRa2	GeneProduct			542.0,200.0
+GABAARg2	GeneProduct	Entrez Gene	14406	538.0,258.0
+JNK2	GeneProduct	Entrez Gene	26420	65.0,1002.0
+PMCA1	GeneProduct	Entrez Gene	67972	270.47527268150344,686.2386486182991
+Syntaxin1	GeneProduct			241.0,383.0
+Plcb4	GeneProduct	Entrez Gene	18798	141.0,154.0
+Rap1gap	GeneProduct	Entrez Gene	110351	668.5915127955943,663.5446496058747
+Syntaxin 2	GeneProduct	Entrez Gene	13852	212.0,434.0
+Camk2g	GeneProduct	Entrez Gene	12325	650.0,464.0
+a-catenin	GeneProduct			189.0,643.0
+Igsf4a	GeneProduct	Entrez Gene	54725	553.4406248362875,875.5816452948353
+Neogenin	GeneProduct	Entrez Gene	18007	179.0,1104.0
+nAChRa2	GeneProduct			532.0,153.0
+Cav2.2	GeneProduct	Entrez Gene	12287	214.0,188.0
+Cask	GeneProduct	Entrez Gene	12361	174.0,365.0
+Gephrin	GeneProduct	Entrez Gene	268566	618.0,246.0
+CASK	GeneProduct	Entrez Gene	12994	199.371714700562,692.8955763133624
+Dab1	GeneProduct	Entrez Gene	13131	161.0,271.0
+Aplp2	GeneProduct	Entrez Gene	11804	225.5,261.0
+Kcnq2	GeneProduct	Entrez Gene	16536	249.0,1052.0
+Munc18	GeneProduct	Entrez Gene	20911	112.0,351.0
+4.1R	GeneProduct	Entrez Gene	269587	625.3715581470683,749.0612244897959
+4.1B	GeneProduct	Entrez Gene	13823	676.7021137766823,860.1897594709512
+Chl1	GeneProduct	Entrez Gene	12661	315.75,990.75
+Netrin G1	GeneProduct	Entrez Gene	80883	339.13616240146854,1080.0
+Rap1	GeneProduct	Entrez Gene	57321	680.0,710.0
+EphrinA5	GeneProduct	Entrez Gene	13640	318.1079257099665,930.0
+NMDAR2B	GeneProduct	Entrez Gene	14812	496.0,691.0
+NMDAR1	GeneProduct	Entrez Gene	14810	525.566407515387,725.0
+Chl1	GeneProduct	Entrez Gene	12661	534.75,989.75
+N-Cadherin	GeneProduct	Entrez Gene	12558	549.5,614.0
+Ankyrin G	GeneProduct	Entrez Gene	11735	671.0,975.0
+CASK	GeneProduct	Ensembl	ENSMUSG00000031012	619.6728349315795,869.3138553901282
+Dab1	GeneProduct	Entrez Gene	13131	548.7684375337442,740.2723248029371
+a-catenin	GeneProduct			696.0,622.0
+LAR	GeneProduct	Entrez Gene	19268	427.625,565.75
+GluR6	GeneProduct	Entrez Gene	14806	470.0,478.0
+Cask	GeneProduct	Entrez Gene	12361	540.0,468.0
+PKCz	GeneProduct	Entrez Gene	18762	643.6956889517834,349.7573042287019
+GABAB2R	GeneProduct	Entrez Gene	242425	463.0,301.0
+nAChRa4	GeneProduct			532.0,122.0
+Plcb4	GeneProduct	Entrez Gene	18798	77.0,1136.0
+PIP2	Metabolite	HMDB	HMDB0010032	110.5,1098.5
+Ankyrin G	GeneProduct	Entrez Gene	11735	184.0,1036.0
+Ankyrin G	GeneProduct	Entrez Gene	11735	187.0,975.0
+JNK2	GeneProduct	Entrez Gene	26420	85.0,230.0
+4.1R	GeneProduct	Entrez Gene	269587	146.4752726815035,706.8631779512499
+4.1R	GeneProduct	Entrez Gene	269587	150.12901892926484,750.7604856760055
+GluR6	GeneProduct	Entrez Gene	14806	223.0,469.0
+Slo	GeneProduct	Entrez Gene	16531	241.0,307.0
+PKCz	GeneProduct	Entrez Gene	18762	84.0,188.0
+GABAB2R	GeneProduct	Entrez Gene	242425	164.0,109.0
+Gephrin	GeneProduct	Entrez Gene	268566	611.0,193.0
+Plcb4	GeneProduct	Entrez Gene	18798	552.751948168668,327.5
+4.1N	GeneProduct	Entrez Gene	13821	600.8414858006698,807.2955404383973
+Igsf4b	GeneProduct	Entrez Gene	94332	540.25,816.75
+Integrin a2	GeneProduct			506.74999999999926,755.3357680762341

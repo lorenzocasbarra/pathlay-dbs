@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Phase I biotransformations, non-P450	hsa	wikipathways	WP136
+thio esters	Metabolite	ChEBI	CHEBI:51277	105.0,233.0
+Phosphoric acid esters	Metabolite	ChEBI	CHEBI:37734	105.0,291.0
+CES7	GeneProduct	Entrez Gene	221223	282.0,134.0
+thio esters	Metabolite	ChEBI	CHEBI:51277	478.0,232.0
+ESD	GeneProduct	Entrez Gene	2098	282.0,114.0
+LIPA	GeneProduct	Entrez Gene	3988	282.0,154.0
+carboxylic acid esters	Metabolite	ChEBI	CHEBI:33308	105.0,185.0
+PON3	GeneProduct	Entrez Gene	5446	265.0,368.0
+amides	Metabolite	ChEBI	CHEBI:32988	478.0,208.0
+carboxylic acid esters	Metabolite	ChEBI	CHEBI:33308	478.0,184.0
+Phosphoric acid esters	Metabolite	ChEBI	CHEBI:37734	478.0,291.0
+CES2	GeneProduct	Entrez Gene	8824	282.0,173.0
+PON2	GeneProduct	Entrez Gene	5445	265.0,348.0
+amides	Metabolite	ChEBI	CHEBI:32988	105.0,209.0
+CES1	GeneProduct	Entrez Gene	1066	282.0,94.0
+PON1	GeneProduct	Entrez Gene	5444	265.0,328.0

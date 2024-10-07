@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Mismatch repair	mmu	wikipathways	WP1257
+Msh2	GeneProduct	Entrez Gene	17685	588.0,129.0
+Msh6	GeneProduct	Entrez Gene	17688	669.0,129.0
+Exo1	GeneProduct	Entrez Gene	26909	122.0,236.0
+Msh2	GeneProduct	Entrez Gene	17685	598.0,319.0
+Msh6	GeneProduct	Entrez Gene	17688	679.0,319.0
+Exo1	GeneProduct	Entrez Gene	26909	543.0,233.0
+Pcna	GeneProduct	Entrez Gene	18538	639.0,339.0
+Mlh1	GeneProduct	Entrez Gene	17350	639.0,299.0
+Pcna	GeneProduct	Entrez Gene	18538	216.0,339.0
+Pcna	GeneProduct	Entrez Gene	18538	216.0,529.0
+Rpa1	GeneProduct	Entrez Gene	68275	133.0,429.0
+Pold1	GeneProduct	Entrez Gene	18971	138.0,464.0
+Rfc1	GeneProduct	Entrez Gene	19687	131.0,493.0
+Lig1	GeneProduct	Entrez Gene	16881	611.0,421.0

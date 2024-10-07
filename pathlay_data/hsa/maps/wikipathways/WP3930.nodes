@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+EDA signaling in hair follicle development	hsa	wikipathways	WP3930
+EDA	Protein	Ensembl	ENSG00000158813	407.0,66.0
+EDA	Protein	Ensembl	ENSG00000158813	574.0,66.0
+EDAR	GeneProduct	Entrez Gene	10913	499.0,153.0
+EDARADD	GeneProduct	Entrez Gene	128178	499.0,173.0
+p65	GeneProduct	Entrez Gene	65125	499.0,249.0
+p50	GeneProduct	Entrez Gene	115482723	499.0,269.0
+DKK4	GeneProduct	Entrez Gene	27121	325.25,332.25
+DKK1	GeneProduct	Entrez Gene	22943	325.0,352.0
+WNT3	Protein	Ensembl	ENSG00000108379	184.75,342.25
+BMP1	GeneProduct	Entrez Gene	649	181.0,424.0
+SOSTDC1	GeneProduct	Entrez Gene	25928	324.0,424.0
+SHH	GeneProduct	Entrez Gene	6469	499.0,411.0
+GLI1	GeneProduct	Entrez Gene	2735	499.0,431.0
+PTCH1	GeneProduct	Entrez Gene	5727	499.0,451.0
+LTB	GeneProduct	Entrez Gene	4050	668.25,414.75
+RELB	GeneProduct	Entrez Gene	5971	668.25,434.75
+Nf-kB	GeneProduct			499.0,323.0
+Cell Growth	Pathway			500.25,536.75
+Cell Differentiation	Pathway	WikiPathways	WP2082	668.0,528.0

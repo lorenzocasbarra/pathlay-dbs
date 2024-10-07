@@ -1,0 +1,10 @@
+TEXT	TYPE	DB	ID	X	Y
+Regulation of cardiac hypertrophy by miR-208	mmu	wikipathways	WP1526
+Trap1	Protein	Entrez Gene	327987	548.8302469135806,221.1718106995882
+Gata4	GeneProduct	Entrez Gene	14463	682.25,480.75
+beta-MHC	GeneProduct	Entrez Gene	140781	51.75,425.4351851851852
+miR-208b	Rna	Ensembl	ENSMUSG00000077928	548.5339506172829,327.82613168724265
+miR-208a	Rna	miRBase Sequence	MI0000555	374.0,195.0
+Cx40	Protein	Entrez Gene	14613	528.0781893004103,156.0
+Hop	GeneProduct	Entrez Gene	74318	823.0,480.0
+Myostatin	Protein	Entrez Gene	17700	718.9969135802457,327.8487654320986

@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Metabolism of dichloroethylene by CYP450	hsa	wikipathways	WP3666
+2-S-Glutathionyl acetate 	Metabolite	PubChem-compound	11954071	999.199811733181,259.75
+Chloroacetic acid	Metabolite	KEGG Compound	C06755	559.75,616.75
+S-(2-Chloroacetyl)glutathione	Metabolite	KEGG Compound	C14864	999.199811733181,516.75
+2-(S-Glutathionyl)acetyl chloride	Metabolite	KEGG Compound	C14865	999.199811733181,420.75
+2,2-dichloro-1,1-ethanediol	Metabolite	KEGG Compound	C14860	563.0,70.25
+1,1-Dichloroethylene	Metabolite	KEGG Compound	C14039	131.25,343.75
+1,1-Dichloroethylene epoxide	Metabolite	KEGG Compound	C14857	561.75,343.75
+glutathione S-transferase	Protein	KEGG Genes	119391	752.0,99.75
+CYP2E1	GeneProduct	Entrez Gene	1571	343.0,186.25
+Chloroacetyl chloride	Metabolite	KEGG Compound	C14859	559.75,516.75
+S-(2,2-dichloro-1-hydroxy)-1-ethyl glutathione	Metabolite	PubChem-compound	11954070	999.199811733181,159.25
+2,2-Dichloroacetaldehyde	Metabolite	KEGG Compound	C14858	563.0,159.25
+CYP2E1	GeneProduct	Entrez Gene	1571	343.0,299.25
+glutathione S-transferase	Protein	KEGG Genes	119391	752.0,578.75
+CYP2E1	GeneProduct	Entrez Gene	1571	342.99999999999994,494.25
+glutathione S-transferase	Protein	KEGG Genes	119391	752.0,242.75

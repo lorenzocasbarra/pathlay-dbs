@@ -1,0 +1,27 @@
+TEXT	TYPE	DB	ID	X	Y
+Leptin-insulin signaling overlap	hsa	wikipathways	WP3935
+JAK2	GeneProduct	Entrez Gene	3717	502.0,143.0
+PDPK1	GeneProduct	Entrez Gene	5170	73.5,119.0
+LEPR	GeneProduct	Entrez Gene	3953	545.5,105.48333333333333
+SOCS3	GeneProduct	Entrez Gene	9021	712.0526315789468,173.05263157894737
+STAT3	GeneProduct	Entrez Gene	6774	588.0,162.0
+PIK3R3	GeneProduct	Entrez Gene	8503	263.0,261.0
+AKT1	GeneProduct	Entrez Gene	207	45.42105263157896,203.0
+SOCS2	GeneProduct	Entrez Gene	8835	712.0526315789468,154.05263157894737
+PIK3CG	GeneProduct	Entrez Gene	5294	239.0,144.0
+INSR	GeneProduct	Entrez Gene	3643	393.0,103.48333333333333
+SOCS1	GeneProduct	Entrez Gene	8651	712.0526315789468,134.05263157894737
+INS	GeneProduct	Entrez Gene	3630	393.0,44.0
+JAK2	GeneProduct	Entrez Gene	3717	588.0,143.0
+DGKZ	GeneProduct	Entrez Gene	8525	106.75,204.0
+STAT3	GeneProduct	Entrez Gene	6774	561.0340681362729,276.5811401809142
+LEP	GeneProduct	Entrez Gene	3952	543.0,46.0
+PIP2	Metabolite	ChEBI	CHEBI:18348	226.0,121.0
+IRS1	GeneProduct	Entrez Gene	3667	350.5,125.0
+PIK3CG	GeneProduct	Entrez Gene	5294	263.0,241.5
+IRS2	GeneProduct	Entrez Gene	8660	350.5,145.0
+Irs3	GeneProduct			350.5,165.0
+JAK2	GeneProduct	Entrez Gene	3717	465.0,209.0
+STAT3	GeneProduct	Entrez Gene	6774	614.0340681362729,276.5811401809142
+PIP3	Metabolite	ChEBI	CHEBI:16618	158.5,119.0
+IRS4	GeneProduct	Entrez Gene	8471	350.5,185.0

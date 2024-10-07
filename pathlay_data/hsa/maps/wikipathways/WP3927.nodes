@@ -1,0 +1,24 @@
+TEXT	TYPE	DB	ID	X	Y
+BMP signaling in eyelid development	hsa	wikipathways	WP3927
+FGF10	GeneProduct	Entrez Gene	2255	463.0,55.0
+FGFR2	GeneProduct	Entrez Gene	2263	358.0,137.0
+INHBB	GeneProduct	Entrez Gene	3625	569.0,136.0
+TGFA	GeneProduct	Entrez Gene	7039	784.0,136.0
+SHH	GeneProduct	Entrez Gene	6469	77.0,183.0
+BMP4	GeneProduct	Entrez Gene	652	358.0,183.0
+SFRP1	GeneProduct	Entrez Gene	6422	77.25,249.75
+SMAD1	GeneProduct	Entrez Gene	4086	358.0,252.0
+SMAD5	GeneProduct	Entrez Gene	4090	358.0,272.0
+SMAD4	GeneProduct	Entrez Gene	4089	358.0,337.0
+PITX2	GeneProduct	Entrez Gene	5308	227.0,257.0
+DKK2	GeneProduct	Entrez Gene	27123	227.25,317.25
+FOXC1	GeneProduct	Entrez Gene	2296	208.0,419.0
+FOXC2	GeneProduct	Entrez Gene	2303	208.0,439.0
+NOTCH1	GeneProduct	Entrez Gene	4851	208.0,499.5
+MAP3K1	GeneProduct	Entrez Gene	4214	569.0,187.0
+MAPK9	GeneProduct	Entrez Gene	5601	569.25,240.25
+JUN	GeneProduct	Entrez Gene	3725	570.0,291.0
+EGFR	GeneProduct	Entrez Gene	1956	785.0,191.0
+MAPK3	GeneProduct	Entrez Gene	5595	785.0,241.0
+Bmp Canonical Signaling	Pathway	WikiPathways	WP3931	358.0,392.0
+Wnt Canonical Signaling	Pathway	WikiPathways	WP428	77.5,318.0

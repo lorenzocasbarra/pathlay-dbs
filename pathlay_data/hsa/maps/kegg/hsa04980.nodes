@@ -1,0 +1,64 @@
+TEXT	TYPE	DB	ID	X	Y
+Cobalamin transport and metabolism	hsa	kegg	hsa04980
+TCN2	GeneProduct	Entrez Gene	6948	127,403
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	127,429
+Methylcobalamin	Metabolite	KEGG Compound	C06453	127,429
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,429
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,429
+CD320	GeneProduct	Entrez Gene	51293	201,403
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	320,429
+Methylcobalamin	Metabolite	KEGG Compound	C06453	320,429
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	320,429
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	320,429
+TCN2	GeneProduct	Entrez Gene	6948	320,403
+LMBRD1	GeneProduct	Entrez Gene	55788	490,417
+TCN2	GeneProduct	Entrez Gene	6948	434,403
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	433,430
+Methylcobalamin	Metabolite	KEGG Compound	C06453	433,430
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	433,430
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	433,430
+ABCD4	GeneProduct	Entrez Gene	5826	490,434
+ZNF76	GeneProduct	Entrez Gene	7629	307,198
+ZNF143	GeneProduct	Entrez Gene	7702	307,198
+Cob(II)alamin	Metabolite	KEGG Compound	C00541	654,425
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	543,425
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	543,425
+Methylcobalamin	Metabolite	KEGG Compound	C06453	543,425
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	543,425
+MMACHC	GeneProduct	Entrez Gene	25974	595,414
+[Methionine synthase]-cob(II)alamin	Metabolite	KEGG Compound	C06409	654,519
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	654,230
+MMUT	GeneProduct	Entrez Gene	4594	654,208
+[Methionine synthase]-methylcob(III)alamin	Metabolite	KEGG Compound	C06410	766,520
+MTRR	GeneProduct	Entrez Gene	4552	707,534
+[Methionine synthase]-cob(I)alamin	Metabolite	KEGG Compound	C22880	900,520
+L-Homocysteine	Metabolite	KEGG Compound	C00155	789,484
+L-Methionine	Metabolite	KEGG Compound	C00073	866,481
+5-Methyltetrahydrofolate	Metabolite	KEGG Compound	C00440	869,562
+Tetrahydrofolate	Metabolite	KEGG Compound	C00101	792,565
+MTR	GeneProduct	Entrez Gene	4548	830,540
+MMAB	GeneProduct	Entrez Gene	326625	626,287
+(R)-Methylmalonyl-CoA	Metabolite	KEGG Compound	C01213	599,194
+Succinyl-CoA	Metabolite	KEGG Compound	C00091	721,194
+HCFC1	GeneProduct	Entrez Gene	3054	353,198
+PRDX1	GeneProduct	Entrez Gene	5052	299,242
+THAP11	GeneProduct	Entrez Gene	57215	399,198
+MMADHC	GeneProduct	Entrez Gene	27249	626,388
+Cob(II)alamin	Metabolite	KEGG Compound	C00541	653,319
+MMAA	GeneProduct	Entrez Gene	166785	601,226
+MMADHC	GeneProduct	Entrez Gene	27249	626,467
+CBLIF	GeneProduct	Entrez Gene	2694	127,303
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	127,329
+Methylcobalamin	Metabolite	KEGG Compound	C06453	127,329
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,329
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,329
+TCN1	GeneProduct	Entrez Gene	6947	127,203
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	127,229
+Methylcobalamin	Metabolite	KEGG Compound	C06453	127,229
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,229
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,229
+Cyanocobalamin	Metabolite	KEGG Compound	C02823	127,130
+Methylcobalamin	Metabolite	KEGG Compound	C06453	127,130
+Cobamide coenzyme	Metabolite	KEGG Compound	C00194	127,130
+Hydroxocobalamin	Metabolite	KEGG Compound	C08230	127,130
+CD320	GeneProduct	Entrez Gene	51293	274,403

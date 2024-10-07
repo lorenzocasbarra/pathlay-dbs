@@ -1,0 +1,16 @@
+TEXT	TYPE	DB	ID	X	Y
+Phosphoinositide 3-kinase (PI3K) family	hsa	wikipathways	WP5472
+PIK3CA	GeneProduct	Entrez Gene	5290	55.0,97.0
+PIK3CB	GeneProduct	Entrez Gene	5291	55.0,117.0
+PIK3CG	GeneProduct	Entrez Gene	5294	55.0,137.0
+PIK3CD	GeneProduct	Entrez Gene	5293	55.0,157.0
+PIK3R1	GeneProduct	Entrez Gene	5295	57.0,218.0
+PIK3R2	GeneProduct	Entrez Gene	5296	57.0,238.0
+PIK3R3	GeneProduct	Entrez Gene	8503	57.0,258.0
+PIK3R4	GeneProduct	Entrez Gene	30849	57.0,278.0
+PIK3R4	GeneProduct	Entrez Gene	30849	57.0,298.0
+PIK3R6	GeneProduct	Entrez Gene	146850	57.0,318.0
+PIK3C2A	GeneProduct	Entrez Gene	5286	175.0,97.0
+PIK3C2B	GeneProduct	Entrez Gene	5287	175.0,117.0
+PIK3C2G	GeneProduct	Entrez Gene	5288	175.0,137.0
+PIK3C2A	GeneProduct	Entrez Gene	5286	174.0,191.0

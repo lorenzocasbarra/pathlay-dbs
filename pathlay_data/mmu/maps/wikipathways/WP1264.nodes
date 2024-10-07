@@ -1,0 +1,92 @@
+TEXT	TYPE	DB	ID	X	Y
+Estrogen metabolism	mmu	wikipathways	WP1264
+2-Hydroxyestrone	Metabolite	KEGG Compound	C05298	471.5,352.0
+Comt1	GeneProduct	Entrez Gene	12846	361.0,557.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	680.0,657.0
+Cyp1a2	GeneProduct	Entrez Gene	13077	289.0,402.0
+Estrone	Metabolite	KEGG Compound	C00468	236.0,254.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	680.0,637.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	340.0,462.0
+4-hydroxyestradiol	Metabolite	KEGG Compound	C14209	427.5,820.0
+Sult1e1	GeneProduct	Entrez Gene	20860	180.0,197.0
+Comt1	GeneProduct	Entrez Gene	12846	380.0,117.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	82.0,612.0
+4-Methoxyestradiol-3-glucuronide	Metabolite			427.5,713.0
+Sult1a1	GeneProduct	Entrez Gene	20887	607.0,529.0
+2-Methoxyestradiol-3-glucuronide	Metabolite			431.5,430.0
+ARSE	GeneProduct			54.0,310.0
+UGT2B7	GeneProduct			321.0,873.0
+2-Hydroxyestradiol	Metabolite	KEGG Compound	C05301	431.5,584.0
+4-Hydroxyestradiol-3-glucuronide	Metabolite			427.0,921.0
+Estradiol sulfate	Metabolite			110.5,465.0
+Estrone sulfate	Metabolite	HMDB	HMDB0001425	92.0,227.0
+2-hydroxyestradiol-3-glucuronide	Metabolite			431.5,688.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	649.0,850.0
+Nqo1	GeneProduct	Entrez Gene	18104	740.0,241.0
+Oxygen	Metabolite	KEGG Compound	C00007	794.0,532.0
+CYP3A4	GeneProduct			289.0,422.0
+Oxygen	Metabolite	KEGG Compound	C00007	795.0,873.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	597.0,376.0
+Estradiol	Metabolite	KEGG Compound	C00951	237.0,583.0
+Cyp1a1	GeneProduct	Entrez Gene	13076	289.0,382.0
+Sult1a1	GeneProduct	Entrez Gene	20887	71.0,492.0
+Oxygen	Metabolite	KEGG Compound	C00007	792.0,403.0
+Oxygen	Metabolite	KEGG Compound	C00007	787.0,96.0
+2-hydroxy-estradiol-2-glucuronide	Metabolite			608.5,688.0
+UGT2B7	GeneProduct			297.0,680.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	297.0,640.0
+4-hydroxyestrone	Metabolite			470.5,142.0
+Estrone-2,3-quinone	Metabolite	PubChem-compound	148381	959.5,352.0
+16a-Hydroxyestrone	Metabolite	HMDB	HMDB0000335	236.0,112.0
+Comt1	GeneProduct	Entrez Gene	12846	327.0,803.0
+2-Methoxyestrone 3-glucuronide	Metabolite	KEGG Compound	C11132	471.0,237.0
+Estradiol-3,4-semiquinone	Metabolite			742.5,820.0
+2-Hydroxyestrone-3-glucuronide	Metabolite			471.0,407.0
+4-hydroxyestrone-3-glucuronide	Metabolite			470.5,210.0
+Estrone-2,3-semiquinone	Metabolite			739.5,352.0
+Ugt1a9	GeneProduct	Entrez Gene	394434	649.0,870.0
+Estradiol-3-glucuronide	Metabolite	HMDB	HMDB0006224	136.0,648.0
+Superoxide	Metabolite	KEGG Compound	C00704	899.0,96.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	340.0,502.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	82.0,592.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	597.0,60.0
+Comt1	GeneProduct	Entrez Gene	12846	389.0,320.0
+Ugt1a9	GeneProduct	Entrez Gene	394434	297.0,660.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	161.0,348.0
+4-Methoxyestrone-3-glucuronide	Metabolite			470.5,27.0
+Cyp1a2	GeneProduct	Entrez Gene	13077	329.0,264.0
+Superoxide	Metabolite	KEGG Compound	C00704	907.0,873.0
+Gsta1	GeneProduct	Entrez Gene	14857	1108.0,753.0
+UGT2B7	GeneProduct			649.0,890.0
+CYP3A4	GeneProduct			161.0,169.0
+2-Methoxyestradiol	Metabolite	HMDB	HMDB0000405	431.0,532.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	290.0,733.0
+2-hydroxy-estradiol-sulfate	Metabolite			601.0,469.0
+Estradiol-3,4-quinone	Metabolite			963.5,820.0
+Superoxide	Metabolite	KEGG Compound	C00704	906.0,532.0
+Estradiol-2,3-semiquinone	Metabolite			740.5,584.0
+Estradiol-17-glucuronide	Metabolite			136.0,524.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	290.0,752.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	612.0,221.0
+Ugt1a2	GeneProduct	Entrez Gene	22236	340.0,482.0
+Estrone-17-glucuronide	Metabolite	HMDB	HMDB0004483	172.0,405.0
+Gstm1	GeneProduct	Entrez Gene	14862	1108.0,773.0
+ARSC	GeneProduct			187.0,434.0
+Estrone-3,4-semiquinone	Metabolite			732.5,142.0
+Cyp1a1	GeneProduct	Entrez Gene	13076	329.0,245.0
+4-hydroxy-estradiol-4-glucuronide	Metabolite			601.0,921.0
+Estradiol-2,3-quinone	Metabolite			959.5,584.0
+4-hydroxy-estradiol-sulfate	Metabolite			593.0,713.0
+4-Methoxyestradiol	Metabolite	HMDB	HMDB0000405	427.0,774.0
+Nqo1	GeneProduct	Entrez Gene	18104	739.0,696.0
+Estrone-3-glucuronide	Metabolite	HMDB	HMDB0004483	70.0,378.0
+ARSD	GeneProduct			54.0,290.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	321.0,854.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	297.0,620.0
+UGT2B7	GeneProduct			88.0,557.0
+Sult1a1	GeneProduct	Entrez Gene	20887	606.0,768.0
+Superoxide	Metabolite	KEGG Compound	C00704	904.0,403.0
+2-Methoxyestrone	Metabolite	KEGG Compound	C05299	471.0,287.0
+4-Methoxyestrone	Metabolite			470.0,86.0
+Estrone-3,4-quinone	Metabolite	PubChem-compound	114862	959.5,142.0
+Cyp1b1	GeneProduct	Entrez Gene	13078	156.0,737.0

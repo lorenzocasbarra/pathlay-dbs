@@ -1,0 +1,6 @@
+TEXT	TYPE	DB	ID	X	Y
+PDGFR-alpha and STMN1 cooperate to exacerbate cytotoxic effects of vinblastine	mmu	wikipathways	WP4398
+Pdgfra	GeneProduct	Entrez Gene	18595	778.5,258.0
+Vinblastine	Metabolite	KEGG Compound	C07201	381.0,257.0
+Stmn1	GeneProduct	Entrez Gene	16765	673.0,320.0
+Stmn1	GeneProduct	Entrez Gene	16765	683.0,207.0

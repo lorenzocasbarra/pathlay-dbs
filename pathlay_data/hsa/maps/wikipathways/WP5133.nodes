@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+Non-classical role of vitamin D	hsa	wikipathways	WP5133
+Angiotensinogen	GeneProduct	Entrez Gene	183	257.0,188.75
+aldosterone	Metabolite	KEGG Compound	C01780	259.0,509.0
+1,25-dihydroxycholecalciferol	Metabolite	ChEBI	CHEBI:17823	554.1355932203389,216.75
+cytokines and inflammation	Pathway	WikiPathways	WP530	528.1186440677968,477.45762711864415
+Vasodilation	Pathway	WikiPathways	WP4580	548.0,310.25
+ROS production	Pathway	WikiPathways	WP4969	519.2542372881358,454.32203389830545
+vitamin D receptor  agonists	Metabolite	ChEBI	CHEBI:139503	551.5,247.25
+25-hydroxycholecalciferol	Metabolite	ChEBI	CHEBI:17933	556.5084745762712,111.75
+angiotensin I	Metabolite	KEGG Compound	C00873	257.0,264.0
+7-Dehydrocholesterol	Metabolite	KEGG Compound	C01164	153.72033898305082,110.5
+Apoptosis	Pathway	WikiPathways	WP254	98.35593220338981,213.50847457627114
+Type-1  angiotensin II  receptor	GeneProduct	Entrez Gene	185	409.0,389.25
+Cholecalciferol	Metabolite	KEGG Compound	C05443	350.0,111.0
+Type-2  angiotensin II  receptor	GeneProduct	Entrez Gene	186	408.0,311.25
+25-hydroxylase	Protein	Uniprot-TrEMBL	E9PS56	428.1525423728814,70.0
+1,25-dihydroxycholecalciferol	Metabolite	ChEBI	CHEBI:17823	147.5,417.0
+Renal Type-1  angiotensin II  receptor	GeneProduct	Entrez Gene	185	258.0,430.25
+ACE2	GeneProduct	Entrez Gene	59272	159.0,311.0
+Renin	GeneProduct	Entrez Gene	5972	400.0,223.0
+Fibrosis	Pathway	WikiPathways	WP3624	96.74576271186447,264.55932203389807
+Angiotensin II	Metabolite	KEGG Compound	C02135	258.0,348.0
+1-alpha- hydroxylase 	Protein	Uniprot-TrEMBL	V9GYP0	609.5,154.75
+ACE	Protein	Uniprot-TrEMBL	A0A0A0MSN4	301.5,300.0
+Inflammation	Pathway	WikiPathways	WP4479	98.0,238.3559322033899

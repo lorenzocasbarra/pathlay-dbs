@@ -1,0 +1,35 @@
+TEXT	TYPE	DB	ID	X	Y
+mRNA, protein, and metabolite inducation pathway by cyclosporin A	hsa	wikipathways	WP3953
+Nrf2	GeneProduct	Entrez Gene	4780	109.0,193.0
+SLC3A2	GeneProduct	Entrez Gene	6520	665.8703703703704,524.0
+glutathione reductase	RNA			61.0,268.25
+Pi	Metabolite	ChEBI	CHEBI:18367	175.40623195253858,742.8613429936473
+ATF4	Protein	Uniprot-TrEMBL	Q96AQ3	710.0,290.0
+L-leucine	Metabolite	KEGG Compound	C00123	635.5,621.0
+ROS	Metabolite	KEGG Compound	C22381	147.0,75.0
+cysteine	Metabolite	KEGG Compound	C00736	413.52811466372657,573.3186328555678
+L-Isoleucine	Metabolite	KEGG Compound	C00407	544.0,621.0
+SLC7A5	GeneProduct	Entrez Gene	8140	724.8703703703704,524.0
+SLC1A5	GeneProduct	Entrez Gene	6510	883.5,524.0
+L-tyrosine	Metabolite	KEGG Compound	C00082	728.0,621.0
+L-Valine	Metabolite	KEGG Compound	C00183	818.5,621.0
+L-tryptophan	Metabolite	KEGG Compound	C00078	911.5,621.0
+L-threonine	Metabolite	KEGG Compound	C00188	1007.5,621.0
+L-alanine	Metabolite	KEGG Compound	C00041	1103.5,621.0
+L-glutamine	Metabolite	KEGG Compound	C00064	1197.5,621.0
+L-asparagine	Metabolite	KEGG Compound	C00152	1290.5,621.0
+SLC3A2	GeneProduct	Entrez Gene	6520	614.5,408.0
+SLC7A5	GeneProduct	Entrez Gene	8140	805.5,408.0
+SLC1A5	GeneProduct	Entrez Gene	6510	884.5,408.0
+KEAP1	Protein	Ensembl	ENSG00000079999	109.0,133.0
+KEAP1	Protein	Ensembl	ENSG00000079999	72.0,75.0
+ATF4	GeneProduct	Entrez Gene	468	710.0,233.0
+glutamate cysteine ligase catalytic subunit	RNA			181.00000000000003,268.25
+glutamate cysteine ligase modifier subunit	RNA			332.50000000000006,268.25
+glutamate cysteine ligase modifier subunit	RNA			332.5,337.25
+glutamate cysteine ligase modifier subunit	RNA			183.52531645569627,840.2345288326295
+ADP	Metabolite	KEGG Compound	C00008	242.99535359899232,742.8613429936473
+SLC7A11	GeneProduct	Entrez Gene	23657	528.3095238095235,408.0
+SLC3A2	GeneProduct	Entrez Gene	6520	442.1614398301258,522.8974641675854
+SLC7A11	GeneProduct	Entrez Gene	23657	383.16143983012574,522.8974641675854
+L-cysteine	Metabolite	KEGG Compound	C00097	413.52811466372657,621.0

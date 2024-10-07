@@ -1,0 +1,24 @@
+TEXT	TYPE	DB	ID	X	Y
+Modified nucleosides derived from tRNA as urinary cancer markers	hsa	wikipathways	WP4485
+3-methyluridine	Metabolite	Wikidata	Q15632769	346.3725151253244,130.85566119274029
+2-methylguanosine	Metabolite	Wikidata	Q1419713	602.3965527776809,355.2781124627511
+N6-threonylcarbomoyladenosine	Metabolite			820.569629168137,368.3121597096188
+Uridine	Metabolite	KEGG Compound	C00299	347.312878133103,209.54278305963703
+N2,N2,7-trimethylguanosine	Metabolite	CAS	40027-70-1	583.1442831215974,326.52673617701475
+(N)4-acetylcytidine	Metabolite	Wikidata	Q20890503	79.58439201451904,273.0
+N6-methyladenosine	Metabolite	Wikidata	Q6951996	820.5696291681371,212.23230490018148
+Guanosine	Metabolite	KEGG Compound	C00387	413.0,339.0
+tRNA	GeneProduct	Wikidata	Q201448	413.0,274.0
+Inosine	Metabolite	KEGG Compound	C00294	476.8539325842687,207.07000864304194
+7-methylguanosine	Metabolite	Wikidata	Q4642879	162.0,345.0
+N6-succinyladenosine	Metabolite	Wikidata	Q27139416	820.5696291681371,322.0
+Pseudouridine	Metabolite	KEGG Compound	C02067	138.09031979256716,156.3502592912704
+2-pyridone- 5-carboxamide- N1-ribofuranoside	Metabolite			648.9550561797754,79.28543647363858
+1-methylinosine	Metabolite	Wikidata	Q27109107	522.3275713050988,154.94317199654276
+Cytidine	Metabolite	KEGG Compound	C00475	256.5,273.0
+1-methylguanosine	Metabolite	Wikidata	Q161647	412.13569576490926,413.0
+N2-N2-dimethyl- guanosine	Metabolite	Wikidata	Q27109160	569.0,413.0
+Adenosine	Metabolite	KEGG Compound	C00212	661.5373134328383,273.0
+1-methyl- adenosine	Metabolite	Wikidata	Q161643	820.569629168137,273.0
+8-hydroxy- 2'-deoxyguanosine	Metabolite	Wikidata	Q270154	256.5,413.0
+5'-methylthioadenosine	Metabolite	KEGG Compound	C00170	820.5696291681356,164.15607985480926

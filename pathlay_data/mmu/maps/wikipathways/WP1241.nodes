@@ -1,0 +1,46 @@
+TEXT	TYPE	DB	ID	X	Y
+Glucuronidation	mmu	wikipathways	WP1241
+Adenosine 3',5'-diphosphate	Metabolite	HMDB	HMDB0000061	255.5,359.0
+2H+	Metabolite	ChEBI	CHEBI:15378	918.0,377.0
+Ugp2	GeneProduct	Entrez Gene	216558	609.0,247.0
+Glucose 6-phosphate	Metabolite	KEGG Compound	C00092	273.5,313.0
+UGT	GeneProduct	Entrez Gene	22232	1095.0,165.0
+Substrate	Metabolite			995.0,232.0
+Pgm3	GeneProduct	Entrez Gene	109785	321.0,251.0
+PGM5	GeneProduct	Entrez Gene	226041	401.0,251.0
+Pgm1	GeneProduct	Entrez Gene	72157	401.0,231.0
+Uridine 5'-diphosphate	Metabolite	KEGG Compound	C00015	1180.0,314.0
+substrate-glucuronide	Metabolite			1247.5,232.0
+NAD	Metabolite	KEGG Compound	C00003	817.0,357.0
+Water	Metabolite	KEGG Compound	C00001	817.0,377.0
+Adenosine triphosphate	Metabolite	HMDB	HMDB0000538	89.5,359.0
+NADH	Metabolite	KEGG Compound	C00004	918.0,357.0
+Hk1	GeneProduct	Entrez Gene	15275	170.0,253.0
+Uridine diphosphate glucose	Metabolite	KEGG Compound	C00029	750.5,313.0
+Phosphate	Metabolite	KEGG Compound	C00009	679.0,384.0
+Ugdh	GeneProduct	Entrez Gene	22235	866.0,250.0
+Glucose 1-phosphate	Metabolite	HMDB	HMDB0001586	459.5,313.0
+Uridine diphosphate glucuronic acid	Metabolite	HMDB	HMDB0000935	1008.0,313.0
+Phosphate	Metabolite	KEGG Compound	C00009	679.0,404.0
+Uridine triphosphate	Metabolite	KEGG Compound	C00075	536.5,384.0
+D-Glucose	Metabolite	KEGG Compound	C00031	89.0,313.0
+Pgm2	GeneProduct	Entrez Gene	66681	321.0,231.0
+UGT2B17	GeneProduct			1434.0,157.0
+Ugt1a5	GeneProduct	Entrez Gene	394433	1434.0,57.0
+Ugt1a8	GeneProduct	Entrez Gene	613123	1274.0,97.0
+Ugt2a3	GeneProduct	Entrez Gene	72094	1434.0,117.0
+UGT1A6	GeneProduct			1354.0,77.0
+UGT2B15	GeneProduct			1354.0,157.0
+Ugt2b1	GeneProduct	Entrez Gene	71773	1274.0,137.0
+Ugt2b34	GeneProduct	Entrez Gene	100727	1434.0,137.0
+Ugt1a10	GeneProduct	Entrez Gene	394430	1434.0,97.0
+Ugt1a5	GeneProduct	Entrez Gene	394433	1274.0,77.0
+Ugt2a1	GeneProduct	Entrez Gene	94215	1274.0,117.0
+Ugt1a1	GeneProduct	Entrez Gene	394436	1274.0,57.0
+Ugt1a9	GeneProduct	Entrez Gene	434493	1354.0,97.0
+UGT2B28	GeneProduct			1274.0,177.0
+Ugt2a2	GeneProduct	Entrez Gene	552899	1354.0,117.0
+UGT2B7	GeneProduct			1354.0,137.0
+UGT2B11	GeneProduct			1274.0,157.0
+Ugt1a2	GeneProduct	Entrez Gene	22236	1354.0,57.0
+UGT1A7	GeneProduct	Entrez Gene	394432	1434.0,77.0

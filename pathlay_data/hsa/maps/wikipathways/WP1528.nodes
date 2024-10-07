@@ -1,0 +1,30 @@
+TEXT	TYPE	DB	ID	X	Y
+Physiological and pathological hypertrophy of the heart	hsa	wikipathways	WP1528
+MKK3	GeneProduct	Entrez Gene	5606	827.0,168.0
+MYEF2	GeneProduct	Entrez Gene	50804	589.0,437.0
+MAPK14	GeneProduct	Entrez Gene	1432	887.0,306.0
+PRKCB	GeneProduct	Entrez Gene	5579	827.0,306.0
+LIFR	GeneProduct	Entrez Gene	3977	165.0,167.0
+JNK	GeneProduct	Entrez Gene	5599	707.0,306.0
+CAMK2D	GeneProduct	Entrez Gene	817	522.0,355.0
+CTF1	GeneProduct	Entrez Gene	1489	135.0,101.0
+JUN	GeneProduct	Entrez Gene	3725	319.0,440.0
+PPP3CB	GeneProduct	Entrez Gene	5532	452.0,376.0
+PKCE	GeneProduct	Entrez Gene	5581	102.0,319.0
+RAC1	GeneProduct	Entrez Gene	5879	405.0,135.0
+EDN1	GeneProduct	Entrez Gene	1906	525.0,73.0
+FOS	GeneProduct	Entrez Gene	2353	379.0,440.0
+MAPK11	GeneProduct	Entrez Gene	5600	192.0,299.0
+RHOA	GeneProduct	Entrez Gene	387	767.0,306.0
+NFAT3	GeneProduct	Entrez Gene	4776	454.0,440.0
+JNK	GeneProduct	Entrez Gene	5599	379.0,357.0
+PPP3CA	GeneProduct	Entrez Gene	5530	452.0,356.0
+STAT3	GeneProduct	Entrez Gene	6774	72.0,299.0
+PE	Metabolite	HMDB	HMDB0002182	465.0,73.0
+MAPK14	GeneProduct	Entrez Gene	1432	589.0,355.0
+GATA4	GeneProduct	Entrez Gene	2626	514.0,440.0
+Calcium	Metabolite	HMDB	HMDB0000464	465.0,196.0
+MAPK1	GeneProduct	Entrez Gene	5594	132.0,299.0
+AGT	GeneProduct	Entrez Gene	183	405.0,73.0
+IL6ST	GeneProduct	Entrez Gene	3572	105.0,167.0
+CALM1	Protein	Entrez Gene	801	465.0,251.0

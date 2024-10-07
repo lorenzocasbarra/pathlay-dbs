@@ -1,0 +1,4 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Rotavirus	mmu	kegg	mmu03271
+Itga2	GeneProduct	Entrez Gene	16398	506,461
+Itgb1	GeneProduct	Entrez Gene	16412	559,461

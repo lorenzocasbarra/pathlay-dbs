@@ -1,0 +1,28 @@
+TEXT	TYPE	DB	ID	X	Y
+Glucose homeostasis	hsa	wikipathways	WP661
+Glycerol	Metabolite	KEGG Compound	C00116	300.0,239.0
+Isoleucine	Metabolite	KEGG Compound	C16434	575.0,239.0
+Methionine	Metabolite	KEGG Compound	C01733	575.0,101.0
+GCA	Metabolite	HMDB	HMDB0000138	644.5,381.0
+Glycolysis	Pathway	WikiPathways	WP534	162.0,274.0
+Glucose	Metabolite	KEGG Compound	C00031	362.0,473.0
+Ornithine	Metabolite	KEGG Compound	C01602	694.0,180.0
+Lactate	Metabolite	KEGG Compound	C01432	158.0,239.0
+Arginine	Metabolite	KEGG Compound	C02385	694.0,200.0
+Hypoxanthine	Metabolite	KEGG Compound	C00262	239.0,521.0
+Histidine	Metabolite	KEGG Compound	C00768	575.0,161.0
+B-OH-butyrate	Metabolite	HMDB	HMDB0000011	433.0,239.0
+GCDCA	Metabolite	HMDB	HMDB0000637	644.5,401.0
+Pyruvate	Metabolite	KEGG Compound	C00022	158.0,180.0
+TCDCA	Metabolite	HMDB	HMDB0000951	644.5,421.0
+Lipolysis	Pathway			297.0,274.0
+Ketogenesis	Pathway			437.5,270.0
+Malate	Metabolite	KEGG Compound	C00711	158.0,200.0
+Insulin	GeneProduct	Ensembl	ENSG00000254647	362.0,360.0
+Tyrosine	Metabolite	KEGG Compound	C01536	575.0,121.0
+Proteolysis	Pathway			578.0,268.0
+Phenylalanine	Metabolite	KEGG Compound	C02057	575.0,201.0
+Citrulline	Metabolite	KEGG Compound	C00327	694.0,160.0
+Lysine	Metabolite	KEGG Compound	C16440	575.0,181.0
+Hippuric acid	Metabolite	KEGG Compound	C01586	239.0,473.0
+valine	Metabolite	KEGG Compound	C16436	575.0,141.0

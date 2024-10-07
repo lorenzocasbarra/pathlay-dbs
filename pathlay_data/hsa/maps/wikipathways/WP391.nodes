@@ -1,0 +1,25 @@
+TEXT	TYPE	DB	ID	X	Y
+Mitochondrial gene expression	hsa	wikipathways	WP391
+cGMP	Metabolite	KEGG Compound	C00942	60.0,300.0
+TFAM	Protein	Entrez Gene	7019	530.0,260.0
+HCFC1	Protein	Entrez Gene	3054	255.0,32.0
+TFB1M	Protein	Entrez Gene	51106	582.0,219.0
+cAMP	Metabolite	KEGG Compound	C00575	58.0,96.0
+TFB2M	Protein	Entrez Gene	64216	491.0,220.0
+PPRC1	Protein	Entrez Gene	23082	265.0,78.0
+MTERFD1	Protein	Entrez Gene	51001	676.0,101.0
+MTERF	Protein	Entrez Gene	7978	611.0,327.0
+GABPA	Protein	Entrez Gene	2551	392.0,129.0
+POLRMT	Protein	Entrez Gene	5442	506.0,322.0
+ESRRA	Protein	Entrez Gene	2101	392.0,204.0
+NRF1	Protein	Entrez Gene	4899	392.0,94.0
+GABPB2	Protein	Entrez Gene	2553	392.0,166.0
+Ca2+	Metabolite	KEGG Compound	C00076	55.0,227.0
+SP1	Protein	Entrez Gene	6667	393.0,284.0
+PPARGC1A	Protein	Entrez Gene	10891	268.0,158.0
+PPARGC1B	Protein	Entrez Gene	133522	265.0,117.0
+MYEF2	Protein	Entrez Gene	50804	261.0,254.0
+CAMK4	Protein	Entrez Gene	814	158.0,210.0
+CREB1	Protein	Entrez Gene	1385	160.0,158.0
+PPP3CA	Protein	Entrez Gene	5530	156.0,254.0
+PKA	Complex			163.0,96.0

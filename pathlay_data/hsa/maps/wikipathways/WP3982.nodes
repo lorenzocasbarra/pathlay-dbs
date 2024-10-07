@@ -1,0 +1,54 @@
+TEXT	TYPE	DB	ID	X	Y
+miRNA regulation of p53 pathway in prostate cancer	hsa	wikipathways	WP3982
+ATM	GeneProduct	Entrez Gene	472	407.0,241.0
+CHEK2	GeneProduct	Entrez Gene	11200	505.5,241.0
+MIR4482	GeneProduct	Entrez Gene	100616323	407.0,105.0
+TP53	GeneProduct	Entrez Gene	7157	452.0,367.0
+DNA	Metabolite	KEGG Compound	C00039	550.5,367.0
+ROS	Metabolite	KEGG Compound	C22381	828.0,331.0
+Nitric oxide	Metabolite	KEGG Compound	C00533	270.0,328.0
+MIR548C	GeneProduct	Entrez Gene	693129	407.0,130.0
+MIR1305	GeneProduct	Entrez Gene	100302270	407.0,155.0
+MIR548B	GeneProduct	Entrez Gene	693128	564.0,293.0
+MDM2	GeneProduct	Entrez Gene	4193	689.0,634.0
+SIAH1	GeneProduct	Entrez Gene	6477	738.0,634.0
+PTEN	GeneProduct	Entrez Gene	5728	684.0,548.0
+P48	GeneProduct	Entrez Gene	6767	682.0,490.0
+SESN3	GeneProduct	Entrez Gene	143686	732.0,490.0
+SERPINE1	GeneProduct	Entrez Gene	5054	684.5,438.0
+Scotin	GeneProduct	Ensembl	ENSG00000164054	682.0,367.0
+EI24	GeneProduct	Entrez Gene	9538	682.0,331.0
+BAX	GeneProduct	Entrez Gene	581	682.0,294.0
+TNFRSF10B	GeneProduct	Entrez Gene	8795	695.5,247.0
+MIR548C	GeneProduct	Entrez Gene	693129	695.0,127.0
+PMAIP1	GeneProduct	Entrez Gene	5366	738.0,294.0
+BBC3	GeneProduct	Entrez Gene	27113	795.0,294.0
+MIR1305	GeneProduct	Entrez Gene	100302270	764.0,127.0
+CASP8	GeneProduct	Entrez Gene	841	827.0,247.0
+MIR27B	GeneProduct	Entrez Gene	407019	825.0,127.0
+PERP	GeneProduct	Entrez Gene	64065	738.0,367.0
+ZMAT3	GeneProduct	Entrez Gene	64393	792.0,367.0
+SIAH1	GeneProduct	Entrez Gene	6477	848.0,367.0
+MIR4491	GeneProduct	Entrez Gene	100616330	822.0,462.0
+MIR548C	GeneProduct	Entrez Gene	693129	711.0,704.0
+MIR1305	GeneProduct	Entrez Gene	100302270	773.0,704.0
+BID	GeneProduct	Entrez Gene	637	922.0,267.0
+MIR548B	GeneProduct	Entrez Gene	693128	821.0,579.0
+MIR27B	GeneProduct	Entrez Gene	407019	880.0,579.0
+MIR320A	GeneProduct	Entrez Gene	407037	936.0,579.0
+MIR182	GeneProduct	Entrez Gene	406958	880.0,604.0
+MIR4482	GeneProduct	Entrez Gene	100616323	995.0,579.0
+MIR548C	GeneProduct	Entrez Gene	693129	821.0,604.0
+MIR19a	GeneProduct	miRBase mature sequence	MIMAT0004490	936.0,604.0
+MIR1305	GeneProduct	Entrez Gene	100302270	995.0,604.0
+MIR27B	GeneProduct	Entrez Gene	407019	840.0,408.0
+MIR320A	GeneProduct	Entrez Gene	407037	896.0,408.0
+MIR548C	GeneProduct	Entrez Gene	693129	953.5,408.0
+MIR1305	GeneProduct	Entrez Gene	100302270	1012.0,408.0
+TP53AIP1	GeneProduct	Entrez Gene	63970	858.0,294.0
+CYS1	GeneProduct	Entrez Gene	192668	1053.0,321.0
+APAF1	GeneProduct	Entrez Gene	317	1086.0,354.0
+MIR548C	GeneProduct	Entrez Gene	693129	1065.0,178.0
+CASP9	GeneProduct	Entrez Gene	842	1179.0,339.0
+CASP3	GeneProduct	Entrez Gene	836	1257.0,339.0
+Hypoxia		Wikidata	Q105688	271.0,288.0

@@ -1,0 +1,100 @@
+TEXT	TYPE	DB	ID	X	Y
+Pathogenic Escherichia coli infection	hsa	wikipathways	WP2272
+TUBB6	GeneProduct	Entrez Gene	84617	704.0,428.0
+EspF	GeneProduct	Uniprot-TrEMBL	O85622	168.0,366.0
+EspG	GeneProduct	Uniprot-TrEMBL	O85646	592.0,356.0
+EspG2	GeneProduct	Uniprot-TrEMBL	Q9EZE8	168.0,450.0
+KRT18	GeneProduct	Entrez Gene	3875	688.0,860.0
+ARHGEF2	GeneProduct	Entrez Gene	9181	920.0,402.0
+Regulation of actin cytoskeleton	Pathway	WikiPathways	WP51	871.0,790.0
+ARPC5	GeneProduct	Entrez Gene	10092	986.0,568.0
+TUBB8	GeneProduct	Entrez Gene	347688	793.0,468.0
+OCLN	GeneProduct	Entrez Gene	4950	688.0,938.0
+TUBA8	GeneProduct	Entrez Gene	51807	703.0,344.0
+EZR	GeneProduct	Entrez Gene	7430	688.0,990.0
+ABL1	GeneProduct	Entrez Gene	25	592.0,688.0
+ITGB1	GeneProduct	Entrez Gene	3688	436.0,774.0
+TUBB3	GeneProduct	Entrez Gene	10381	793.0,428.0
+WASL	GeneProduct	Entrez Gene	8976	846.0,560.0
+TUBB2B	GeneProduct	Entrez Gene	347733	704.0,468.0
+FYN	GeneProduct	Entrez Gene	2534	592.0,668.0
+CDC42	GeneProduct	Entrez Gene	998	688.0,790.0
+Phosphatidylethanolamine	Metabolite	KEGG Compound	C00350	522.0,212.0
+EspG2	GeneProduct	Uniprot-TrEMBL	Q9EZE8	592.0,378.0
+Eae	GeneProduct	Uniprot-TrEMBL	P43261	268.0,690.0
+TUBB2C	GeneProduct	Entrez Gene	10383	793.0,448.0
+TUBA4A	GeneProduct	Entrez Gene	7277	792.0,325.0
+StxA	GeneProduct	Uniprot-TrEMBL	A8B1H9	168.0,138.0
+TUBA3C	GeneProduct	Entrez Gene	7278	703.0,324.0
+Adherens junction	Pathway	KEGG Genes	path:hsa04520	1049.0,1076.0
+EspF	GeneProduct	Uniprot-TrEMBL	O85622	561.0,896.0
+StxB	GeneProduct	Uniprot-TrEMBL	A7UQX3	168.0,158.0
+TUBB4	GeneProduct	Entrez Gene	10382	704.0,508.0
+TUBA1C	GeneProduct	Entrez Gene	84790	792.0,365.0
+Tight junction	Pathway	KEGG Genes	path:hsa04530	826.0,1076.0
+EspFU	GeneProduct	Uniprot-TrEMBL	P0DJ88	560.0,954.0
+EspH	GeneProduct	Uniprot-TrEMBL	O85629	168.0,410.0
+ACTG1	GeneProduct	Entrez Gene	71	1138.0,547.5
+TLR5	GeneProduct	Entrez Gene	7100	524.0,252.0
+TUBA3E	GeneProduct	Entrez Gene	112714	703.0,364.0
+PRKCA	GeneProduct	Entrez Gene	5578	560.0,1042.0
+TUBA1A	GeneProduct	Entrez Gene	7846	792.0,345.0
+YWHAZ	GeneProduct	Entrez Gene	7534	688.0,884.0
+ACTB	GeneProduct	Entrez Gene	60	1138.0,567.5
+CLDN1	GeneProduct	Entrez Gene	9076	688.0,1012.0
+LY96	GeneProduct	Entrez Gene	23643	443.31092436974734,283.0504201680672
+CTTN	GeneProduct	Entrez Gene	2017	846.0,648.0
+actin-related protein 2/3 complex subunit 1B-like	GeneProduct	Entrez Gene	653888	986.0,628.0
+NCL	GeneProduct	Entrez Gene	4691	436.0,708.0
+WAS	GeneProduct	Entrez Gene	7454	846.0,580.0
+TUBA3D	GeneProduct	Entrez Gene	113457	792.0,305.0
+HCLS1	GeneProduct	Entrez Gene	3059	846.0,628.0
+ROCK1	GeneProduct	Entrez Gene	6093	1156.0,412.0
+Bfp	GeneProduct	Uniprot-TrEMBL	Q0H044	274.0,212.0
+EspFU	GeneProduct	Uniprot-TrEMBL	P0DJ88	168.0,534.0
+Map	GeneProduct	Uniprot-TrEMBL	Q9R8E4	168.0,388.0
+EspFU	GeneProduct	Uniprot-TrEMBL	P0DJ88	602.0,570.0
+TUBA1B	GeneProduct	Entrez Gene	10376	703.0,384.0
+ARPC1A	GeneProduct	Entrez Gene	10552	986.0,508.0
+ARPC4	GeneProduct	Entrez Gene	10093	986.0,548.0
+Regulation of actin cytoskeleton	Pathway	WikiPathways	WP51	1136.0,476.0
+CTNNB1	GeneProduct	Entrez Gene	1499	826.0,1020.0
+ARPC3	GeneProduct	Entrez Gene	10094	986.0,588.0
+RHOA	GeneProduct	Entrez Gene	387	1032.0,402.0
+TUBAL3	GeneProduct	Entrez Gene	79861	703.0,304.0
+ARPC5L	GeneProduct	Entrez Gene	81873	986.0,488.0
+ROCK2	GeneProduct	Entrez Gene	9475	1156.0,393.0
+TUBB4Q	GeneProduct	Entrez Gene	56604	793.0,488.0
+occludin-like	GeneProduct	Entrez Gene	100506658	688.0,958.0
+TUBB1	GeneProduct	Entrez Gene	81027	793.0,508.0
+Toll-like receptor signaling pathway	Pathway	WikiPathways	WP75	745.0,266.5
+ARPC2	GeneProduct	Entrez Gene	10109	986.0,608.0
+CD14	GeneProduct	Entrez Gene	929	524.0,320.0
+TUBB	GeneProduct	Entrez Gene	203068	704.0,488.0
+CDH1	GeneProduct	Entrez Gene	999	688.0,1042.0
+Tir	GeneProduct	Uniprot-TrEMBL	P0DJ92	168.0,322.0
+NCK1	GeneProduct	Entrez Gene	4690	708.0,678.0
+NCK2	GeneProduct	Entrez Gene	8440	708.0,658.0
+EspG	GeneProduct	Uniprot-TrEMBL	O85646	168.0,344.0
+YWHAQ	GeneProduct	Entrez Gene	10971	688.0,834.0
+Flagellar assembly	Pathway	KEGG Genes	path:map02040	94.0,250.0
+TUBB2A	GeneProduct	Entrez Gene	7280	704.0,448.0
+EspH	GeneProduct	Uniprot-TrEMBL	O85629	687.0,735.0
+TLR4	GeneProduct	Entrez Gene	7099	524.0,276.0
+Apoptosis	Pathway	WikiPathways	WP254	1046.0,914.0
+ARPC1B	GeneProduct	Entrez Gene	10095	986.0,528.0
+Map	GeneProduct	Uniprot-TrEMBL	Q9R8E4	561.0,872.0
+Tir	GeneProduct	Uniprot-TrEMBL	P0DJ92	436.0,612.0
+Type III protein secretion system	GeneProduct			311.0,427.0
+NleH	GeneProduct	Uniprot-TrEMBL	D3QNI6	168.0,494.0
+NleA	GeneProduct	Uniprot-TrEMBL	Q71HP5	168.0,472.0
+TUBB6	GeneProduct	Entrez Gene	84617	714.0,438.0
+TUBB1	GeneProduct	Entrez Gene	81027	803.0,518.0
+TUBB4Q	GeneProduct	Entrez Gene	56604	803.0,498.0
+TUBB8	GeneProduct	Entrez Gene	347688	803.0,478.0
+TUBB2B	GeneProduct	Entrez Gene	347733	714.0,478.0
+TUBB4	GeneProduct	Entrez Gene	10382	714.0,518.0
+TUBB2C	GeneProduct	Entrez Gene	10383	803.0,458.0
+TUBB	GeneProduct	Entrez Gene	203068	714.0,498.0
+TUBB2A	GeneProduct	Entrez Gene	7280	714.0,458.0
+TUBB3	GeneProduct	Entrez Gene	10381	803.0,438.0

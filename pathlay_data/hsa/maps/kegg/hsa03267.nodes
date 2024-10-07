@@ -1,0 +1,6 @@
+TEXT	TYPE	DB	ID	X	Y
+Virion - Adenovirus	hsa	kegg	hsa03267
+CXADR	GeneProduct	Entrez Gene	1525	95,519
+CD80	GeneProduct	Entrez Gene	941	204,519
+CD86	GeneProduct	Entrez Gene	942	258,519
+CD46	GeneProduct	Entrez Gene	4179	149,519

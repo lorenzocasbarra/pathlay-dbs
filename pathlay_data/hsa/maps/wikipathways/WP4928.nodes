@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+MAPK pathway in congenital thyroid cancer	hsa	wikipathways	WP4928
+KSR1	GeneProduct	Entrez Gene	8844	94.0,264.0
+MAP2K2	GeneProduct	Entrez Gene	5605	233.0,490.0
+ELK1	GeneProduct	Entrez Gene	2002	764.999999999999,500.6666666666664
+FOS	GeneProduct	Entrez Gene	2353	764.999999999999,440.66666666666634
+MYC	GeneProduct	Entrez Gene	4609	764.999999999999,480.6666666666664
+JUN	GeneProduct	Entrez Gene	3725	764.999999999999,460.6666666666664
+CRAF 	GeneProduct	Ensembl	ENSG00000132155	328.0,294.25
+ RAS 	Protein	Ensembl	ENSG00000133703	260.0,207.5
+GTP	Metabolite	KEGG Compound	C00044	231.5,171.75
+MAP2K1	GeneProduct	Entrez Gene	5604	233.0,445.0
+SOS2	GeneProduct	Entrez Gene	6655	517.75,154.75
+MAPK3	GeneProduct	Entrez Gene	5595	471.0,445.0
+ALK	GeneProduct	Entrez Gene	238	706.0,57.0
+GDP	Metabolite	KEGG Compound	C00035	277.0,93.75
+MAPK3  	GeneProduct	Ensembl	ENSG00000102882	630.5,445.0
+SHC1	GeneProduct	Entrez Gene	6464	755.25,141.25
+BRAF	GeneProduct	Entrez Gene	673	233.0,337.0
+SOS1	GeneProduct	Entrez Gene	6654	517.75,131.5
+GRB2	GeneProduct	Entrez Gene	150946	649.0,143.0

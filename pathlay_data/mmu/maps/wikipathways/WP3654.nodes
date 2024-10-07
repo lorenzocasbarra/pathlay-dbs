@@ -1,0 +1,35 @@
+TEXT	TYPE	DB	ID	X	Y
+Novel Jun-Dmp1 pathway	mmu	wikipathways	WP3654
+Dmp1	GeneProduct	Entrez Gene	13406	532.0,307.0
+Arf	GeneProduct	Entrez Gene	12578	881.0,306.0
+S Phase	Pathway	WikiPathways	WP413	1005.0,116.0
+Kras	GeneProduct	Entrez Gene	16653	186.0,139.0
+Junb	GeneProduct	Entrez Gene	16477	385.0,317.0
+Mapk1	GeneProduct	Entrez Gene	26413	186.0,444.0
+Ink4a	GeneProduct	Ensembl	ENSMUSG00000044303	595.0,25.0
+Raf1	GeneProduct	Entrez Gene	110157	186.0,258.0
+Myc	GeneProduct	Entrez Gene	17869	881.0,126.0
+Cdk4	GeneProduct	Entrez Gene	12567	595.0,107.0
+Ccnd1	GeneProduct	Entrez Gene	12443	595.0,126.0
+E2f1	GeneProduct	Entrez Gene	13555	881.0,106.0
+Rb1	GeneProduct	Entrez Gene	19645	749.0,116.0
+Ets1	GeneProduct	Entrez Gene	23871	388.0,221.5
+Map2k1	GeneProduct	Entrez Gene	26395	186.25,359.25
+Ets2	GeneProduct	Entrez Gene	23872	388.0,241.5
+Growth Arrest or Apoptosis	Pathway	WikiPathways	WP1254	1064.5,467.5
+Jun	GeneProduct	Entrez Gene	16476	385.0,297.0
+p53	GeneProduct	Entrez Gene	22059	881.0,467.0
+Mdm2	GeneProduct	Entrez Gene	17246	881.0,414.0
+Ets2	GeneProduct	Entrez Gene	23872	391.0,444.5
+Ets1	GeneProduct	Entrez Gene	23871	391.0,424.5
+Rras	GeneProduct	Entrez Gene	20130	186.0,179.0
+Nras	GeneProduct	Entrez Gene	18176	186.0,159.0
+Hras	GeneProduct	Entrez Gene	15461	186.0,199.0
+Araf	GeneProduct	Entrez Gene	11836	186.0,278.0
+Braf	GeneProduct	Entrez Gene	109880	186.0,298.0
+Map2k2	GeneProduct	Entrez Gene	26396	186.25,379.25
+Mapk3	GeneProduct	Entrez Gene	26417	186.0,464.0
+Jun	GeneProduct	Entrez Gene	16476	391.0,384.5
+Fos	GeneProduct	Entrez Gene	14281	391.0,404.5
+Jun	GeneProduct	Entrez Gene	16476	388.0,181.5
+Fos	GeneProduct	Entrez Gene	14281	388.0,201.5

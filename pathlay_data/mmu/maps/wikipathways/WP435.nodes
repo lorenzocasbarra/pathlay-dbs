@@ -1,0 +1,64 @@
+TEXT	TYPE	DB	ID	X	Y
+One-carbon metabolism	mmu	wikipathways	WP435
+Mthfd1	GeneProduct	Entrez Gene	108156	774.0,360.0
+Tetrahydrofolate	Metabolite	KEGG Compound	C00101	608.4916666666667,241.16666666666666
+Mthfd1	GeneProduct	Entrez Gene	108156	774.0,506.0
+L-Methionine	Metabolite	KEGG Compound	C00073	1054.0,261.0
+Mtfmt	GeneProduct	Entrez Gene	69606	774.0,400.0
+Dnmt1	GeneProduct	Entrez Gene	13433	1266.0,395.0
+Gart	GeneProduct	Entrez Gene	14450	685.0,508.0
+Dnmt3b	GeneProduct	Entrez Gene	13436	1266.0,433.0
+Dhfr	GeneProduct	Entrez Gene	13361	608.825,182.9833333333333
+Matia	GeneProduct	Entrez Gene	11720	1165.047619047619,268.0
+Bhmt	GeneProduct	Entrez Gene	12116	1047.492,473.0
+5-Formiminotetrahydrofolic acid	Metabolite	HMDB	HMDB0001534	476.0,390.0
+Mthfd1	GeneProduct	Entrez Gene	108156	403.0,453.0
+Mat2b	GeneProduct	Entrez Gene	108645	1165.047619047619,288.0
+Atic	GeneProduct	Entrez Gene	108147	774.0,340.0
+Ftcd	GeneProduct	Entrez Gene	14317	592.0,337.0
+5-Formyltetrahydrofolate	Metabolite	KEGG Compound	C03479	599.3333333333334,422.3333333333333
+Tcn II	GeneProduct	Entrez Gene	21452	894.6666666666666,261.6666666666667
+Mthfd2	GeneProduct	Entrez Gene	17768	774.0,546.0
+5,10-Methenyl Tetrahydrofolate	Metabolite	HMDB	HMDB0001354	552.0,590.0
+Amt	GeneProduct	Entrez Gene	434437	422.0,309.0
+Dihydrofolate	Metabolite	KEGG Compound	C00415	362.9916666666667,187.0
+Monoglutamate	Metabolite	CAS	59-30-3	607.825,127.33333333333333
+Glycine	Metabolite	KEGG Compound	C00037	551.3333333333334,274.0
+Shmt2	GeneProduct	Entrez Gene	108037	422.0,289.0
+Mtr	GeneProduct	Entrez Gene	238505	917.0,448.0
+Amt	GeneProduct	Entrez Gene	434437	537.3333333333334,470.0
+Folh1	GeneProduct	Entrez Gene	53320	607.825,76.31666666666666
+Ehmt1	GeneProduct	Entrez Gene	77683	1536.4833333333333,406.98333333333335
+Ahcy	GeneProduct	Entrez Gene	269378	1153.0,525.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	1223.0,483.0
+Shmt1	GeneProduct	Entrez Gene	20425	422.0,269.0
+Polyglutamate	Metabolite	CAS	25513-46-6	607.825,22.833333333333332
+5-Methyl Tetrahydrofolate	Metabolite	CAS	134-35-0	606.4916666666667,654.5
+Riboflavin/Vitamin B2	Metabolite	HMDB	HMDB0000244	312.6666666666667,567.0
+Mthfd1l	GeneProduct	Entrez Gene	270685	774.0,380.0
+Homocysteine	Metabolite	KEGG Compound	C05330	1047.492,536.6666666666666
+Mthfd2	GeneProduct	Entrez Gene	17768	403.0,493.0
+dUMP	Metabolite	KEGG Compound	C00365	133.33333333333326,320.9523809523808
+Dnmt3a	GeneProduct	Entrez Gene	13435	1266.0,415.0
+Mthfr	GeneProduct	Entrez Gene	17769	403.5,585.0
+Methylcobalamin	Metabolite	KEGG Compound	C06453	893.6666666666666,224.0
+Mtrr	GeneProduct	Entrez Gene	210009	917.0,428.0
+Ehmt2	GeneProduct	Entrez Gene	110147	1536.4833333333333,426.98333333333335
+L-Serine	Metabolite	KEGG Compound	C00065	541.3333333333334,302.0
+Mthfd1l	GeneProduct	Entrez Gene	270685	403.0,473.0
+Ftcd	GeneProduct	Entrez Gene	14317	496.3333333333333,510.6666666666667
+Mthfd1l	GeneProduct	Entrez Gene	270685	774.0,526.0
+dTMP	Metabolite	KEGG Compound	C00364	134.28571428571428,246.66666666666603
+Ethanol	Metabolite	KEGG Compound	C00469	725.3333333333334,127.33333333333333
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	1235.9958333333334,353.0
+Cobalamin	Metabolite	HMDB	HMDB0002174	894.6666666666666,294.6666666666667
+Aldh1l1	GeneProduct	Entrez Gene	107747	774.0,300.0
+Kiaa0828	GeneProduct	Entrez Gene	74340	1153.0,545.0
+10-Formyl Tetrahydrofolate	Metabolite	CAS	2800-34-2	773.992,452.5
+Gart	GeneProduct	Entrez Gene	14450	774.0,320.0
+Dhfr	GeneProduct	Entrez Gene	13361	474.2857142857143,126.38095238095246
+Tyms	GeneProduct	Entrez Gene	22171	230.42857142857076,287.66666666666686
+Betaine	Metabolite	KEGG Compound	C00719	1047.0,389.0
+Dhfr	GeneProduct	Entrez Gene	13361	446.0,218.98333333333332
+Mthfs	GeneProduct	Entrez Gene	107885	599.6666666666666,508.0
+5,10-Methylene Tetrahydrofolate	Metabolite	ChEBI	CHEBI:12071	383.9916666666667,352.5

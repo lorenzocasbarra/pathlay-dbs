@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Effects of nitric oxide	hsa	wikipathways	WP1995
+NOS3 (endothelial)	GeneProduct	Entrez Gene	4846	205.5,125.0
+Nitric oxide	Metabolite	KEGG Compound	C00533	424.0,162.0
+AOX1	Protein	Ensembl	ENSG00000138356	728.6451612903226,229.4277894478414
+Deoxy-hemoglobin	GeneProduct	Ensembl	ENSG00000206172	620.4394917218366,68.61514257834338
+Deoxy-myoglobin	GeneProduct	Entrez Gene	4151	515.5322580645161,98.06451612903224
+Nitrate	Metabolite	KEGG Compound	C00244	818.0,162.0
+NOS1 (neuronal)	GeneProduct	Entrez Gene	4842	205.5,85.0
+COX1	GeneProduct	Entrez Gene	4512	616.6451612903226,229.4277894478414
+NOS2 (inducible)	GeneProduct	Entrez Gene	4843	205.5,105.0
+Citrulline	Metabolite	KEGG Compound	C00327	285.0,204.0
+VItamin C	Metabolite	KEGG Compound	C00072	842.7096774193544,229.4277894478414
+Nitrite	Metabolite	KEGG Compound	C00088	613.0,162.0
+XDH	GeneProduct	Entrez Gene	7498	207.8333870967741,359.10064516129023
+L-Arginine	Metabolite	KEGG Compound	C00062	61.0,161.0
+Oxygen	Metabolite	KEGG Compound	C00007	61.0,204.0
+Hypoxia		Wikidata	Q105688	417.9583333333326,56.84190952590171

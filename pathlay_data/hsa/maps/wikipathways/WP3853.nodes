@@ -1,0 +1,20 @@
+TEXT	TYPE	DB	ID	X	Y
+ERK pathway in Huntington's disease	hsa	wikipathways	WP3853
+CREB	GeneProduct	Entrez Gene	1385	419.0,493.0
+CASP7	GeneProduct	Entrez Gene	840	515.0,473.0
+RAS	GeneProduct	Ensembl	ENSG00000174775	301.0,225.0
+CASP3	GeneProduct	Entrez Gene	836	515.0,493.0
+NTRK2	GeneProduct	Entrez Gene	4915	264.0,168.0
+MSK1	GeneProduct	Entrez Gene	9252	325.0,472.0
+GRM1	GeneProduct	Entrez Gene	2911	419.0,167.0
+ELK1	GeneProduct	Entrez Gene	2002	419.0,473.0
+MAPK1	GeneProduct	Entrez Gene	5594	419.0,359.0
+BDNF	GeneProduct	Entrez Gene	627	264.0,115.0
+HTT	GeneProduct	Entrez Gene	3064	341.0,64.0
+EGF	GeneProduct	Entrez Gene	1950	341.0,114.0
+EGFR	GeneProduct	Entrez Gene	1956	341.0,167.0
+RAF1	GeneProduct	Entrez Gene	5894	419.0,224.0
+Glutamate	Metabolite	KEGG Compound	C00302	419.0,114.0
+MAP2K1	GeneProduct	Entrez Gene	5604	419.0,275.5
+MAP2K2	GeneProduct	Entrez Gene	5605	419.0,295.0
+MAPK3	GeneProduct	Entrez Gene	5595	419.0,379.0

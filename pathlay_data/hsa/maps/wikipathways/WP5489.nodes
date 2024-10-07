@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+Regulation of cytotoxic T cell responses by Malat1 - miR-15/16 circuit 	hsa	wikipathways	WP5489
+CD28	GeneProduct	Entrez Gene	940	774.0,499.0
+CD80	GeneProduct	Entrez Gene	941	987.0963855421687,486.66131191432396
+MIR15A	Rna	miRBase Sequence	MI0000069	630.0,203.0
+TRA	GeneProduct	Entrez Gene	6955	809.0,373.0
+CD3G	GeneProduct	Entrez Gene	917	743.875,373.75
+BCL2	GeneProduct	Entrez Gene	596	546.0,576.0
+CD3E	GeneProduct	Entrez Gene	916	743.875,348.75
+CD247	GeneProduct	Entrez Gene	919	743.875,398.75
+IL2	GeneProduct	Entrez Gene	3558	858.0,582.0
+CD3D	GeneProduct	Entrez Gene	915	743.875,323.75
+MALAT1	GeneProduct	Entrez Gene	378938	406.5,240.0
+CD27	GeneProduct	Entrez Gene	939	248.0,379.0
+CD43	GeneProduct	Entrez Gene	6693	248.0,347.0
+MIR15B	Rna	miRBase Sequence	MI0000438	630.0,228.0
+MIR16-1	Rna	miRBase Sequence	MI0000070	630.0,253.0
+MIR16-2	Rna	miRBase Sequence	MI0000115	630.0,278.0
+IL2	GeneProduct	Entrez Gene	3558	723.0,582.0
+TRB	GeneProduct	Entrez Gene	6957	809.0,348.0
+CD86	GeneProduct	Entrez Gene	942	987.0963855421687,511.66131191432396

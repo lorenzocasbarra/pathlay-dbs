@@ -1,0 +1,25 @@
+TEXT	TYPE	DB	ID	X	Y
+Methylation pathways	hsa	wikipathways	WP704
+N-methylated substrate	Metabolite			815.0,269.0
+MAT1A	GeneProduct	Entrez Gene	4143	234.0,94.0
+MAT2A	GeneProduct	Entrez Gene	4144	234.0,114.0
+Phosphate	Metabolite	KEGG Compound	C00009	303.0,167.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	684.0,89.0
+S-methylated substrate	Metabolite			818.0,393.0
+Substrate	Metabolite			308.0,269.0
+O-methylated substrate	Metabolite			811.0,124.0
+TPMT	GeneProduct	Entrez Gene	7172	566.0,355.0
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	453.0,226.0
+ATP	Metabolite	KEGG Compound	C00002	167.0,177.0
+PNMT	GeneProduct	Entrez Gene	5409	567.0,168.0
+MAT2B	GeneProduct	Entrez Gene	27430	234.0,134.0
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	451.0,359.0
+HNMT	GeneProduct	Entrez Gene	3176	567.0,208.0
+INMT	GeneProduct	Entrez Gene	11185	567.0,188.0
+L-Methionine	Metabolite	KEGG Compound	C00073	129.0,226.0
+NNMT	GeneProduct	Entrez Gene	4837	567.0,228.0
+Phosphate	Metabolite	KEGG Compound	C00009	303.0,187.0
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	449.0,88.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	686.0,360.0
+S-Adenosylhomocysteine	Metabolite	KEGG Compound	C00021	688.0,227.0
+COMT	GeneProduct	Entrez Gene	1312	565.0,81.0

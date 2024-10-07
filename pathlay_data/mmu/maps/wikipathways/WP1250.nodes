@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+Arachidonate epoxygenase / epoxide hydrolase	mmu	wikipathways	WP1250
+Glutathionyl-HETrEs	Metabolite			362.0,439.0
+CYP2C9	GeneProduct			511.0,184.49166666666667
+5,6-DiH-PGF1a	Metabolite			167.0,196.0
+Ephx2	GeneProduct	Entrez Gene	13850	293.0,324.5
+Phosphotidyl-EpETrEs	Metabolite			490.75,439.0
+11,12-DiHETrE	Metabolite	HMDB	HMDB0002314	664.0,266.0
+Cox5a	GeneProduct	Entrez Gene	12858	317.0,243.0
+Ephx2	GeneProduct	Entrez Gene	13850	543.75,324.5
+14(15)-EpETrE	Metabolite	HMDB	HMDB0004264	465.0,297.0
+Ephx2	GeneProduct	Entrez Gene	13850	543.0,285.0
+5(6)-Epoxy-PGE1	Metabolite			327.0,195.0
+CYP2C8	GeneProduct			511.0,167.48333333333332
+5,6-DiHETrE	Metabolite	HMDB	HMDB0002343	168.0,266.0
+GST3	GeneProduct			344.5,360.5
+Catalyst	GeneProduct			488.5,360.5
+8(9)-EpETrE	Metabolite	HMDB	HMDB0002232	373.0,297.0
+5(6)-EpETrE	Metabolite	HMDB	HMDB0002190	371.0,277.0
+11(12)-EpETrE	Metabolite	HMDB	HMDB0010409	465.25,277.0
+Cox8a	GeneProduct	Entrez Gene	12868	138.25,236.0
+CYP2J2	GeneProduct			511.0,147.48333333333332
+Ephx2	GeneProduct	Entrez Gene	13850	291.25,284.0
+8,9-DiHETrE	Metabolite	HMDB	HMDB0002311	169.0,307.0
+14,15-DiHETrE	Metabolite	HMDB	HMDB0002265	666.0,308.0
+Arachidonic acid	Metabolite	KEGG Compound	C00219	420.5,94.0

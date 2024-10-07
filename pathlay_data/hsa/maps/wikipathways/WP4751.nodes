@@ -1,0 +1,9 @@
+TEXT	TYPE	DB	ID	X	Y
+HIPK2 in kidney fibrosis	hsa	wikipathways	WP4751
+SIAH1	GeneProduct	Entrez Gene	6477	498.0,100.0
+Notch signaling	Pathway	WikiPathways	WP268	379.25,345.0
+HIPK2	GeneProduct	Entrez Gene	28996	498.0,200.0
+Wnt / B-catenin  signaling	Pathway	WikiPathways	WP4150	251.0,345.0
+TGF-B signaling	Pathway	WikiPathways	WP3874	498.0,345.0
+p53 pathway	Pathway	WikiPathways	WP707	620.25,345.0
+NF-kB signaling	Pathway	WikiPathways	WP4562	735.25,345.0

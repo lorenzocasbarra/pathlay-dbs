@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+Serotonin receptor 4/6/7 and NR3C signaling	hsa	wikipathways	WP734
+Cyclic AMP	Metabolite	KEGG Compound	C00575	444.0,352.0
+BRAF	GeneProduct	Entrez Gene	673	443.9999999999999,516.0
+HTR7	GeneProduct	Entrez Gene	3363	575.0,156.0
+ADCY	GeneProduct			443.99999999999994,290.0
+SRF	GeneProduct	Entrez Gene	6722	365.0,782.0
+ELK4	GeneProduct	Entrez Gene	2005	249.0,782.0
+EGR1	GeneProduct	Entrez Gene	1958	470.0,847.0
+HTR6	GeneProduct	Entrez Gene	3362	443.99999999999994,155.0
+GNAS	GeneProduct	Entrez Gene	2778	444.0,223.0
+ATF1	GeneProduct	Entrez Gene	466	710.0,783.0
+MAP2K2	GeneProduct	Entrez Gene	5605	530.0,579.0
+serotonin	Metabolite	KEGG Compound	C00780	443.9999999999999,86.0
+MAPK3	GeneProduct	Entrez Gene	5595	387.0,639.0
+CREB1	GeneProduct	Entrez Gene	1385	611.0,784.0
+MAPK1	GeneProduct	Entrez Gene	5594	532.0,641.0
+MAP2K1	GeneProduct	Entrez Gene	5604	386.0,576.0
+RPS6KA5	GeneProduct	Entrez Gene	9252	485.0,705.0
+RPS6K	GeneProduct			584.0,693.0
+NR3C1	GeneProduct	Entrez Gene	2908	468.0,901.0
+PKA	GeneProduct			443.9999999999999,409.0
+RAP1A	GeneProduct	Entrez Gene	5906	444.0,460.0
+MAPKAPK2	GeneProduct	Entrez Gene	9261	384.0,706.0
+ELK1	GeneProduct	Entrez Gene	2002	509.0,783.0
+HTR4	GeneProduct	Entrez Gene	3360	317.0,155.0

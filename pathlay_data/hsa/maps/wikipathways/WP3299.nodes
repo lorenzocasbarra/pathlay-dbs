@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+let-7 inhibition of ES cell reprogramming	hsa	wikipathways	WP3299
+c-MYC	GeneProduct	Ensembl	ENSG00000136997	69.5,250.0
+LIN-41	GeneProduct	Entrez Gene	131405	280.0,261.0
+EGR1	GeneProduct	Entrez Gene	1958	280.5,353.0
+MIRLET7A1	GeneProduct	Entrez Gene	406881	240.0,90.0
+SOX2	GeneProduct	Entrez Gene	6657	69.5,230.0
+KLF4	GeneProduct	Entrez Gene	9314	69.5,290.0
+OCT4	GeneProduct	Entrez Gene	5460	69.5,270.0
+MIRLET7A2	GeneProduct	Entrez Gene	406882	240.0,110.0
+MIRLET7A3	GeneProduct	Entrez Gene	406883	240.0,130.0
+MIRLET7C	GeneProduct	Entrez Gene	406885	240.0,150.0
+MIRLET7D	GeneProduct	Entrez Gene	406886	240.0,170.0
+MIRLET7E	GeneProduct	Entrez Gene	406887	320.0,90.0
+MIRLET7F1	GeneProduct	Entrez Gene	406888	320.0,110.0
+MIRLET7F2	GeneProduct	Entrez Gene	406889	320.0,130.0
+MIRLET7G	GeneProduct	Entrez Gene	406890	320.0,150.0
+MIRLET7I	GeneProduct	Entrez Gene	406891	320.0,170.0

@@ -1,0 +1,19 @@
+TEXT	TYPE	DB	ID	X	Y
+Protein alkylation leading to liver fibrosis	hsa	wikipathways	WP3980
+Collagen biosynthesis and modifying enzymes	Pathway	WikiPathways	WP2725	241.5,644.0
+KE55: Cell injury/death	Event	AOP-Wiki KE	55	241.5,260.0
+thioacetamide	Metabolite	KEGG Compound	C19302	382.525179028133,85.0450000000004
+KE276: TGFbeta1 expression up regulation	Event	AOP-Wiki KE	276	241.5,469.0
+KE134: Increased activation and recruitment of Kupffer Cells	Event	AOP-Wiki KE	134	241.5,406.0
+Dimethylnitrosamine	Metabolite	KEGG Compound	C14704	83.3525447570332,85.04500000000039
+KE244: Protein alkylation	Event	AOP-Wiki KE	244	241.5,199.0
+Apoptosis Modulation and Signaling	Pathway	WikiPathways	WP1772	241.5,335.0
+allyl alcohol	Metabolite	KEGG Compound	C02001	475.08272378516625,85.0450000000004
+KE344: Liver Fibrosis	Event	AOP-Wiki KE	344	241.5,724.0
+TNF alpha Signaline Pathway	Pathway	WikiPathways	WP231	241.5,310.0
+retinol	Metabolite	KEGG Compound	C00473	197.4100895140664,85.04500000000039
+CCl4	Metabolite	ChEBI	CHEBI:27385	289.96763427109966,85.0450000000004
+KE265: Stellate cell activation	Event	AOP-Wiki KE	265	241.5,562.0
+Apoptosis	Pathway	WikiPathways	WP254	241.5,285.0
+KE68: Collagen accumulation	Event	AOP-Wiki KE	68	241.5,619.0
+TGF-beta signaling pathway	Pathway	WikiPathways	WP366	241.5,494.0

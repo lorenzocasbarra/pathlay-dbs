@@ -1,0 +1,10 @@
+TEXT	TYPE	DB	ID	X	Y
+Model for regulation of MSMP expression in cancer cells and its proangiogenic role in ovarian tumors	hsa	wikipathways	WP4397
+MAPK signaling	Pathway	WikiPathways	WP382	677.0,227.0
+CCR2	GeneProduct	Entrez Gene	729230	244.0,130.0
+Angiogenesis	Pathway	WikiPathways	WP1539	677.0,389.0
+MSMP	GeneProduct	Entrez Gene	692094	478.0,97.0
+CTCF	GeneProduct	Entrez Gene	10664	147.0,254.0
+CCR2	GeneProduct	Entrez Gene	729230	677.0,146.0
+MSMP	GeneProduct	Entrez Gene	692094	302.0,321.0
+Hypoxia		Wikidata	Q105688	82.5,283.0

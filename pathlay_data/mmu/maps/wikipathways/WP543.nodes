@@ -1,0 +1,13 @@
+TEXT	TYPE	DB	ID	X	Y
+Synthesis and degradation of ketone bodies	mmu	wikipathways	WP543
+Acat1	GeneProduct	Entrez Gene	110446	628.0,365.6666666666667
+Hmgcs2	GeneProduct	Entrez Gene	15360	503.6666666666667,432.0
+Hmgcl	GeneProduct	Entrez Gene	15356	377.0,292.3333333333333
+Oxct1	GeneProduct	Entrez Gene	67041	162.0,388.0
+Bdh1	GeneProduct	Entrez Gene	71911	314.33333333333337,161.33333333333334
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	530.0,216.66666666666666
+Acetoacetyl-CoA	Metabolite	KEGG Compound	C00332	520.0,520.0
+3-Hydroxy-3-methylglutaryl-CoA	Metabolite	KEGG Compound	C00356	380.0,380.0
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	336.0,451.6666666666667
+3-Hydroxy-butyrate	Metabolite	PubChem-compound	441	256.5,96.0
+Acetoacetate	Metabolite	KEGG Compound	C00164	256.0,208.0

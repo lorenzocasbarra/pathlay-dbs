@@ -1,0 +1,33 @@
+TEXT	TYPE	DB	ID	X	Y
+Nanoparticle triggered regulated necrosis	hsa	wikipathways	WP2513
+Iron	Metabolite	KEGG Compound	C00023	502.90476190476187,596.5714285714286
+TNFR1	GeneProduct	Entrez Gene	7132	494.25,96.75
+Necroptosis	Pathway			345.0,703.2380952380953
+CASP8	GeneProduct	Entrez Gene	841	586.0,232.0
+TRADD	GeneProduct	Entrez Gene	8717	525.5,204.0
+ROS	Metabolite	KEGG Compound	C22381	345.0,595.6190476190476
+TRIF	GeneProduct	Entrez Gene	148022	570.8450000000005,118.26875000000003
+Arachidonic acid	Metabolite	KEGG Compound	C00219	794.0,416.0
+RIPK1	GeneProduct	Entrez Gene	8737	498.0,260.95370370370375
+PAMPs				571.0,21.0
+FADD	GeneProduct	Entrez Gene	8772	512.5,232.0
+SMases	Protein	Wikidata	Q413230	501.0,330.95857988165665
+Calpains	Protein			627.0,442.0
+Glutaminolysis	Pathway	Wikidata	Q1532402	218.83333333333334,339.0
+TNF	GeneProduct	Entrez Gene	7124	478.0,19.0
+Ge NP	Metabolite	ChEBI	CHEBI:30441	54.82499999999996,419.0749999999999
+ATP	Metabolite	KEGG Compound	C00002	176.0,592.0
+Calcium	Metabolite	HMDB	HMDB0000464	626.0,328.0
+Ceramide	Metabolite	KEGG Compound	C00195	500.99999999999994,441.3333333333333
+Nec-1	Metabolite	PubChem-compound	2828334	353.8240740740741,261.9537037037037
+PARP1	GeneProduct	Entrez Gene	142	667.5833333333333,165.5185185185185
+lipoxygenase	Protein			794.0,490.0
+cPLA2	GeneProduct	Entrez Gene	10524	794.0,328.0
+JNK	GeneProduct	Entrez Gene	5599	372.0,335.0
+RIPK3	GeneProduct	Entrez Gene	11035	558.0,260.9537037037038
+TLRs	Protein	Ensembl	Toll-like_receptor	572.75,74.5675
+Ferritin	GeneProduct	Entrez Gene	2512	345.0,414.0
+Labile iron pool	Metabolite			345.0,473.0
+Glycogenolysis	Pathway	WikiPathways	Glycogenolysis	218.83333333333334,364.0
+Glycolysis	Pathway	WikiPathways	Glycolysis	218.83333333333334,389.0
+Iron	Metabolite	KEGG Compound	C00023	668.2380952380953,596.904761904762

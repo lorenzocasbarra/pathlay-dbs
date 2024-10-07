@@ -1,0 +1,31 @@
+TEXT	TYPE	DB	ID	X	Y
+Mitochondrial long chain fatty acid beta-oxidation	mmu	wikipathways	WP401
+Acsl4	GeneProduct	Entrez Gene	50790	406.0,124.0
+Scp2	GeneProduct	Entrez Gene	20280	395.6666666666667,720.0
+Cpt2	GeneProduct	Entrez Gene	12896	406.0,336.0
+Long chain Acyl-CoA	Metabolite			406.5,167.0
+3-Ketoacyl-CoA	Metabolite			620.0,690.0
+Ehhadh	GeneProduct	Entrez Gene	74147	621.3333333333334,572.6666666666666
+Acsl1	GeneProduct	Entrez Gene	14081	406.0,64.0
+Dci	GeneProduct	Entrez Gene	13177	412.0,546.6666666666666
+cis-D3-Enoyl-CoA	Metabolite			322.5,614.0
+Acads	GeneProduct	Entrez Gene	11409	407.0,474.0
+Hadha	GeneProduct	Entrez Gene	97212	623.3333333333334,656.6666666666666
+Long chain Acyl-CoA	Metabolite			406.5,376.0
+Cpt1a	GeneProduct	Entrez Gene	12894	406.0,194.66666666666666
+ACSL2	GeneProduct			406.0,84.0
+Acsl3	GeneProduct	Entrez Gene	74205	406.0,104.0
+Long chain acyl-carnitine	Metabolite			406.0,234.0
+Acadl	GeneProduct	Entrez Gene	11363	407.0,437.3333333333333
+Long chain acyl-carnitine	Metabolite			406.0,310.0
+Acadm	GeneProduct	Entrez Gene	11364	407.0,457.3333333333333
+Acadvl	GeneProduct	Entrez Gene	11370	407.0,417.3333333333333
+Hadh	GeneProduct	Entrez Gene	15107	623.3333333333334,636.6666666666666
+Acetyl-CoA	Metabolite	KEGG Compound	C00024	167.66666666666666,676.0
+Slc25a20	GeneProduct	Entrez Gene	57279	406.0,267.3333333333333
+3-L-Hydroxyacyl-CoA	Metabolite			620.0,610.0
+Long Chain Fatty Acid	Metabolite			406.5,24.0
+trans-D2-Enoyl-CoA	Metabolite	ChEBI	CHEBI:10723	619.0,547.0
+Acyl-CoA (n-2)	Metabolite			103.33333333333333,650.0
+Pecr	GeneProduct	Entrez Gene	111175	231.66666666666666,588.6666666666666
+2,4 Dienoyl-CoA	Metabolite			230.0,546.0

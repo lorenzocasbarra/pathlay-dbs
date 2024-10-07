@@ -1,0 +1,94 @@
+TEXT	TYPE	DB	ID	X	Y
+Arachidonic acid (AA, ARA) oxylipin metabolism	hsa	wikipathways	WP5155
+EXA4	Metabolite	ChEBI	CHEBI:63983	900.0,1575.0
+Trioxilin A3	Metabolite	KEGG Compound	C14809	500.0,1125.0
+15-keto-PGF2alpha	Metabolite	KEGG Compound	C05960	900.0,150.0
+TXA2	Metabolite	KEGG Compound	C02198	1100.0,300.0
+HXA3	Metabolite	ChEBI	CHEBI:36190	700.0,1125.0
+5,15-DiHETE	Metabolite	ChEBI	CHEBI:91286	500.0,675.0
+LOX	GeneProduct	Entrez Gene	4015	1097.412918080265,1303.173725837566
+5,6-DiHETrE	Metabolite	ChEBI	CHEBI:63974	1500.0,1050.0
+11beta-PGF2alpha	Metabolite	PubChem-compound	5280886	300.0,300.0
+Tetranor 12-HETE	Metabolite	HMDB	HMDB60055	700.0,1350.0
+PGA2	Metabolite	KEGG Compound	C05953	500.0,150.0
+5,12-DiHETE	Metabolite	ChEBI	CHEBI:15647	500.0,1350.0
+13,14-dihydro-15-keto-PGE2	Metabolite	PubChem-compound	5280711	700.0,75.0
+5(6)-EpETrE	Metabolite	PubChem-compound	5283202	1300.0,1050.0
+6-keto-PGF1alpha	Metabolite	KEGG Compound	C05961	1300.0,375.0
+PGD2	Metabolite	KEGG Compound	C00696	500.0,375.0
+delta(12)-PGJ2	Metabolite	PubChem-compound	5280885	300.0,450.0
+2,3-dinor-TXB2	Metabolite	PubChem-compound	5283138	1500.0,225.0
+11-dehydro-TXB2	Metabolite	PubChem-compound	5280891	1500.0,300.0
+8(9)-EpETrE	Metabolite	PubChem-compound	5283203	1300.0,1125.0
+15-deoxy-delta(12,14)-PGJ2	Metabolite	PubChem-compound	5311211	300.0,525.0
+11-oxo-ETE	Metabolite	Wikidata	Q27162742	500.0,1050.0
+16-HETE	Metabolite	Wikidata	Q27070786	1500.0,675.0
+PGE2	Metabolite	KEGG Compound	C00584	700.0,225.0
+14,15-DiHETrE	Metabolite	ChEBI	CHEBI:63966	1500.0,1275.0
+COX1	GeneProduct	Entrez Gene	5742	794.0944991459829,464.2978755190917
+ASA	Metabolite	ChEBI	CHEBI:15365	1068.6621537562698,535.9748175277477
+9-HETE	Metabolite	ChEBI	CHEBI:72785	700.0,975.0
+LTE4	Metabolite	KEGG Compound	C05952	100.0,825.0
+15-epi-LXA4	Metabolite	PubChem-compound	9841438	1299.9999999999998,449.99999999999994
+20-carboxy-LTB4	Metabolite	PubChem-compound	5280877	300.0,675.0
+15-keto-PGE2	Metabolite	PubChem-compound	5280719	700.0,150.0
+19-HETE	Metabolite	Wikidata	Q27132956	1500.0,900.0
+12-HHTrE	Metabolite	PubChem-compound	5312765	1100.0,450.0
+12-oxo-ETE	Metabolite	ChEBI	CHEBI:34151	500.0,1275.0
+11(12)-EpETrE	Metabolite	PubChem-compound	5283204	1300.0,1200.0
+8-HpETE	Metabolite	PubChem-compound	6438881	900.0,900.0
+LTB4	Metabolite	KEGG Compound	C02165	500.0,750.0000000000001
+COX2	GeneProduct	Entrez Gene	5743	794.0944991459827,489.29787551909055
+LTA4	Metabolite	KEGG Compound	C00909	700.0,750.0
+PGJ2	Metabolite	KEGG Compound	C05957	300.0,375.0
+15-epi-LXB4	Metabolite	ChEBI	CHEBI:63991	1500.0,525.0
+tetranor-TXB2	Metabolite			1300.0,225.0
+8-oxo-ETE	Metabolite	Wikidata	Q27145567	700.0,825.0
+15-keto-PGD2	Metabolite	PubChem-compound	5280727	500.0,450.0
+TXB2	Metabolite	KEGG Compound	C05963	1300.0,300.0
+EXE4	Metabolite	ChEBI	CHEBI:63986	300.0,1575.0
+12-HpETE	Metabolite	ChEBI	CHEBI:15626	900.0,1125.0
+15(R)-HpETE	Metabolite	PubChem-compound	10042663	1300.0,525.0
+8-HETE	Metabolite	HMDB	HMDB04679	700.0,900.0
+15-HETE	Metabolite	ChEBI	CHEBI:64017	900.0,1425.0
+8,15-DiHETE	Metabolite	HMDB	HMDB10219	700.0,1425.0
+5-HpETE	Metabolite	PubChem-compound	5283171	900.0,675.0
+15-oxo-ETE	Metabolite	ChEBI	CHEBI:15559	900.0,1350.0
+13,14-dihydro-15-keto-PGD2	Metabolite	PubChem-compound	5283036	500.0,525.0
+LXB4	Metabolite	KEGG Compound	C06315	500.0,975.0
+Trioxilin B3	Metabolite	KEGG Compound	C14811	500.0,1200.0
+13,14-dihydro-15-keto-PGF2alpha	Metabolite	PubChem-compound	5283039	900.0,75.0
+PGB2	Metabolite	KEGG Compound	C05954	498.019801980198,225.0
+LXA4	Metabolite	KEGG Compound	C06314	500.0,900.0
+EXC4	Metabolite	ChEBI	CHEBI:63984	700.0,1575.0
+LTF4	Metabolite	KEGG Compound	C06462	100.0,900.0
+11-HETE	Metabolite	Wikidata	Q27140010	700.0,1050.0
+8,9-DiHETrE	Metabolite	ChEBI	CHEBI:63970	1500.0,1125.0
+COX2	GeneProduct	Entrez Gene	5743	1068.6621537562698,559.3001344337234
+20-HETE	Metabolite	KEGG Compound	C14748	1500.0,975.0
+12-HETE	Metabolite	HMDB	HMDB06111	700.0,1275.0
+PGI2	Metabolite	KEGG Compound	C01312	1100.0,375.0
+12,20-DiHETE	Metabolite	HMDB	HMDB60105	500.0,1425.0
+CYP	GeneProduct	Entrez Gene	9360	1195.5092955662017,1410.7445578518061
+9-HpETE	Metabolite	ChEBI	CHEBI:78732	900.0,975.0
+11-HpETE	Metabolite	PubChem-compound	5283174	900.0,1050.0
+EPHX2	GeneProduct	Entrez Gene	2053	1446.3407951780027,1364.777712899356
+HXB3	Metabolite	ChEBI	CHEBI:34784	700.0,1200.0
+15-HpETE	Metabolite	HMDB	HMDB62688	900.0,1500.0
+ARA	Metabolite	HMDB	HMDB01043	1100.0,675.0
+5,20-DiHETE	Metabolite	HMDB	HMDB62614	500.0,600.0
+5-oxo-ETE	Metabolite	PubChem-compound	5283159	700.0,600.0
+LTD4	Metabolite	KEGG Compound	C05951	300.0,825.0
+PGH2	Metabolite	KEGG Compound	C00427	900.0,375.0
+CYP omega-hydrolase	GeneProduct			1340.7832800200233,627.1222023709162
+PGF2alpha	Metabolite	ChEBI	CHEBI:15553	900.0,225.0
+EXD4	Metabolite	ChEBI	CHEBI:63985	500.0,1575.0
+14(15)-EpETrE	Metabolite	PubChem-compound	5283205	1300.0,1275.0
+LTC4	Metabolite	KEGG Compound	C02166	500.0,825.0
+5-HETE	Metabolite	KEGG Compound	C04805	700.0,675.0
+17-HETE	Metabolite	HMDB	HMDB12598	1500.0,750.0
+18-HETE	Metabolite	ChEBI	CHEBI:63579	1500.0,825.0
+11,12-DiHETrE	Metabolite	ChEBI	CHEBI:63969	1500.0,1200.0
+20-hydroxy-LTB4	Metabolite	PubChem-compound	5280745	300.0,750.0
+TBXAS1	GeneProduct	Entrez Gene	6916	976.6702769630313,299.2298244725659
+tetranor-PGEM	Metabolite	PubChem-compound	161468	500.0,300.0

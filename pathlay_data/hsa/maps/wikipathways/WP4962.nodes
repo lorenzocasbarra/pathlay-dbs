@@ -1,0 +1,40 @@
+TEXT	TYPE	DB	ID	X	Y
+Airway smooth muscle cell contraction	hsa	wikipathways	WP4962
+MYLK	GeneProduct	Entrez Gene	4638	714.0,491.0
+Ca2+	Metabolite	KEGG Compound	C00076	707.0,319.75
+CD38	GeneProduct	Entrez Gene	952	923.5,145.0
+IP3	Metabolite	ChEBI	CHEBI:16595	571.0,213.0
+MYL	GeneProduct	Entrez Gene	5371	628.0,540.0
+ROCK1	GeneProduct	Entrez Gene	6093	336.5,517.0
+Calmodulin	Protein	Uniprot-TrEMBL	G3V226	804.0,491.0
+PIP2	Metabolite	ChEBI	CHEBI:18348	514.0,142.0
+PLCB1	GeneProduct	Entrez Gene	23236	411.5,170.0
+VGCC	Complex			790.0003662109375,97.0
+DAG	Metabolite	ChEBI	CHEBI:18035	454.5,217.0
+ITPR3	GeneProduct	Entrez Gene	3710	704.0,351.0
+MLCP	GeneProduct	Ensembl	ENSG00000213639	451.5,523.0
+GDI	GeneProduct	Ensembl	ENSG00000203879	193.5,207.0
+GNAQ	GeneProduct	Entrez Gene	2776	298.0,169.0
+PKC	Protein	Ensembl	L7RSM7	454.5,264.0
+RhoGAP	Protein			300.0,336.0
+GCPR	GeneProduct	Ensembl	ENSG00000169252	285.0,145.0
+IL13	Protein	Ensembl	ENSG00000169194	923.0,94.0
+cADPR	Metabolite	KEGG Compound	C13050	923.0,256.0
+PPP1R14A	GeneProduct	Entrez Gene	94274	454.5,311.75
+Ca2+	Metabolite	KEGG Compound	C00076	708.0,399.75
+MYL	GeneProduct	Entrez Gene	5371	794.0,540.0
+Ca2+	Metabolite	KEGG Compound	C00076	811.0,318.75
+Ca2+	Metabolite	KEGG Compound	C00076	812.0,398.75
+RYR	GeneProduct	Entrez Gene	6261	809.0,354.75
+SOCC	Complex			790.0003662109375,122.0
+ROCC	Complex			790.0003662109375,147.0
+Ca2+	Metabolite	KEGG Compound	C00076	701.0003662109375,61.75
+Ca2+	Metabolite	KEGG Compound	C00076	701.0003662109375,208.75
+MLCP	Protein	Ensembl	ENSG00000213639	451.5,608.0
+GTP	Metabolite	KEGG Compound	C00044	193.5,412.0
+RHOA	GeneProduct	Entrez Gene	387	193.5,387.75
+RHOA	GeneProduct	Entrez Gene	387	193.5,158.75
+GDP	Metabolite	KEGG Compound	C00035	193.5,183.0
+ROCK2	GeneProduct	Entrez Gene	9475	336.5,542.0
+ROCK1	GeneProduct	Entrez Gene	6093	193.5,585.0
+ROCK2	GeneProduct	Entrez Gene	9475	193.5,610.0

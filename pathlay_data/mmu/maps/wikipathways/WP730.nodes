@@ -1,0 +1,74 @@
+TEXT	TYPE	DB	ID	X	Y
+Glutathione and one-carbon metabolism	mmu	wikipathways	WP730
+5-Methyl Tetrahydrofolate	Metabolite	CAS	134-35-0	642.4916666666667,543.5
+ANPEP	GeneProduct	Entrez Gene	16790	620.0,1178.0
+G6PD	GeneProduct	Entrez Gene	14381	340.6666666666667,1509.3333333333333
+1.11.1.12	GeneProduct	Enzyme Nomenclature	1.11.1.12	277.3333333333333,1651.3333333333333
+Cysteinyl-glycine	Metabolite	KEGG Compound	C01419	580.0,1263.0
+GGTLA1	GeneProduct	Entrez Gene	23887	582.0,1351.0
+Homocysteine	Metabolite	KEGG Compound	C05330	1063.4916666666666,550.5
+GPX1	GeneProduct	Entrez Gene	14775	407.3333333333333,1611.3333333333333
+Oxidized glutathione	Metabolite	KEGG Compound	C00127	226.0,1407.0
+BHMT	GeneProduct	Entrez Gene	12116	894.825,274.3333333333333
+1.8.4.2	GeneProduct	Enzyme Nomenclature	1.8.4.2	277.3333333333333,1611.3333333333333
+L-Amino acid	Metabolite	KEGG Compound	C00151	376.0,870.0
+DNMT1	GeneProduct	Entrez Gene	13433	1188.0,406.0
+betaine aldehyde	Metabolite	KEGG Compound	C00576	935.5,152.0
+Methionine	Metabolite	KEGG Compound	C01733	1072.4916666666666,274.5
+NADPH	Metabolite	KEGG Compound	C00005	264.0,1454.0
+S-adenosylhomocysteine	Metabolite	KEGG Compound	C00021	1255.9916666666666,494.5
+Betaine	Metabolite	KEGG Compound	C00719	924.825,222.83333333333334
+MTRR	GeneProduct	Entrez Gene	210009	925.0,383.0
+L-Cysteine	Metabolite	KEGG Compound	C00097	707.0,1067.0
+MTHFR	GeneProduct	Entrez Gene	17769	286.0,530.0
+2.3.2.4	GeneProduct	Enzyme Nomenclature	2.3.2.4	368.3333333333333,967.3333333333334
+NADP+	Metabolite	KEGG Compound	C00006	423.0,1458.0
+L-Glutamate	Metabolite	KEGG Compound	C00025	880.0,947.0
+cystathionine	Metabolite	KEGG Compound	C00542	996.0,675.0
+GCLM	GeneProduct	Entrez Gene	14630	900.3333333333334,1157.3333333333333
+GSR	GeneProduct	Entrez Gene	14782	346.6666666666667,1407.3333333333333
+1.8.4.4	GeneProduct	Enzyme Nomenclature	1.8.4.4	340.6666666666667,1671.3333333333333
+GGT1	GeneProduct	Entrez Gene	14598	582.0,1331.0
+(5-L-Glutamyl)-L-amino acid	Metabolite	KEGG Compound	C03740	355.0,1146.0
+GSS	GeneProduct	Entrez Gene	14854	734.6666666666666,1410.0
+GCLC	GeneProduct	Entrez Gene	14629	900.3333333333334,1137.3333333333333
+AMT	GeneProduct	Entrez Gene	434437	302.6666666666667,349.0
+KIAA0828	GeneProduct	Entrez Gene	74340	1191.0,605.0
+MTR	GeneProduct	Entrez Gene	238505	925.0,403.0
+MAT2B	GeneProduct	Entrez Gene	108645	1149.0,228.0
+3.4.11.4	GeneProduct	Enzyme Nomenclature	3.4.11.4	582.0,1311.0
+1.8.4.7	GeneProduct	Enzyme Nomenclature	1.8.4.7	277.3333333333333,1631.3333333333333
+1.8.3.3	GeneProduct	Enzyme Nomenclature	1.8.3.3	277.3333333333333,1671.3333333333333
+Glycine	Metabolite	KEGG Compound	C00037	736.0,1220.0
+1.8.5.1	GeneProduct	Enzyme Nomenclature	1.8.5.1	340.6666666666667,1611.3333333333333
+DNMT3a	GeneProduct	Entrez Gene	13435	1188.0,426.0
+2.8.1.3	GeneProduct	Enzyme Nomenclature	2.8.1.3	340.6666666666667,1631.3333333333333
+1.5.4.1	GeneProduct	Enzyme Nomenclature	1.5.4.1	277.3333333333333,1591.3333333333333
+Chdh	GeneProduct	Entrez Gene	218865	1022.6666666666666,111.33333333333333
+Glutathione (reduced)	Metabolite	KEGG Compound	C00051	580.0,1410.0
+GGT1	GeneProduct	Entrez Gene	14598	424.3333333333333,1268.6666666666667
+GPX2	GeneProduct	Entrez Gene	14776	407.3333333333333,1591.3333333333333
+Choline	Metabolite	KEGG Compound	C00114	960.0,61.0
+GGTLA1	GeneProduct	Entrez Gene	23887	424.3333333333333,1248.6666666666667
+Tetrahydrofolate	Metabolite	KEGG Compound	C00101	577.5,300.8333333333333
+DNMT3b	GeneProduct	Entrez Gene	13436	1188.0,446.0
+1.8.4.1	GeneProduct	Enzyme Nomenclature	1.8.4.1	340.6666666666667,1651.3333333333333
+1.8.4.3	GeneProduct	Enzyme Nomenclature	1.8.4.3	340.6666666666667,1591.3333333333333
+g-L-Glutamyl-L-cysteine	Metabolite	KEGG Compound	C00669	867.0,1410.0
+DMG	Metabolite	CAS	107-43-7	884.1583333333333,326.1666666666667
+5,10-Methylene Tetrahydrofolate	Metabolite	CAS	25513-46-6	393.9916666666667,418.5
+MAT1A	GeneProduct	Entrez Gene	11720	1149.0,204.33333333333334
+Oplah	GeneProduct	Entrez Gene	75475	639.0,925.6666666666666
+S-Adenosylmethionine	Metabolite	KEGG Compound	C00019	1254.6583333333333,363.5
+5-Oxoproline	Metabolite	KEGG Compound	C01879	473.0,910.0
+1.1.1.43	GeneProduct	Enzyme Nomenclature	1.1.1.43	340.6666666666667,1489.3333333333333
+Chdh	GeneProduct	Entrez Gene	218865	982.0,178.66666666666666
+IDH1	GeneProduct	Entrez Gene	15926	340.6666666666667,1469.3333333333333
+2.3.2.4	GeneProduct	Enzyme Nomenclature	2.3.2.4	748.6666666666666,845.3333333333334
+AHCY	GeneProduct	Entrez Gene	269378	1191.0,585.0
+SHMT1	GeneProduct	Entrez Gene	20425	302.6666666666667,309.0
+GPX3	GeneProduct	Entrez Gene	14778	407.3333333333333,1651.3333333333333
+SHMT2	GeneProduct	Entrez Gene	108037	302.6666666666667,329.0
+GPX4	GeneProduct	Entrez Gene	625249	407.3333333333333,1631.3333333333333
+CBS	GeneProduct	Entrez Gene	12411	1041.0,603.0
+CTH	GeneProduct	Entrez Gene	107869	930.0,781.0

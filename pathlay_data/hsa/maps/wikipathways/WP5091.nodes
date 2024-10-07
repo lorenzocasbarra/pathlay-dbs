@@ -1,0 +1,36 @@
+TEXT	TYPE	DB	ID	X	Y
+Frustrated phagocytosis leading to malignant pleural mesothelioma	hsa	wikipathways	WP5091
+Sustaining proliferative signaling				851.6240558780746,813.1799515570207
+Damaged BER pathway	Pathway	WikiPathways	WP4752	1375.5627244014215,633.5649429210445
+DNA damage response 	Pathway	WikiPathways	WP707	1375.56272440142,525.4403343110146
+Increased secretion of proinflammatory mediators	Key Event	AOP-Wiki KE	1496	1375.5627244014197,102.93205628766505
+DNA repair pathways	Pathway	WikiPathways	WP4946	1375.56272440142,495.1386341665245
+Overview of proinflammatory  and profibrotic mediators	Pathway	WikiPathways	WP5095	1567.5463866119724,170.28260811219636
+HoC: Sustaining proliferative signalling	Pathway	WikiPathways	WP5475	851.6240558780746,846.8611772088886
+Cell cycle checkpoints 	Pathway	WikiPathways	WP45	1376.3862163578779,1034.781691899985
+Frustrated phagocytosis	Key Event	AOP-Wiki KE	1668	1375.1036026376314,11.95791842569891
+Increased reactive oxygen species	Key Event	AOP-Wiki KE	1115	1375.562724401414,329.10199291893906
+Oxidative damage response 	Pathway	WikiPathways	WP3941	1375.56272440142,362.1627174791039
+NRF2 pathway	Pathway	WikiPathways	WP2884	1376.772215638107,394.43205628766543
+Increased recruitment of inflammatory cells 	Key Event	AOP-Wiki KE	1497	1375.5627244014163,246.19115250312416
+Genomic instability	Key Event	AOP-Wiki KE	1896	1375.5627244014215,601.1302353017325
+Mesothelial cell proliferation	Key Event	AOP-Wiki KE	870	1375.5627244014183,974.5886718401476
+Mesothelioma	Key Event	AOP-Wiki KE	1090	1375.562724401418,1096.3323549437332
+Increased DNA damage and mutation	Key Event	AOP-Wiki KE	1669	1375.5627244014254,461.61785640384744
+Cell Cycle	Pathway	WikiPathways	WP179	1375.562724401418,1003.2194646939737
+Damaged NER pathway	Pathway	WikiPathways	WP4753	1375.5627244014215,665.3545400889711
+Evading growth suppressors				1105.9433501643841,813.1799515570207
+Tumor suppressor gene mutations	Pathway	WikiPathways	WP1742	1105.9433501643841,846.8611772088886
+Resisting cell death				1784.996686665567,813.1799515570212
+Apoptosis pathway mutations	Pathway	WikiPathways	WP1772	1784.996686665567,846.8611772088914
+Inducing angiogenesis				214.8662044368737,813.1799515570204
+Neovascularization processes	Pathway	WikiPathways	WP4331	214.86620443687366,846.8611772088886
+Activating invasion and metastasis				548.3810691299037,813.1799515570206
+Metastasis and epithelial-to-mesenchymal transition	Pathway	WikiPathways	WP5469	548.3810691299037,846.8611772088886
+Deregulating cellular energetics				2077.717731306774,809.5168527453656
+TCA Cycle Nutrient use in cancer	Pathway	WikiPathways	WP2868	2077.717731306774,843.1980783972442
+Avoiding immune destruction				2364.132730342604,806.4919632468918
+Immune infiltration	Pathway	WikiPathways	WP5285	2363.5182910184876,839.5509310352095
+T cell modulation	Pathway	WikiPathways	WP5078	2363.5182910184876,872.1070477466815
+Nonmutational epigenetic reprogramming				2662.740193121699,806.9382363931643
+Nonmutational epigenetic reprogramming	Pathway	WikiPathways	WP5483	2661.3988114986273,839.2780804219817

@@ -1,0 +1,14 @@
+TEXT	TYPE	DB	ID	X	Y
+EPAC1 and PKA reduction of retinal inflammation	hsa	wikipathways	WP5440
+NEK7	GeneProduct	Entrez Gene	140609	127.0,158.0
+EPAC1	GeneProduct	Entrez Gene	10411	59.0,76.0
+PRKACA	GeneProduct	Entrez Gene	5566	371.0,221.89906103286376
+PRKACB	GeneProduct	Entrez Gene	5567	441.0,221.89906103286376
+PRKAR1A	GeneProduct	Entrez Gene	5573	371.0,196.89939436619716
+NLRP3	GeneProduct	Entrez Gene	114548	127.0,223.0
+IL1B	GeneProduct	Entrez Gene	3553	127.0,294.0
+PRKAR2B	GeneProduct	Entrez Gene	5577	442.0,347.53319718309865
+PRKACA	GeneProduct	Entrez Gene	5566	372.0,372.53286384976525
+PRKACB	GeneProduct	Entrez Gene	5567	442.0,372.53286384976525
+PRKAR2A	GeneProduct	Entrez Gene	5576	372.0,347.53319718309865
+PRKAR1B	GeneProduct	Entrez Gene	5575	441.0,196.89939436619716

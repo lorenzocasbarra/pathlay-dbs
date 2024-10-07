@@ -1,0 +1,26 @@
+TEXT	TYPE	DB	ID	X	Y
+GPCRs, orphan	mmu	wikipathways	WP1398
+Gpr107	GeneProduct	Entrez Gene	277463	100.0,90.0
+Gpr108	GeneProduct	Entrez Gene	78308	100.0,110.0
+Gpr111	GeneProduct	Entrez Gene	435529	100.0,130.0
+Gpr112	GeneProduct	Entrez Gene	236798	100.0,150.0
+Gpr112	GeneProduct	Entrez Gene	236798	100.0,170.0
+Gpr116	GeneProduct	Entrez Gene	224792	100.0,190.0
+Gpr137	GeneProduct	Entrez Gene	107173	100.0,210.0
+Gpr137b	GeneProduct	Entrez Gene	83924	100.0,230.0
+Gpr137b	GeneProduct	Entrez Gene	83924	100.0,250.0
+Gpr137c	GeneProduct	Entrez Gene	70713	100.0,270.0
+Gpr155	GeneProduct	Entrez Gene	68526	100.0,290.0
+Gpr161	GeneProduct	Entrez Gene	240888	100.0,310.0
+Gpr165	GeneProduct	Entrez Gene	76206	100.0,330.0
+Gpr172b	GeneProduct	Entrez Gene	52710	100.0,350.0
+Gpr175	GeneProduct	Entrez Gene	24100	100.0,370.0
+Gpr177	GeneProduct	Entrez Gene	68151	100.0,390.0
+Gpr179	GeneProduct	Entrez Gene	217143	100.0,410.0
+Gpr180	GeneProduct	Entrez Gene	58245	100.0,430.0
+Gpr31c	GeneProduct	Entrez Gene	667359	100.0,450.0
+Gpr31c	GeneProduct	Entrez Gene	667359	100.0,470.0
+Gpr4	GeneProduct	Entrez Gene	319197	100.0,490.0
+Gpr89	GeneProduct	Entrez Gene	67549	100.0,510.0
+Gprc2a-rs5	GeneProduct	Entrez Gene	75835	100.0,530.0
+Gprc2a-rs5	GeneProduct	Entrez Gene	75835	100.0,550.0

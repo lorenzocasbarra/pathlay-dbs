@@ -1,0 +1,15 @@
+TEXT	TYPE	DB	ID	X	Y
+Meta pathway lipodystrophy, dyslipidemia and hyperlipidemia	hsa	wikipathways	WP5105
+Hyperlipidemia		Wikidata	Q1079120	495.5905920305706,407.06900613597844
+Progeria associated lipodystrophy	Pathway	WikiPathways	WP5103	620.0705144152987,1300.519766655207
+Congenital generalized lipodystrophy (CGL)	Pathway	WikiPathways	WP5101	620.0705144152987,1041.7746059864144
+Type IV	Pathway	WikiPathways	WP5111	797.8471318749998,346.6024725822704
+Hypolipoproteinemia		Wikidata	Q5959735	495.5905920305706,790.4157790149424
+Familial partial lipodystrophy (FPLD)	Pathway	WikiPathways	WP5102	620.0705144152987,1195.150628249189
+Dyslipidemia		Wikidata	Q66291209	239.9927531249869,602.2072969831968
+Type I	Pathway	WikiPathways	WP5108	797.8471318749998,101.06948250374691
+Lipodystrophy		Wikidata	Q1538213	239.9927531249869,1308.3305746290928
+Type III	Pathway	WikiPathways	WP5110	797.8471318749998,284.41240481743876
+Acquired partial lipodystrophy	Pathway	WikiPathways	WP5104	620.070514415297,1426.098271197566
+Type II	Pathway	WikiPathways	WP5109	797.8471318749998,216.7133602823024
+Type V	Pathway	WikiPathways	WP5112	797.847131875,398.7394959859813

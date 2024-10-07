@@ -1,0 +1,27 @@
+TEXT	TYPE	DB	ID	X	Y
+Gastric acid production	hsa	wikipathways	WP2596
+MUC6	GeneProduct	Entrez Gene	4588	519.0,358.0
+Pepsin B	GeneProduct	Enzyme Nomenclature	3.4.23.2	526.0,286.0
+Mucus and bicarbonate secretion	Pathway	WikiPathways	WP2600	568.5,474.0
+Parietal cell production 	Pathway	WikiPathways	WP2597	112.5,192.0
+PGA3	GeneProduct	Entrez Gene	643834	636.5,62.0
+Pepsinogen	GeneProduct	Uniprot-TrEMBL	O95576	525.0,197.0
+Histamine 	Metabolite	Chemspider	753	71.0,360.0
+Secretin	GeneProduct	Entrez Gene	6343	361.0,87.0
+Bicarbonate ions	Metabolite	Chemspider	749	600.5,358.5
+Gastrin	GeneProduct	Uniprot-TrEMBL	P01350	350.0,360.0
+Gastric histamine release	Pathway	WikiPathways	WP2598	136.5,470.625
+CCK	GeneProduct	Entrez Gene	885	361.0,136.0
+Potassium chloride	Metabolite	Chemspider	4707	339.0,238.5
+Sodium chloride	Metabolite	KEGG Compound	C13563	339.0,290.0
+VIP	GeneProduct	Entrez Gene	7432	361.0,112.0
+Acetylcholine	Metabolite	KEGG Compound	C01996	160.5,360.0
+Gastric intrinsic factor	GeneProduct	Uniprot-TrEMBL	P27352	76.0,69.0
+GRP	GeneProduct	Entrez Gene	2922	248.0,360.0
+Hydrochloric acid	Metabolite	KEGG Compound	C01327	339.0,265.0
+Pepsin C	GeneProduct	Enzyme Nomenclature	3.4.23.3	526.0,308.0
+PGA4	GeneProduct	Entrez Gene	643847	636.5,87.0
+Pepsinogen	GeneProduct	Uniprot-TrEMBL	O95576	525.0,128.0
+PGA5	GeneProduct	Entrez Gene	5222	636.5,115.0
+PGC	GeneProduct	Entrez Gene	5225	636.5,142.0
+Gastrin	GeneProduct	Uniprot-TrEMBL	P01350	350.0,473.0

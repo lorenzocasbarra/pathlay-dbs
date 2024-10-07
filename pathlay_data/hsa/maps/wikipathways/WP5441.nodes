@@ -1,0 +1,11 @@
+TEXT	TYPE	DB	ID	X	Y
+Artemisinin inhibition of uveal melanoma	hsa	wikipathways	WP5441
+AKT		Wikidata	Q423650	232.0,221.0
+Receptor  tyrosine  kinase	GeneProduct	WikiPathways	WP5471	232.0,83.0
+Apoptosis	Pathway	WikiPathways	WP254	112.0,279.0
+Artemisinin	Metabolite	KEGG Compound	C09538	119.0,225.0
+PI3K	GeneProduct	Entrez Gene	5294	232.0,158.0
+MTOR	GeneProduct	Entrez Gene	2475	232.0,314.0
+AKT1	GeneProduct	Entrez Gene	207	497.0,209.0
+AKT2	GeneProduct	Entrez Gene	208	497.0,229.0
+AKT3	GeneProduct	Entrez Gene	10000	497.0,249.0

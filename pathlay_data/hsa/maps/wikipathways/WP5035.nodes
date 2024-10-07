@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+ACE2 inhibition leads to pulmonary fibrosis	hsa	wikipathways	WP5035
+Prostaglandin signaling	Pathway	WikiPathways	WP5088	1211.0,549.0
+Bradykinin signaling network	Pathway	WikiPathways	WP5068	1038.0,433.0
+Increased, secretion of proinflammatory and profibrotic mediators		AOP-Wiki KE	1496	1038.0,663.8246041412905
+Increase activation, Nuclear factor kappa B (NF-kB)	Event	AOP-Wiki KE	1172	769.8744530157426,547.1498172959805
+Metabolism of Angiotensinogen to Angiotensins	Pathway	WikiPathways	WP2729	399.0,224.0
+Increased, Reactive oxygen species	Event	AOP-Wiki KE	1115	769.8744530157426,411.04629629629653
+Renin Angiotensin Aldosterone System	Pathway	WikiPathways	WP4756	399.0,329.18026796589527
+Bradykinin system, hyperactivated		AOP-Wiki KE	1867	1038.0,199.00000000000006
+KE1740: ACE2 inhibition	Event	AOP-Wiki KE	1740	843.5797807551766,54.151035322777076
+Oxidative stress	Pathway	WikiPathways	WP408	769.8744530157426,436.04629629629653
+NF-KB pathway	Pathway	WikiPathways	WP4562	769.8744530157425,572.1498172959805
+KE1752: Increased Angiotensin II	Event	AOP-Wiki KE	1752	399.0,199.0
+KE1743: Increased plasma Angiotensin II	Event	AOP-Wiki KE	1743	399.0,304.18026796589527
+KE68: Collagen Accumulation	Event	AOP-Wiki KE	68	769.8744530157427,810.0231537871605
+KE1276: Lung Fibrosis	Event	AOP-Wiki KE	1276	769.8744530157426,947.2453760093829
+Collagen biosynthesis and modifying enzymes	Pathway	WikiPathways	WP2725	769.8744530157426,835.0231537871605
+Binding of agonist, Angiotensin II receptor type 1 receptor (AT1R)	Event	AOP-Wiki KE	1851	399.0,411.04629629629653
+Angiotensin II receptor type 1 pathway	Pathway	WikiPathways	WP5036	398.99999999999994,437.0
+ACE2 inhibition	Pathway	WikiPathways	WP554	843.5797807551764,79.15103532277703
+Kinin-Kallikrein Pathway	Pathway	WikiPathways	WP5089	1038.0,224.00000000000006
+Overview of proinflammatory and profibrotic mediators	Pathway	WikiPathways	WP5095	1038.0,688.8246041412905

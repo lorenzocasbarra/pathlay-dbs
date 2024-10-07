@@ -1,0 +1,22 @@
+TEXT	TYPE	DB	ID	X	Y
+Osteopontin signaling	hsa	wikipathways	WP1434
+RELA	GeneProduct	Entrez Gene	5970	173.5,479.0
+RELA	GeneProduct	Entrez Gene	5970	373.5,623.0
+IKK-alpha	GeneProduct	Entrez Gene	1147	478.1666666666667,403.73333333333335
+PLAU	GeneProduct	Entrez Gene	5328	283.0,863.0
+ERK2	GeneProduct	Entrez Gene	5594	580.0,484.0
+IKK-beta	GeneProduct	Entrez Gene	3551	478.1666666666667,429.8666666666667
+MEK1	GeneProduct	Entrez Gene	5604	580.0,356.0
+RELA	GeneProduct	Entrez Gene	5970	373.5,545.0
+NFKB1	GeneProduct	Entrez Gene	4790	310.5,731.0
+RELA	GeneProduct	Entrez Gene	5970	255.5,731.0
+NIK	GeneProduct	Entrez Gene	9020	402.8,310.2
+ITGAV	GeneProduct	Entrez Gene	3685	373.5,208.0
+ITGB3	GeneProduct	Entrez Gene	3690	426.5,208.0
+NFKB1	GeneProduct	Entrez Gene	4790	428.5,545.0
+MMP-9	GeneProduct	Entrez Gene	4318	501.0,936.0
+NIK	GeneProduct	Entrez Gene	9020	402.6,416.8666666666667
+NFKB1	GeneProduct	Entrez Gene	4790	228.5,479.0
+SPP1	GeneProduct	Entrez Gene	6696	402.0,111.0
+ERK1	GeneProduct	Entrez Gene	5595	580.0,458.6666666666667
+NFKB1	GeneProduct	Entrez Gene	4790	428.5,623.0

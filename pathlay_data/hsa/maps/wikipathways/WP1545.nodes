@@ -1,0 +1,100 @@
+TEXT	TYPE	DB	ID	X	Y
+miRNAs involved in DNA damage response	hsa	wikipathways	WP1545
+hsa-mir-18a	GeneProduct	Entrez Gene	406953	477.75,867.75
+hsa-miR-223 gene	GeneProduct			282.0625,814.75
+hsa-miR-29b-2/29c cluster	GeneProduct			282.0625,755.0
+hsa-miR-106b/25 cluster	GeneProduct			282.0625,1037.0
+hsa-mir-15b/16-2 cluster	GeneProduct			281.0625,561.0
+hsa-mir-371	GeneProduct	Entrez Gene	442916	477.75,1231.75
+E2F1	GeneProduct	Entrez Gene	1869	43.0,953.0
+c-Myc	GeneProduct	Entrez Gene	4609	43.0,505.0
+hsa-let-7f	GeneProduct	Ensembl	ENSG00000199072	478.75,170.25
+hsa-miR-222/221 cluster	GeneProduct			282.0625,1162.0
+ATM	GeneProduct	Entrez Gene	472	638.75,1539.25
+hsa-mir-542	GeneProduct	Entrez Gene	664617	478.75,422.0
+hsa-mir-449c	GeneProduct	miRBase Sequence	MI0003823	478.75,616.75
+hsa-mir-181a-2/181b-2 cluster	GeneProduct			282.0625,1120.75
+hsa-let-7d	GeneProduct	Entrez Gene	406886	478.75,198.75
+hsa-mir-106b	GeneProduct	Ensembl	ENSG00000208036	477.75,1007.25
+hsa-mir-3074	GeneProduct	miRBase Sequence	MI0014181	477.75,1315.0
+c-Myc	GeneProduct	Entrez Gene	4609	638.75,114.75
+hsa-mir-372	GeneProduct	Entrez Gene	442917	477.75,1259.25
+hsa-mir-424	GeneProduct	Entrez Gene	494336	479.70238095238096,366.0
+hsa-mir-223	GeneProduct	Ensembl	ENSG00000284567	477.75,811.75
+hsa-mir-29b-1	GeneProduct	Ensembl	ENSG00000283797	478.75,700.25
+hsa-mir-210	GeneProduct	Ensembl	ENSG00000199038	477.75,1203.0
+hsa-miR-29b-1/29a cluster	GeneProduct			282.0625,700.75
+hsa-mir-24	GeneProduct	Ensembl	ENSG00000207617	477.75,1399.0
+hsa-miR-203 gene	GeneProduct			282.0625,1484.25
+hsa-miR-330 gene	GeneProduct			282.0625,786.75
+hsa-mir-374b	GeneProduct	Ensembl	ENSG00000212027	477.75,1511.0
+hsa-mir-450b	GeneProduct	Ensembl	ENSG00000216001	478.75,478.0
+ABL1	GeneProduct	Entrez Gene	25	638.75,1483.0
+CDK6	GeneProduct	Entrez Gene	1021	638.75,688.75
+hsa-mir-27b	GeneProduct	Ensembl	ENSG00000207864	477.75,1371.25
+CDKN1A	GeneProduct	Entrez Gene	1026	638.75,993.75
+hsa-mir-15a/16-1 cluster	GeneProduct			281.0625,505.25
+hsa-mir-143	GeneProduct	Ensembl	ENSG00000284182	478.75,142.25
+hsa-mir-34b/34c cluster	GeneProduct			281.0625,72.25
+hsa-miR-424/450b cluster	GeneProduct			281.0625,422.0
+CCND1	GeneProduct	Entrez Gene	595	43.0,743.0
+hsa-mir-29c	GeneProduct	Ensembl	ENSG00000284214	478.75,754.047619047619
+hsa-mir-23a	GeneProduct	Entrez Gene	407010	477.75,1427.75
+hsa-mir-15a	GeneProduct	Entrez Gene	406948	478.75,533.0
+CCNE1	GeneProduct	Entrez Gene	898	638.75,477.75
+hsa-mir-503	GeneProduct	Entrez Gene	574506	479.70238095238096,394.25
+hsa-mir-143/145 cluster	GeneProduct			281.0625,130.0
+hsa-mir-195	GeneProduct	Ensembl	ENSG00000284112	478.75,310.0
+hsa-let-7a-1/7d cluster	GeneProduct			281.0625,198.0
+hsa-mir-450a	GeneProduct	Ensembl	ENSG00000207755	478.75,450.0
+hsa-let-7a	GeneProduct	Ensembl	ENSG00000199165	478.75,226.0
+hsa-mir-16	GeneProduct	Ensembl	ENSG00000208006	478.75,504.04761904761904
+hsa-mir-21	GeneProduct	Entrez Gene	406991	478.75,589.25
+hsa-mir-25	GeneProduct	Entrez Gene	407014	477.75,1063.0
+hsa-mir-181a-1/181b-1 cluster	GeneProduct			282.0625,1092.0
+hsa-mir-374b/421 cluster	GeneProduct			282.0625,1526.0
+CDKN1B	GeneProduct	Entrez Gene	1027	638.75,1133.0
+hsa-mir-221	GeneProduct	Ensembl	ENSG00000207870	477.75,1175.75
+hsa-mir-19a	GeneProduct	Entrez Gene	406979	477.75,894.047619047619
+hsa-mir-181a	GeneProduct	Ensembl	ENSG00000207759	477.75,1091.25
+H2AFX	GeneProduct	Entrez Gene	3014	638.75,1400.0
+hsa-miR-449c/449a cluster	GeneProduct			281.0625,645.75
+hsa-let-7a-3/7b cluster	GeneProduct			281.0625,282.25
+hsa-mir-93	GeneProduct	Entrez Gene	407050	477.75,1035.0
+hsa-mir-29a	GeneProduct	Entrez Gene	407021	478.75,728.75
+CCND3	GeneProduct	Entrez Gene	896	638.75,505.0
+hsa-mir-181b	GeneProduct	Ensembl	ENSG00000207975	477.75,1119.0
+hsa-miR-17/92a-1 cluster	GeneProduct			282.0625,912.0
+hsa-mir-100	GeneProduct	Ensembl	ENSG00000207994	478.75,254.25
+hsa-mir-203	GeneProduct	Ensembl	ENSG00000207568	477.75,1483.25
+hsa-mir-145	GeneProduct	Ensembl	ENSG00000276365	478.75,114.0
+hsa-mir-34b	GeneProduct	Ensembl	ENSG00000207811	478.75,58.0
+hsa-mir-19b-1 	GeneProduct	Ensembl	ENSG00000284375	477.75,951.0
+CREB1	GeneProduct	Entrez Gene	1385	638.75,58.75
+hsa-let-7b	GeneProduct	Entrez Gene	406884	478.75,282.0
+hsa-mir-23b/24-1 cluster	GeneProduct			282.0625,1358.0
+hsa-mir-373	GeneProduct	Entrez Gene	442918	477.75,1287.75
+hsa-miR-21gene	GeneProduct			281.0625,589.75
+hsa-mir-34c	GeneProduct	Ensembl	ENSG00000207562	478.75,86.0
+hsa-miR-195/497 cluster	GeneProduct			281.0625,325.0
+hsa-mir-497	GeneProduct	Entrez Gene	574456	478.75,338.0
+CDC25A2	GeneProduct	Entrez Gene	993	638.75,533.0
+hsa-mir-222	GeneProduct	Ensembl	ENSG00000207725	477.75,1147.0
+hsa-mir-23a/24-2 cluster	GeneProduct			282.0625,1428.0
+hsa-mir-421	GeneProduct	Entrez Gene	693122	477.75,1539.0
+hsa-mir-23b	GeneProduct	Entrez Gene	407011	477.75,1343.0
+CCND1	GeneProduct	Entrez Gene	595	638.75,366.0
+hsa-mir-449a	GeneProduct	Ensembl	ENSG00000198983	478.75,644.75
+hsa-mir-371/373 cluster	GeneProduct			282.0625,1260.75
+TP53	GeneProduct	Entrez Gene	7157	43.0,101.0
+hsa-mir-27a	GeneProduct	Ensembl	ENSG00000207808	477.75,1455.25
+hsa-mir-15b	GeneProduct	Entrez Gene	406949	478.75,561.25
+hsa-mir-17	GeneProduct	Entrez Gene	406952	477.75,979.25
+hsa-mir-20a	GeneProduct	Entrez Gene	406982	477.75,923.0
+hsa-mir-92a-1	GeneProduct	Ensembl	ENSG00000283705	477.75,838.25
+E2F1	GeneProduct	Entrez Gene	1869	638.75,876.0
+hsa-mir-449b	GeneProduct	Ensembl	ENSG00000207728	478.75,672.0
+hsa-miR-210 gene	GeneProduct			282.0625,1204.25
+hsa-let-7a-2/100 cluster	GeneProduct			281.0625,242.0
+RAD52	GeneProduct	Entrez Gene	5893	638.75,1245.0
+hsa-mir-330	GeneProduct	Entrez Gene	442902	477.75,783.0

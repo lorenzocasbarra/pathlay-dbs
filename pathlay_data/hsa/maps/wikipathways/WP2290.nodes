@@ -1,0 +1,14 @@
+TEXT	TYPE	DB	ID	X	Y
+RalA downstream regulated genes	hsa	wikipathways	WP2290
+ZONAB	GeneProduct	Entrez Gene	8531	86.0,292.0
+SEC5	GeneProduct	Entrez Gene	55770	332.0,292.0
+EXOC84	GeneProduct	Entrez Gene	149371	209.0,292.0
+RALBP1	GeneProduct	Entrez Gene	10928	360.0,198.0
+CDC42	GeneProduct	Entrez Gene	998	548.0,104.0
+RAC3	GeneProduct	Entrez Gene	5881	548.0,164.0
+RAC2	GeneProduct	Entrez Gene	5880	548.0,235.0
+RAC1	GeneProduct	Entrez Gene	5879	548.0,293.0
+HRAS	GeneProduct	Entrez Gene	3265	209.20920920920898,62.0420420420418
+KRAS	GeneProduct	Entrez Gene	3845	209.20920920920898,82.04204204204171
+NRAS	GeneProduct	Entrez Gene	4893	209.20920920920892,102.04204204204171
+RalA	GeneProduct	Entrez Gene	5898	209.0,198.0

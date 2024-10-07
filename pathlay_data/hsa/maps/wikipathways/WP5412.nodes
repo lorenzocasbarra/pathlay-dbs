@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+8q11.23 (RB1CC1) copy number variation	hsa	wikipathways	WP5412
+PTK2B	GeneProduct	Entrez Gene	2185	223.0,225.0
+ATG101	GeneProduct	Entrez Gene	60673	633.0,440.0
+TP53	GeneProduct	Entrez Gene	7157	506.0,114.0
+TNF	GeneProduct	Entrez Gene	7124	154.0,363.0
+TRAF2	GeneProduct	Entrez Gene	7186	261.75,363.25
+GABARAPL2	GeneProduct	Entrez Gene	11345	839.0,439.0
+RB1	GeneProduct	Entrez Gene	5925	293.0,435.93519592285156
+Autophagy initiation complex	Complex	Complex Portal	CPX-373	633.0,365.0
+RB1CC1	GeneProduct	Entrez Gene	9821	372.0,186.0
+ULK1	GeneProduct	Entrez Gene	8408	633.0,465.0
+MAP3K5	GeneProduct	Entrez Gene	4217	212.0,286.0
+GABARAP	GeneProduct	Entrez Gene	11337	839.0,389.0
+ATG16L1	GeneProduct	Entrez Gene	55054	548.0,289.0
+ATG13	GeneProduct	Entrez Gene	9776	633.0,415.0
+PTK2	GeneProduct	Entrez Gene	5747	512.0,220.0
+WDR45B	GeneProduct	Entrez Gene	56270	631.0,251.0
+GABARAPL1	GeneProduct	Entrez Gene	23710	839.0,414.0
+RB1	Protein	Ensembl	ENSG00000139687	469.0,435.93519592285156
+RB1CC1	GeneProduct	Entrez Gene	9821	633.0,390.0

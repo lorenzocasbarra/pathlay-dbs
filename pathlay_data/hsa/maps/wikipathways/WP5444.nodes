@@ -1,0 +1,28 @@
+TEXT	TYPE	DB	ID	X	Y
+Acetaminophen in analgesia and antipyresis	hsa	wikipathways	WP5444
+GABA	Metabolite	KEGG Compound	C00334	255.0,510.0
+HTR1A	GeneProduct	Entrez Gene	3350	643.0,510.0
+Acetaminophen	Metabolite	KEGG Compound	C06804	363.0,83.0
+Antipyresis		Wikidata	Q582582	74.0,252.0
+PTGS1	GeneProduct	Entrez Gene	5742	74.0,184.0
+AM404	Metabolite	Wikidata	Q4652517	377.0,242.0
+CB1	Metabolite	ChEBI	73416	255.0,477.0
+1,4-benzoquinone	Metabolite	KEGG Compound	C00472	644.0,209.0
+PTGS2	GeneProduct	Entrez Gene	5743	149.0,186.0
+FAAH	GeneProduct	Entrez Gene	2166	377.0,179.0
+Endocannabinoid degradation		Wikidata		143.5,306.0
+Endocannabinoid reuptake		Wikidata		284.0,307.0
+Endocannabinoid concentration (anandimade and 2-AG)		Wikidata		143.5,391.0
+TRPV1	GeneProduct	Entrez Gene	7442	423.0,334.0
+CACNA1H	GeneProduct	Entrez Gene	8912	424.0,299.0
+TRPA1	GeneProduct	Entrez Gene	8989	613.0,294.0
+KCNQ2	GeneProduct	Entrez Gene	3785	727.0,292.0
+KCNQ3	GeneProduct	Entrez Gene	3786	794.0,292.0
+Analgesia		Wikidata	Q484785	424.0,397.0
+Hyperpolarization		Wikidata	Q1355864	761.0,397.0
+Analgesia		Wikidata	Q484785	643.0,542.0
+Antipyresis		Wikidata	Q582582	643.0,397.0
+Blood pressure		Wikidata	Q82642	841.0,488.0
+Anticonvulsant effect		Wikidata	Q576618	850.0,518.0
+Analgesia		Wikidata	Q484785	548.0,397.0
+NAPQI	Metabolite	ChEBI	29132	644.0,177.0

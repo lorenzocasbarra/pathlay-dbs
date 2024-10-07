@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+TCA cycle nutrient use and invasiveness of ovarian cancer	hsa	wikipathways	WP2868
+STAT3	GeneProduct	Entrez Gene	6774	78.0,378.0
+Lactate	Metabolite	KEGG Compound	C01432	195.0,378.0
+ERK1	GeneProduct	Entrez Gene	5595	495.0,296.25
+JAK1	GeneProduct	Entrez Gene	3716	78.0,323.0
+D-Glutamine	Metabolite	KEGG Compound	C00819	495.0,202.0
+ERK2	GeneProduct	Entrez Gene	5594	495.0,276.25
+Pyruvate	Metabolite	KEGG Compound	C00022	195.0,464.0
+Glucose	Metabolite	KEGG Compound	C00031	78.0,205.0
+EGFR	GeneProduct	Entrez Gene	1956	78.0,266.0
+TCA cycle	Pathway	WikiPathways	WP78	496.0,473.0
+Glucose	Metabolite	KEGG Compound	C00031	78.0,464.0
+STAT3	GeneProduct	Entrez Gene	6774	495.0,354.0
+Glucose	Metabolite	KEGG Compound	C00031	315.0,202.0
+EGFR	GeneProduct	Entrez Gene	1956	315.0,265.0
+JAK1	GeneProduct	Entrez Gene	3716	315.0,329.0
+STAT3	GeneProduct	Entrez Gene	6774	315.0,382.0

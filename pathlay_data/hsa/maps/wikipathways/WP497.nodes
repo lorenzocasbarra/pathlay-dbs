@@ -1,0 +1,84 @@
+TEXT	TYPE	DB	ID	X	Y
+Urea cycle and metabolism of amino groups	hsa	wikipathways	WP497
+GAMT	GeneProduct	Entrez Gene	2593	1196.6666666666667,534.3333333333334
+SARDH	GeneProduct	Entrez Gene	1757	900.6666666666666,749.0
+L-Glutamate	Metabolite	KEGG Compound	C00025	236.66666666666666,676.6666666666666
+CKB	GeneProduct	Entrez Gene	1152	1190.6666666666667,659.0
+6.3.4.6	Protein	Enzyme Nomenclature	6.3.4.6	877.6666666666666,529.6666666666667
+L-Glutamate 5-semialdehyde	Metabolite	KEGG Compound	C01165	626.4166666666666,675.6666666666666
+Phosphoguanidinoacetate	Metabolite	KEGG Compound	C03166	1160.0,145.0
+ODC1	GeneProduct	Entrez Gene	4953	770.6666666666666,538.0
+L-Aspartate	Metabolite	KEGG Compound	C00049	475.0,133.0
+NH3	Metabolite	KEGG Compound	C00014	236.74166666666667,481.9916666666667
+CPS1	GeneProduct	Entrez Gene	1373	182.33333333333334,402.0
+2.7.3.1	Protein	Enzyme Nomenclature	2.7.3.1	1228.6666666666667,200.66666666666666
+1.2.1.46	Protein	Enzyme Nomenclature	1.2.1.46	893.6666666666666,838.6666666666666
+CKM	GeneProduct	Entrez Gene	1158	1190.6666666666667,679.0
+SRM	GeneProduct	Entrez Gene	6723	684.6666666666666,727.6666666666666
+2.3.1.35	Protein	Enzyme Nomenclature	2.3.1.35	517.3333333333334,405.6666666666667
+PYCRL	GeneProduct	Entrez Gene	65263	530.0,851.3333333333334
+Urea	Metabolite	KEGG Compound	C00086	827.0,475.6666666666667
+Putrescine	Metabolite	KEGG Compound	C00134	736.6666666666666,676.6666666666666
+L-Ornithine	Metabolite	KEGG Compound	C00077	600.0,350.0
+Urea-1-carboxylate	Metabolite	KEGG Compound	C01010	927.0,557.0
+N-(L-Arginino)succinate	Metabolite	KEGG Compound	C03406	702.0,86.0
+Amino acid metabolism	Pathway			108.57372654155503,474.0
+Arginine metabolism	Pathway			938.2739726027397,367.76047596312753
+GLUD1	GeneProduct	Entrez Gene	2746	184.33333333333334,598.6666666666666
+SMS	GeneProduct	Entrez Gene	6611	688.6666666666666,859.0
+3.5.4.21	Protein	Enzyme Nomenclature	3.5.4.21	1042.0,951.0
+1.2.1.38	Protein	Enzyme Nomenclature	1.2.1.38	547.0,576.6666666666666
+Proline metabolism	Pathway			413.911528150134,920.0
+2.7.2.8	Protein	Enzyme Nomenclature	2.7.2.8	405.0,649.6666666666666
+2.6.1.69	Protein	Enzyme Nomenclature	2.6.1.69	442.33333333333326,404.6666666666667
+Creatine	Metabolite	KEGG Compound	C00300	1132.6666666666667,720.0
+L-Proline	Metabolite	KEGG Compound	C00148	590.0,920.0
+ARG1	GeneProduct	Entrez Gene	383	702.6666666666666,404.6666666666667
+L-glutamyl	Metabolite	ChEBI	CHEBI:29972	409.0,676.0
+Glutamate metabolism	Pathway			70.5,676.0
+L-Citrulline	Metabolite	KEGG Compound	C00327	544.3333333333334,160.0
+D-Arginine and D-Ornithine metabolism	Pathway			755.7123287671225,451.71232876712327
+ARG2	GeneProduct	Entrez Gene	384	702.6666666666666,384.6666666666667
+Arginine	Metabolite	KEGG Compound	C02385	750.0,260.0
+OAT	GeneProduct	Entrez Gene	4942	648.0,549.6666666666666
+Guanidinoacetate	Metabolite	KEGG Compound	C00581	1160.0,260.0
+ALDH18A1	GeneProduct	Entrez Gene	5832	491.6666666666667,708.6666666666666
+GATM	GeneProduct	Entrez Gene	2628	973.3333333333334,221.0
+N2-Acetyl-L-ornithine	Metabolite	KEGG Compound	C00437	381.5,342.0
+Alanine and aspartate metabolism	Pathway	WikiPathways	WP106	243.36301369863014,130.84931506849315
+SMS	GeneProduct	Entrez Gene	6611	688.6666666666666,839.0
+Formaldehyde	Metabolite	KEGG Compound	C00067	823.3333333333334,720.0
+2.6.1.11	Protein	Enzyme Nomenclature	2.6.1.11	300.6666666666667,436.6666666666667
+Sarcosine	Metabolite	KEGG Compound	C00213	983.3333333333334,720.0
+ASS	GeneProduct	Entrez Gene	445	578.0,77.66666666666667
+Spermidine	Metabolite	KEGG Compound	C00315	736.6666666666666,800.0
+PYCR1	GeneProduct	Entrez Gene	5831	530.0,831.3333333333334
+ASL	GeneProduct	Entrez Gene	435	681.0,150.33333333333334
+N-Acetyl-L-glutamate	Metabolite	KEGG Compound	C00624	497.0,623.0
+N-Acetyl-L-glutamate	Metabolite	KEGG Compound	C00624	451.0,505.0
+Citrate cycle (TCA cycle)	Pathway	WikiPathways	WP78	805.4833333333332,46.0
+NAGS	GeneProduct	Entrez Gene	162417	325.6666666666667,601.6666666666666
+OTC	GeneProduct	Entrez Gene	5009	427.0,250.33333333333331
+3.5.3.3	Protein	Enzyme Nomenclature	3.5.3.3	1063.3333333333333,754.0
+Pyrimidine metabolism	Pathway			236.00000000000003,212.58904109589042
+3.5.2.10	Protein	Enzyme Nomenclature	3.5.2.10	1190.6666666666667,802.0
+3.5.2.14	Protein	Enzyme Nomenclature	3.5.2.14	1012.0,860.6666666666666
+3.5.1.5	GeneProduct	Enzyme Nomenclature	3.5.1.5	780.0,592.0
+Spermine	Metabolite	KEGG Compound	C00750	736.6666666666666,920.0
+Creatinine	Metabolite	KEGG Compound	C00791	1132.3333333333333,923.0
+ALDH18A1	GeneProduct	Entrez Gene	5832	311.0,712.6666666666666
+Carbamoyl	Metabolite	KEGG Compound	C00169	236.0,288.0
+3.5.1.54	Protein	Enzyme Nomenclature	3.5.1.54	977.6666666666666,615.0
+3.5.1.16	Protein	Enzyme Nomenclature	3.5.1.16	507.3333333333333,294.3333333333333
+N-Methylhydantoin	Metabolite	KEGG Compound	C02565	954.5,923.0
+3.5.1.59	Protein	Enzyme Nomenclature	3.5.1.59	1030.0,779.6666666666666
+Nitrogen metabolism 	Pathway			82.54794520547945,285.40410958904107
+Formate	Metabolite	KEGG Compound	C00058	844.0,924.0
+creatine-P	Metabolite	CAS	67-07-2	1268.6666666666667,720.0
+ACY1	GeneProduct	Entrez Gene	95	514.3333333333333,350.0
+N-Acetyl-glutamate	Metabolite	KEGG Compound	C00624	368.0,566.0
+Purine metabolism	Pathway			108.57372654155502,548.3404825737265
+N-Carbamoylsarcosine	Metabolite	KEGG Compound	C01043	983.0,815.0
+CO2	Metabolite	KEGG Compound	C00011	927.0,675.0
+(S)-1-Pyrroline-5-carboxylate	Metabolite	KEGG Compound	C03912	590.0,784.0
+Fumarate	Metabolite	KEGG Compound	C00122	805.4833333333333,210.98333333333332

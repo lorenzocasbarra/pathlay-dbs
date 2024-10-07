@@ -1,0 +1,63 @@
+TEXT	TYPE	DB	ID	X	Y
+Common pathways underlying drug addiction	hsa	wikipathways	WP2636
+Gonadotropins gene expression & secretion	Pathway			495.7588749999994,557.2721250000001
+Strong depolarization	Pathway			257.5,301.0
+Regulation of gap junction	Pathway			967.4104285714288,628.261571428571
+cAMP 	Metabolite	Chemspider	5851	395.0,114.0
+PRKACG	GeneProduct	Entrez Gene	5568	530.0,133.0
+MAPK signaling	Pathway	KEGG Pathway	hsa04010	946.3571428571431,157.4761904761904
+ADCY1	GeneProduct	Entrez Gene	107	189.0,105.0
+CREB1	GeneProduct	Entrez Gene	1385	806.6520952380954,463.073875
+Connexin 32	GeneProduct	Ensembl	ENSG00000169562	1077.986375,483.7501250000001
+GRIN1	GeneProduct	Entrez Gene	2902	188.0,359.0
+Dopamine	Metabolite	KEGG Compound	C03758	86.5,646.0
+Glutamate	Metabolite	KEGG Compound	C00302	84.635625,303.6202499999999
+PRKCA	GeneProduct	Entrez Gene	5578	386.0,463.0
+ERK1	GeneProduct	Entrez Gene	5595	806.6520952380954,330.97749999999996
+CaM	GeneProduct	Entrez Gene	808	396.0,369.0
+GRM1	GeneProduct	Entrez Gene	2911	187.0,439.0
+DRD4	GeneProduct	Entrez Gene	1815	186.0,610.0
+Ca++	Metabolite	Chemspider	266	303.0,369.0
+ACTB	GeneProduct	Entrez Gene	60	665.0,222.0
+Regulation of  actin cytoskeleton	Pathway	WikiPathways	WP51	977.823625,241.4784375000001
+ADCY1	GeneProduct	Entrez Gene	107	474.5331249999999,672.305875
+MEK1	GeneProduct	Entrez Gene	5604	806.6520952380954,202.0
+CAMK2A	GeneProduct	Entrez Gene	815	530.0,367.0
+Neuroactive ligand-receptor interaction	Pathway			186.0,556.0
+GnRH signaling	Pathway	KEGG Pathway	hsa04912	996.5031041666676,366.91378571428555
+CAMK4	GeneProduct	Entrez Gene	814	719.8462500000003,414.7215
+Long term potentiation	Pathway	KEGG Pathway	hsa04720	391.0,211.0
+DRD1	GeneProduct	Entrez Gene	1812	187.0,646.0
+Gs	GeneProduct	Ensembl	ENSG00000087460	327.8628750000001,644.94575
+GRIA1	GeneProduct	Entrez Gene	2890	188.0,183.0
+Inhibitor-1	GeneProduct	Ensembl	ENSG00000135447	530.0,196.0
+DRD2	GeneProduct	Entrez Gene	1813	187.0,682.0
+MEK2	GeneProduct	Entrez Gene	5605	806.6520952380954,223.0
+Gi	GeneProduct	Entrez Gene	2770	328.6018750000001,695.4626250000001
+ERK2	GeneProduct	Entrez Gene	5594	806.6520952380954,351.97749999999996
+ACTG1	GeneProduct	Entrez Gene	71	665.0,242.0
+ACTG2	GeneProduct	Entrez Gene	72	665.0,262.0
+ADCY8	GeneProduct	Entrez Gene	114	189.0,125.0
+GRIA2	GeneProduct	Entrez Gene	2891	188.0,203.0
+GRIA3	GeneProduct	Entrez Gene	2892	188.0,223.0
+GRIA4	GeneProduct	Entrez Gene	2893	188.0,243.0
+GRIN2A	GeneProduct	Entrez Gene	2903	188.0,379.0
+GRM5	GeneProduct	Entrez Gene	2915	187.0,459.0
+CAMK2A	GeneProduct	Entrez Gene	815	632.0,464.0
+GRIN1	GeneProduct	Entrez Gene	2902	633.0,502.0
+GRIN2A	GeneProduct	Entrez Gene	2903	633.0,522.0
+PRKCB	GeneProduct	Entrez Gene	5579	386.0,483.0
+PRKCG	GeneProduct	Entrez Gene	5582	386.0,503.0
+PRKACA	GeneProduct	Entrez Gene	5566	530.0,93.0
+PRKACB	GeneProduct	Entrez Gene	5567	530.0,113.0
+PPP1CA	GeneProduct	Entrez Gene	5499	530.0,250.0
+PPP1CB	GeneProduct	Entrez Gene	5500	530.0,270.0
+PPP1CC	GeneProduct	Entrez Gene	5501	530.0,290.0
+PRKACG	GeneProduct	Entrez Gene	5568	680.0,692.0
+PRKACA	GeneProduct	Entrez Gene	5566	680.0,652.0
+PRKACB	GeneProduct	Entrez Gene	5567	680.0,672.0
+RAF1	GeneProduct	Entrez Gene	5894	806.6520952380954,93.0
+ARAF	GeneProduct	Entrez Gene	369	806.6520952380954,113.0
+ARAF	GeneProduct	Entrez Gene	369	806.6520952380954,133.0
+RAP1B	GeneProduct	Entrez Gene	5908	668.380952380953,122.52380952380904
+RAP1A	GeneProduct	Entrez Gene	5906	668.3809523809529,102.52380952380906

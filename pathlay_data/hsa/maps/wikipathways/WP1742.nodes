@@ -1,0 +1,35 @@
+TEXT	TYPE	DB	ID	X	Y
+TP53 network	hsa	wikipathways	WP1742
+DeltaNp63gamma	GeneProduct	Entrez Gene	8626	640.0,515.0
+CDKN1A	GeneProduct	Entrez Gene	1026	479.75,207.5
+TAp63beta	GeneProduct	Entrez Gene	8626	640.0,367.0
+BID	GeneProduct	Entrez Gene	637	192.25,137.75
+DelatNp63alpha	GeneProduct	Entrez Gene	8626	640.0,465.0
+TP73 Delta Np73	GeneProduct	Entrez Gene	7161	741.125,204.5
+TP73zeta	GeneProduct	Entrez Gene	7161	741.125,129.5
+ABL1	GeneProduct	Entrez Gene	25	435.25,96.25
+SUMO1	Protein	Entrez Gene	7341	360.0,364.25
+TP73delta	GeneProduct	Entrez Gene	7161	741.125,104.5
+TP73alpha	GeneProduct	Entrez Gene	7161	741.125,54.5
+TAp63gamma	GeneProduct	Entrez Gene	8626	640.0,392.0
+BOK	GeneProduct	Entrez Gene	666	240.0,356.5
+TP73gamma	GeneProduct	Entrez Gene	7161	741.125,154.5
+BAX	GeneProduct	Entrez Gene	581	334.5,206.0
+PMAIP1	GeneProduct	Entrez Gene	5366	240.0,376.5
+MYC	GeneProduct	Entrez Gene	4609	536.5,297.0
+TP73beta	GeneProduct	Entrez Gene	7161	741.125,79.5
+BCL2	GeneProduct	Entrez Gene	596	192.25,157.75
+TP53	GeneProduct	Entrez Gene	7157	396.5,297.0
+CDKN2A	GeneProduct	Entrez Gene	1029	646.5,297.0
+BBC3	GeneProduct	Entrez Gene	27113	240.0,396.5
+TP73	GeneProduct	Entrez Gene	7161	865.75,130.25
+GADD45A	GeneProduct	Entrez Gene	1647	257.25,207.5
+IGFBP-3	GeneProduct	Entrez Gene	3486	808.75,427.25
+TP63	GeneProduct	Entrez Gene	8626	748.75,427.25
+ATM	GeneProduct	Entrez Gene	472	313.75,95.25
+OTX2	GeneProduct	Entrez Gene	5015	220.75,291.75
+MDM2	GeneProduct	Entrez Gene	4193	409.75,206.0
+TAp63alpha	GeneProduct	Entrez Gene	8626	640.0,342.0
+TP73epsilon	GeneProduct	Entrez Gene	7161	741.125,179.5
+DeltaNp63beta	GeneProduct	Entrez Gene	8626	640.0,490.0
+TNFSF10	GeneProduct	Entrez Gene	8743	333.25,147.75

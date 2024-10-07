@@ -1,0 +1,27 @@
+TEXT	TYPE	DB	ID	X	Y
+Mitochondrial complex inhibition leading to liver injury	hsa	wikipathways	WP5034
+KE1545: Decrease in mitochondrial phosphorylation	Event	AOP-Wiki KE	1545	626.3726731726308,325.38167938931315
+KE888: Binding of inhibitor,  NADH-ubiquinone oxidoreductase (complex I)	Event	AOP-Wiki KE	888	163.68601637593437,123.12982543685125
+Assembly of mitochondrial complex I	Pathway	WikiPathways	WP4324	162.7318179026518,233.84219080565717
+Impaired proteostasis	Pathway	WikiPathways	WP4918	626.9320808627649,490.4722222222212
+Unfolded protein response	Pathway	WikiPathways	WP4925	626.9320808627647,515.4722222222213
+KE887: Inhibition,  NADH-ubiquinone oxidoreductase (complex I)	Event	AOP-Wiki KE	887	162.73181790265184,203.59219080565717
+KE177: N/A, Mitochondrial dysfunction 1	Event	AOP-Wiki KE	177	626.9320808627647,386.16969414588095
+KE889: Impaired proteostasis 	Event	AOP-Wiki KE	889	626.9320808627617,465.22222222222126
+Autophagy	Pathway	WikiPathways	WP4923	627.2474834516726,640.865581255336
+Necrosis	Pathway	WikiPathways	WP5022	627.2474834516656,615.865581255336
+Apoptosis	Pathway	WikiPathways	WP1772	627.2474834516726,590.865581255336
+Ferroptosis	Pathway	WikiPathways	WP4313	627.2474834516727,665.865581255336
+KE55: N/A, Cell injury/death 	Event	AOP-Wiki KE	55	627.2474834516654,565.615581255336
+Electron transport chain (oxidative phosphorylation)	Pathway	WikiPathways	WP111	626.9320808627638,411.669694145881
+KE1549: Liver injury	Event	AOP-Wiki KE	1549	624.0678521457294,807.5394520111223
+KE1548: Necrotic tissue	Event	AOP-Wiki KE	1548	625.3816793893127,718.6946741998897
+Necrosis	Pathway	WikiPathways	WP5022	625.3816793893127,743.6946741998897
+KE1543: Mitochondrial complex IV inhibition	Event	AOP-Wiki KE	1543	762.804173475183,203.59219080565717
+KE1654: Binding of inhibitor to  mitochondrial complex IV	Event	AOP-Wiki KE	1654	763.3552851260812,123.12982543685126
+KE1542: Mitochondrial complex III antagonism	Event	AOP-Wiki KE	1542	474.49711459192287,203.59219080565717
+KE1653: Binding of inhibitor to  mitochondrial complex III	Event	AOP-Wiki KE	1653	474.92164951190216,123.12982543685126
+KE1544: Mitochondrial complex V inhibition	Event	AOP-Wiki KE	1544	1049.9105213729622,203.59219080565717
+KE1655: Binding of inhibitor to  mitochondrial complex V	Event	AOP-Wiki KE	1655	1050.4616330238568,123.12982543685123
+Assembly of mitochondrial complex III	Pathway	WikiPathways	WP4921	474.37053786100114,228.59219080565717
+Assembly of mitochondrial complex IV	Pathway	WikiPathways	WP4922	762.8041734751779,229.30942081390134

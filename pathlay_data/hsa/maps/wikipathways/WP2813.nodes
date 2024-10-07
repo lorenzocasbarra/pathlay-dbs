@@ -1,0 +1,29 @@
+TEXT	TYPE	DB	ID	X	Y
+Mammary gland development pathway - Embryonic development (Stage 1 of 4)	hsa	wikipathways	WP2813
+MIR429	GeneProduct	Entrez Gene	554210	598.0,264.0
+MIR200B	GeneProduct	Entrez Gene	406984	598.0,228.0
+Puberty	Pathway	WikiPathways	WP2814	347.0,69.99961471557617
+MYC	GeneProduct	Entrez Gene	4609	498.0,480.0
+IL1	GeneProduct	Entrez Gene	3552	172.0,246.0
+SFRP1	GeneProduct	Entrez Gene	6422	598.0,156.0
+ITGA6	GeneProduct	Entrez Gene	3655	457.5,534.0
+Mesenchymal markers	GeneProduct			618.0,444.0
+ALPL	GeneProduct	Entrez Gene	249	598.0,408.0
+ZEB2	GeneProduct	Entrez Gene	9839	411.27975110189186,282.0
+CLDN4	GeneProduct	Entrez Gene	1364	598.0,372.0
+TERT	GeneProduct	Entrez Gene	7015	598.0,300.0
+Hypoxia signals	GeneProduct			156.0,138.0
+ERBB4	GeneProduct	Entrez Gene	2066	250.0,480.0
+ITGB1	GeneProduct	Entrez Gene	3688	538.5,534.0
+TGFB1	GeneProduct	Entrez Gene	7040	172.0,174.0
+NRG3	GeneProduct	Entrez Gene	10718	152.0,480.0
+MIR200A	GeneProduct	Entrez Gene	406983	598.0,192.0
+CCND1	GeneProduct	Entrez Gene	595	598.0,120.0
+AKT1	GeneProduct	Entrez Gene	207	306.59165154264986,282.0
+CDH1	GeneProduct	Entrez Gene	999	598.0,336.0
+DNA	Metabolite	KEGG Compound	C00039	485.94248552415445,282.2314406706419
+TNF	GeneProduct	Entrez Gene	7124	172.0,210.0
+Hedgehog signals	GeneProduct			65.25,174.0
+Involution	Pathway	WikiPathways	WP2815	624.0,69.99961471557617
+Pregnancy and lactation	Pathway	WikiPathways	WP2817	485.0,69.99961471557617
+Embryonic development	Pathway	WikiPathways	WP2813	210.0,69.99961471557617

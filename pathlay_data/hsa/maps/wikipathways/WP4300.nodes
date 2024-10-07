@@ -1,0 +1,41 @@
+TEXT	TYPE	DB	ID	X	Y
+Extracellular vesicles in the crosstalk of cardiac cells	hsa	wikipathways	WP4300
+VEGFR2	GeneProduct	Entrez Gene	3791	358.5,567.0
+PTEN	GeneProduct	Entrez Gene	5728	384.0,245.0
+HSPB1	GeneProduct	Entrez Gene	3315	233.1779157575519,266.0
+MIR455	GeneProduct	Entrez Gene	619556	945.5,590.0
+mir-19a	GeneProduct	Entrez Gene	406979	384.0,196.0
+FGF	GeneProduct			190.0,428.0
+B. Apoptosis	Pathway	WikiPathways	WP254	358.5,332.0
+EGF	GeneProduct	Entrez Gene	1950	190.0,453.0
+CD63	GeneProduct	Entrez Gene	967	230.5,109.0
+HSP90	GeneProduct			667.5,393.0
+PDGF	GeneProduct			190.0,478.0
+mir-29b2	GeneProduct	HGNC Accession number	31620	945.5,640.0
+MAPK Signaling	Pathway	WikiPathways	WP382	791.0,294.0
+A. Hypertrophy	Pathway	WikiPathways	WP516	477.0,294.0
+mir21-3p	GeneProduct	HGNC Accession number	31586	714.0,118.0
+GATA4	GeneProduct	Entrez Gene	2626	384.0,76.0
+NF-kB Signaling	Pathway			193.0,503.0
+SPP1	GeneProduct	Entrez Gene	6696	930.5,284.0
+BIRC5	GeneProduct	Entrez Gene	332	359.0,472.0
+Renin angiotensin system (RAS)	Pathway			647.0,294.0
+SORBS2	GeneProduct	Entrez Gene	8470	507.0,172.0
+HSP20	GeneProduct			359.0,447.0
+HSP70	GeneProduct	Entrez Gene	3303	230.5,84.0
+CD81	GeneProduct	Entrez Gene	975	230.5,134.0
+TLR4	GeneProduct	Entrez Gene	7099	233.1779157575519,211.0
+C. Fibrosis	Pathway			945.5,425.0
+D. Angiogenesis	Pathway	WikiPathways	WP1539	290.0,688.0
+SOD1	GeneProduct	Entrez Gene	6647	359.0,497.0
+MMP9	GeneProduct	Entrez Gene	4318	945.5,488.0
+STAT3	GeneProduct	Entrez Gene	6774	815.5,425.0
+IL6	GeneProduct	Entrez Gene	3569	667.5,368.0
+EGFR	GeneProduct	Entrez Gene	1956	930.5,309.0
+PDLIM5	GeneProduct	Entrez Gene	10611	507.0,197.0
+MIR320A	GeneProduct	Entrez Gene	407037	476.0,457.0
+IGF1	GeneProduct	Entrez Gene	3479	479.0,546.0
+ETS2	GeneProduct	Entrez Gene	2114	479.0,596.0
+HSP20	GeneProduct	Ensembl	ENSG00000142168	479.0,571.0
+mir-29b1	GeneProduct	HGNC Accession number	31619	945.5,615.0
+p-Akt	GeneProduct			359.0,422.0

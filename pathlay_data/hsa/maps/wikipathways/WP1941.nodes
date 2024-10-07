@@ -1,0 +1,21 @@
+TEXT	TYPE	DB	ID	X	Y
+Peroxisomal beta-oxidation of tetracosanoyl-CoA	hsa	wikipathways	WP1941
+D-bifunctional protein	GeneProduct	Entrez Gene	3295	485.5,83.0
+NAD+	Metabolite	KEGG Compound	C00003	590.0,160.0
+O2	Metabolite	KEGG Compound	C00007	145.5,162.0
+Peroxisomal 3-oxoacyl-CoA thiolase	GeneProduct	Entrez Gene	30	464.0,407.0
+Peroxisomal beta-oxidation of hexacosanoyl-CoA	Pathway			113.0,225.5
+tetracosanoyl-CoA	Metabolite	KEGG Compound	C16529	102.5,134.0
+docosanoyl-CoA	Metabolite	KEGG Compound	C16528	297.0,333.0
+Sterol carrier protein X	GeneProduct	Entrez Gene	6342	464.0,288.0
+acetyl-CoA	Metabolite	KEGG Compound	C00024	285.0,363.0
+Peroxisomal beta-oxidation of docosanoyl-CoA	Pathway			117.5,333.0
+H2O	Metabolite	KEGG Compound	C00001	379.0,161.0
+CoA-SH	Metabolite	KEGG Compound	C00010	605.0,366.0
+3-hydroxytetracosanoyl-CoA	Metabolite	ChEBI	CHEBI:52326	651.5,135.0
+(2E)-tetracosenoyl-CoA	Metabolite	HMDB	HMDB0062231	330.5,134.0
+H2O2	Metabolite	KEGG Compound	C00027	278.125,162.25
+Acyl-CoA Oxidase 1	GeneProduct	Entrez Gene	51	211.0,85.0
+3-ketotetracosanoyl-CoA	Metabolite	ChEBI	CHEBI:52329	651.0,337.0
+D-bifunctional protein	GeneProduct	Entrez Gene	3295	752.0,236.0
+NADH	Metabolite	KEGG Compound	C00004	598.0,309.0

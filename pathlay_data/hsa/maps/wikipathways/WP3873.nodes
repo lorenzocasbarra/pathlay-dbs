@@ -1,0 +1,19 @@
+TEXT	TYPE	DB	ID	X	Y
+RIOK1 and RIOK2 in EGFR- and PI3K-mediated tumorigenesis	hsa	wikipathways	WP3873
+PTEN	GeneProduct	Entrez Gene	5728	292.0,168.0
+RIOK1	GeneProduct	Entrez Gene	83732	167.0,330.0
+PIK3CA	GeneProduct	Entrez Gene	5290	241.0,107.0
+AKT1	GeneProduct	Entrez Gene	207	167.0,189.0
+RPL11	GeneProduct	Entrez Gene	6135	382.0,339.66131191432396
+FOXO3	GeneProduct	Entrez Gene	2309	61.125,338.75
+RIOK2	GeneProduct	Entrez Gene	55781	167.0,350.0
+EGFR	GeneProduct	Entrez Gene	1956	95.0,108.0
+MTOR	GeneProduct	Entrez Gene	2475	270.0,239.0
+Cell Cycle Arrest	Pathway	WikiPathways	WP31	382.0,506.0
+Apoptosis	Pathway	WikiPathways	WP31	382.0,486.0
+TP53	GeneProduct	Entrez Gene	7157	382.0,416.0
+AKT2	GeneProduct	Entrez Gene	208	167.0,209.0
+AKT3	GeneProduct	Entrez Gene	10000	167.0,229.0
+RICTOR	GeneProduct	Entrez Gene	253260	270.0,259.0
+MLST8	GeneProduct	Entrez Gene	64223	350.0,239.0
+MAPKAP1	GeneProduct	Entrez Gene	79109	350.0,259.0

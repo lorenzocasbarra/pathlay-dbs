@@ -1,0 +1,41 @@
+TEXT	TYPE	DB	ID	X	Y
+Hypothesized pathways in pathogenesis of cardiovascular disease	hsa	wikipathways	WP3668
+MAPK3	GeneProduct	Entrez Gene	5595	779.4873949579829,198.0
+Heart valve disease		Wikidata	Q1130519	924.0,391.0
+SMAD4	GeneProduct	Entrez Gene	4089	362.0,261.0
+MAPK8	GeneProduct	Entrez Gene	5599	779.4873949579829,238.0
+MAPK1	GeneProduct	Entrez Gene	5594	779.4873949579829,218.0
+TGFBR2	GeneProduct	Entrez Gene	7048	490.0,118.0
+Calcium calneurin pathway	Pathway			512.0,266.0
+POSTN	GeneProduct	Entrez Gene	10631	258.6470588235293,340.0
+SHC1	GeneProduct	Entrez Gene	6464	674.5042016806728,201.39495798319328
+RUNX2	GeneProduct	Entrez Gene	860	362.59243697478973,340.0
+FBN1	GeneProduct	Entrez Gene	2200	478.63561190738676,26.56449834619626
+CTGF	GeneProduct	Entrez Gene	1490	311.6932773109243,340.0
+NR2C2	GeneProduct	Entrez Gene	7182	665.4915966386559,258.15966386554635
+LTBP1	GeneProduct	Entrez Gene	4052	423.5088202866591,26.56449834619626
+MAPK14	GeneProduct	Entrez Gene	1432	779.4873949579829,258.0
+ANG2	GeneProduct	Entrez Gene	738	957.0,102.0
+ENG	GeneProduct	Entrez Gene	2022	810.0,116.89915966386553
+TGFBR3	GeneProduct	Entrez Gene	7049	327.61860598704766,117.25718732917647
+TGFBR1	GeneProduct	Entrez Gene	7046	570.0,118.0
+Development and maintenance  of cardiovascular structure  and function				560.0,481.0
+SMAD2	GeneProduct	Entrez Gene	4087	453.4873949579824,138.3361344537813
+SMAD3	GeneProduct	Entrez Gene	4088	453.4873949579824,158.3361344537813
+ECM remodeling				560.0,446.0
+AGTR1	GeneProduct	Entrez Gene	185	957.0,122.0
+SERPINE1	GeneProduct	Entrez Gene	5054	414.89915966386536,340.0
+Endocardial and epicardial EMT		Wikidata	Q14883191	560.0,386.0
+FBN2	GeneProduct	Entrez Gene	2201	478.6356119073868,46.56449834619626
+FBN3	GeneProduct	Entrez Gene	84467	478.63561190738676,66.56449834619616
+LTBP2	GeneProduct	Entrez Gene	4053	423.50882028665904,46.56449834619626
+FLNA	GeneProduct	Entrez Gene	2316	378.4101433296576,165.07231337959655
+SMAD2	GeneProduct	Entrez Gene	4087	281.7647058823517,240.77310924369732
+SMAD3	GeneProduct	Entrez Gene	4088	281.7647058823517,260.77310924369743
+Cardiomyopathy		Wikidata	Q847583	924.0,411.0
+Aortic aneurysm		Wikidata	Q616003	924.0,431.0
+Hypertension		Wikidata	Q41861	924.0,451.0
+Atherosclerosis		Wikidata	Q12252367	924.0,471.0
+Kawasaki disease		Wikidata	Q265936	924.0,491.0
+Neural crest migration		Other	GO:0001755	560.0,426.0
+Cell differentiation		Wikidata	Q210861	560.0,406.0

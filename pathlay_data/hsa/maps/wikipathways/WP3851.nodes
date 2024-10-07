@@ -1,0 +1,34 @@
+TEXT	TYPE	DB	ID	X	Y
+TLR4 signaling and tolerance	hsa	wikipathways	WP3851
+Ikki	GeneProduct	Uniprot-TrEMBL	Q14164	717.0,312.0
+TNF	GeneProduct	Entrez Gene	7124	118.5,538.0
+TIRAP	GeneProduct	Entrez Gene	114609	513.0,105.0
+IRF3	GeneProduct	Entrez Gene	3661	692.0,451.0
+IRAK1	GeneProduct	Entrez Gene	3654	382.0,238.0
+MAL	GeneProduct	Entrez Gene	4118	513.0,125.0
+IRAK-M	GeneProduct	Uniprot-TrEMBL	Q9Y616	145.0,324.0
+TRAF6	GeneProduct	Entrez Gene	7189	531.0,279.0
+IKKa	GeneProduct	Uniprot-TrEMBL	O15111	296.0,385.0
+TRIF	GeneProduct	Entrez Gene	148022	712.0,226.0
+TAK1	GeneProduct	Entrez Gene	7182	426.0,322.0
+MYD88	GeneProduct	Entrez Gene	4615	382.0,218.0
+IKKb	GeneProduct	Uniprot-TrEMBL	O14920	296.0,405.0
+TRAF3	GeneProduct	Entrez Gene	7187	757.0,331.0
+NFKB1	GeneProduct	Entrez Gene	4790	311.0,509.0
+TBK1	GeneProduct	Entrez Gene	29110	797.0,312.0
+NAP1	GeneProduct	Entrez Gene	257397	756.0,292.0
+RIP1	GeneProduct	Entrez Gene	10928	579.0,324.0
+IFNB	GeneProduct	Entrez Gene	3456	934.9567901234568,622.3518518518521
+TAB2	GeneProduct	Entrez Gene	23118	426.0,362.0
+TRAM	GeneProduct	Entrez Gene	100302736	605.0,105.0
+TLR4	GeneProduct	Entrez Gene	7099	556.0,84.0
+NEMO	GeneProduct	Entrez Gene	8517	296.0,365.0
+TAB1	GeneProduct	Entrez Gene	10454	426.0,342.0
+IL6	GeneProduct	Entrez Gene	3569	119.0,558.0
+SHIP1	GeneProduct	Entrez Gene	3635	145.0,304.0
+IRAK4	GeneProduct	Entrez Gene	51135	382.0,258.0
+IkBa	GeneProduct	Uniprot-TrEMBL	P25963	311.0,489.0
+IRF3	GeneProduct	Entrez Gene	3661	692.0,613.0
+NFKB1	GeneProduct	Entrez Gene	4790	311.0,617.0
+IRF7	GeneProduct	Entrez Gene	3665	749.0,450.0
+IRF7	GeneProduct	Entrez Gene	3665	749.0,613.0

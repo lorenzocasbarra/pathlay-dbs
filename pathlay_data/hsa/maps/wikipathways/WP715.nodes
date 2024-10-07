@@ -1,0 +1,12 @@
+TEXT	TYPE	DB	ID	X	Y
+Amino acid conjugation	hsa	wikipathways	WP715
+Glycine	Metabolite	KEGG Compound	C00037	271.0,279.0
+Carboxyl amino acid conjugate	Metabolite			164.0,358.0
+Phosphate	Metabolite	KEGG Compound	C00009	298.0,162.0
+Phosphate	Metabolite	KEGG Compound	C00009	298.0,142.0
+ATP	Metabolite	KEGG Compound	C00002	296.0,92.0
+Carboxylic acid AMP ester	Metabolite			164.74166666666667,187.98333333333332
+L-Glutamine	Metabolite	KEGG Compound	C00064	271.0,319.0
+Carboxylic acid	Metabolite	KEGG Compound	C00060	164.48333333333332,69.98333333333333
+Carboxyl CoA	Metabolite			164.0,279.0
+Taurine	Metabolite	KEGG Compound	C00245	271.0,299.0

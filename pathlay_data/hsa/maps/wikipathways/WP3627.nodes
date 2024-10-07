@@ -1,0 +1,14 @@
+TEXT	TYPE	DB	ID	X	Y
+Gut-liver indole metabolism 	hsa	wikipathways	WP3627
+indoxyl	Metabolite	KEGG Compound	C05658	801.0,247.0
+IPA	Metabolite	ChEBI	CHEBI:43580	223.0,329.0
+tryptophanase	GeneProduct	Enzyme Nomenclature	4.1.99.1	199.0,199.0
+sulfotransferase	GeneProduct			701.8609831029174,305.6989247311828
+indole	Metabolite	KEGG Compound	C00463	106.0,279.0
+dietary tryptophan	Metabolite	ChEBI	CHEBI:27897	106.0,134.5
+CYP2E1	GeneProduct	Entrez Gene	1571	691.0,200.0
+indole	Metabolite	KEGG Compound	C00463	461.0,155.0
+indole	Metabolite	KEGG Compound	C00463	603.0,248.0
+IPA	Metabolite	ChEBI	CHEBI:43580	465.0,328.0
+indoxyl sulfate	Metabolite	ChEBI	CHEBI:43355	803.0,374.0
+indoxyl sulfate	Metabolite	ChEBI	CHEBI:43355	463.0,394.0

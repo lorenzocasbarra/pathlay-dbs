@@ -1,0 +1,32 @@
+TEXT	TYPE	DB	ID	X	Y
+Interleukin-1 induced activation of NF-kB	hsa	wikipathways	WP3656
+AJUBA	GeneProduct	Entrez Gene	84962	412.0,425.0
+PKCZ	GeneProduct	Ensembl	ENSG00000067606	412.0,451.0
+PKCZ	GeneProduct	Ensembl	ENSG00000067606	527.25,280.25
+IL-1	GeneProduct	Entrez Gene	3553	349.75,93.25
+SQSTM1	GeneProduct	Entrez Gene	8878	527.25,300.25
+ATP	Metabolite	KEGG Compound	C00002	442.01492537313425,525.0447761194029
+NF-KB	GeneProduct	Uniprot-TrEMBL	P19838	349.35915492957736,848.5633802816901
+TRAF6	GeneProduct	Entrez Gene	7189	368.0,194.0
+AJUBA	GeneProduct	Entrez Gene	84962	200.5,290.0
+TIFA	GeneProduct	Entrez Gene	92610	332.0,477.5
+SQSTM1	GeneProduct	Entrez Gene	8878	412.0,477.0
+UEV1A	GeneProduct	Entrez Gene	7335	306.25,197.5
+TIFA	GeneProduct	Entrez Gene	92610	368.0,248.5
+UBC13	GeneProduct	Entrez Gene	7334	269.25,403.5
+UEV1A	GeneProduct	Entrez Gene	7335	269.25,428.5
+ADP	Metabolite	KEGG Compound	C00008	435.04477611940274,603.2985074626864
+PKCZ	GeneProduct	Ensembl	ENSG00000067606	676.625,249.25
+UBC13	GeneProduct	Entrez Gene	7334	306.25,172.5
+SQSTM1	GeneProduct	Entrez Gene	8878	677.625,332.25
+TRAF6	GeneProduct	Entrez Gene	7189	332.0,423.0
+IRAK1	GeneProduct	Entrez Gene	3654	332.0,450.5
+IRAK1	GeneProduct	Entrez Gene	3654	368.0,221.5
+AJUBA	GeneProduct	Entrez Gene	84962	412.0,686.0
+PKCZ	GeneProduct	Ensembl	ENSG00000067606	412.0,712.0
+TIFA	GeneProduct	Entrez Gene	92610	332.0,738.5
+SQSTM1	GeneProduct	Entrez Gene	8878	412.0,738.0
+UBC13	GeneProduct	Entrez Gene	7334	269.25,664.5
+UEV1A	GeneProduct	Entrez Gene	7335	269.25,689.5
+TRAF6	GeneProduct	Entrez Gene	7189	332.0,684.0
+IRAK1	GeneProduct	Entrez Gene	3654	332.0,711.5

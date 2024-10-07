@@ -1,0 +1,23 @@
+TEXT	TYPE	DB	ID	X	Y
+Hunger and satiety	hsa	wikipathways	WP5445
+		Wikidata	Q164386	172.0,195.5
+		Wikidata	Q444192	172.25,148.5
+		Wikidata	Q253246	172.0,248.25
+Stomach		Wikidata	Q1029907	295.0,415.25
+Intestine		Wikidata	Q9639	173.0,416.0
+Adipose		Wikidata	Q193583	54.5,415.5
+GLP-1 secretion	Pathway	WikiPathways	WP5446	137.0,407.5
+Leptin	GeneProduct	Entrez Gene	3952	54.0,366.0
+MC4R	GeneProduct	Entrez Gene	4160	209.0,148.0
+Homeostatic regulation of feeding		Wikidata	Q5377024	209.5,63.0
+POMC	GeneProduct	Entrez Gene	5443	137.0,246.0
+NPY	GeneProduct	Entrez Gene	4852	231.0,246.0
+AGRP	GeneProduct	Entrez Gene	181	291.0,246.0
+LEP	GeneProduct	Entrez Gene	3952	54.0,419.0
+GHRL	GeneProduct	Entrez Gene	51738	295.0,419.0
+GCG	GeneProduct	Entrez Gene	2641	137.0,419.0
+PYY	GeneProduct	Entrez Gene	5697	212.0,366.0
+Satiety		Wikidata	Q1562684	93.66666666666666,197.0
+Hunger		Wikidata	Q165947	297.5,197.0
+GLP-1	Protein	Other	https://www.wikidata.org/wiki/Q424611	137.0,366.0
+Ghrelin	Protein	Uniprot-TrEMBL	Q5Y392	295.0,366.0

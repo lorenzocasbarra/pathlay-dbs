@@ -1,0 +1,17 @@
+TEXT	TYPE	DB	ID	X	Y
+Butyrate-induced histone acetylation	hsa	wikipathways	WP2366
+Butyrate	Metabolite	KEGG Compound	C00246	322.0,27.0
+Butyrate	Metabolite	KEGG Compound	C00246	323.0,192.0
+Butyrate	Metabolite	KEGG Compound	C00246	323.0,106.0
+Citrate	Metabolite	KEGG Compound	C00158	396.0,316.0
+Citrate	Metabolite	KEGG Compound	C00158	549.0,316.0
+Acetyl CoA	Metabolite	ChEBI	CHEBI:15351	324.0,250.0
+Glucose	Metabolite	KEGG Compound	C00031	550.0,31.0
+Acetyl CoA	Metabolite	ChEBI	CHEBI:15351	707.0,316.0
+Lipid biosynthesis	Pathway	WikiPathways	WP357	708.0,167.5
+AKT	GeneProduct	Entrez Gene	207	551.0,119.0
+ACL	GeneProduct	Entrez Gene	47	550.0,251.0
+TCA cycle	Pathway	WikiPathways	WP78	314.0,299.0
+Acetylated Histone	Complex	Wikidata	Q36293	705.5,463.0
+HDACs	Protein	InterPro	IPR000286	516.0,502.0
+Butyrate	Metabolite	KEGG Compound	C00246	388.0,502.0

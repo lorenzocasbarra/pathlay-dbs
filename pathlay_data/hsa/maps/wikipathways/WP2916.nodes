@@ -1,0 +1,19 @@
+TEXT	TYPE	DB	ID	X	Y
+Interactome of polycomb repressive complex 2 (PRC2) 	hsa	wikipathways	WP2916
+MTF2	GeneProduct	Entrez Gene	22823	48.0,198.0
+ELL	GeneProduct	Entrez Gene	8178	283.0,278.0
+JMJ	GeneProduct	Entrez Gene	3720	535.5,191.0
+TRIM35	GeneProduct	Entrez Gene	23087	454.5,54.0
+STK38	GeneProduct	Entrez Gene	11329	281.5,60.0
+THRAP3	GeneProduct	Entrez Gene	9967	535.5,275.0
+BCLAF1	GeneProduct	Entrez Gene	9774	619.0,234.0
+STK38	GeneProduct	Entrez Gene	11329	607.0,155.0
+SETX	GeneProduct	Entrez Gene	23064	593.0,111.0
+MORC3	GeneProduct	Entrez Gene	23515	535.5,83.0
+RBBP7	GeneProduct	Entrez Gene	5931	318.5,126.0
+AEBP2	GeneProduct	Entrez Gene	121536	332.0,197.0
+EZH2	GeneProduct	Entrez Gene	2146	332.0,173.0
+EED	GeneProduct	Entrez Gene	8726	283.5,173.5
+SUZ12	GeneProduct	Entrez Gene	23512	283.5,197.0
+EZH1	GeneProduct	Entrez Gene	2145	231.0,173.0
+RBBP4	GeneProduct	Entrez Gene	5928	231.0,197.0

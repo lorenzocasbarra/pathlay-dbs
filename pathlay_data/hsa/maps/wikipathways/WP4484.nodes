@@ -1,0 +1,20 @@
+TEXT	TYPE	DB	ID	X	Y
+Control of immune tolerance by vasoactive intestinal peptide	hsa	wikipathways	WP4484
+CD95	GeneProduct	Entrez Gene	355	781.1963589072494,332.09996656119375
+IL12A	GeneProduct	Entrez Gene	3592	341.0,321.0
+IL12B	GeneProduct	Entrez Gene	3592	341.0,341.0
+IFNG	GeneProduct	Entrez Gene	3458	455.0,441.0
+IL2	GeneProduct	Entrez Gene	3558	455.0,461.0
+IL4	GeneProduct	Entrez Gene	3565	838.0,441.0
+IL5	GeneProduct	Entrez Gene	3567	838.0,461.0
+IL10	GeneProduct	Entrez Gene	3586	838.0,481.0
+CTLA4	GeneProduct	Entrez Gene	1493	1259.0,441.0
+TGFB	GeneProduct	Entrez Gene	7040	1259.0,481.0
+VIP	GeneProduct	Entrez Gene	7432	661.1706848144531,88.0
+MHCII	GeneProduct	Reactome	R-HSA-8951502	593.0,189.0
+TCR	GeneProduct	Entrez Gene	6962	725.0,189.0
+CD80	GeneProduct	Entrez Gene	941	592.0,234.0
+CD86	GeneProduct	Entrez Gene	942	592.0,254.0
+CD28	GeneProduct	Entrez Gene	940	725.0,244.0
+IL10	GeneProduct	Entrez Gene	3586	1259.0,461.0
+CD86	GeneProduct	Entrez Gene	942	780.8374289425373,369.0249367463056

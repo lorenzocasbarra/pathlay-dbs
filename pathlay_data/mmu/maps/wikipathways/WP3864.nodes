@@ -1,0 +1,8 @@
+TEXT	TYPE	DB	ID	X	Y
+Robo4 and VEGF signaling pathways crosstalk	mmu	wikipathways	WP3864
+Robo4	GeneProduct	Entrez Gene	74144	156.49498997996008,143.3186372745491
+Slit2	GeneProduct	Entrez Gene	20563	156.24298597194388,72.42735470941884
+VEGFR2	GeneProduct	Entrez Gene	16542	332.25,143.25
+Rac1	GeneProduct	Entrez Gene	19353	332.25,300.75
+Vegfa	GeneProduct	Entrez Gene	22339	332.0,69.0
+Src	GeneProduct	Entrez Gene	20779	332.8276553106236,224.48697394789556

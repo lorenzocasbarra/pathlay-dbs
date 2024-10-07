@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Role of carnosine in muscle contraction	hsa	wikipathways	WP4486
+Carnosinase	Protein			450.52515201768927,158.5160616669739
+carnosinase	Protein	Enzyme Nomenclature	3.4.13.3	576.1522633744852,135.0
+carnosine  synthetase	Protein	Enzyme Nomenclature	6.3.2.11	252.96081321786144,204.0144800687918
+Carnosine	Metabolite	KEGG Compound	C00386	500.1522633744852,55.0
+beta-alanine	Metabolite	KEGG Compound	C00099	253.1790123456795,163.0
+Carcinine	Metabolite	Wikidata	Q27892933	105.30587801732085,220.0
+histamine	Metabolite	KEGG Compound	C00388	105.30587801732085,282.3086419753089
+Histidine	Metabolite	KEGG Compound	C00768	253.1790123456795,307.0
+Carnosine	Metabolite	KEGG Compound	C00386	500.6522633744852,220.0
+Ophidine	Metabolite	PubChem-compound	90658938	704.1522633744852,142.0
+Anserine	Metabolite	KEGG Compound	C01262	704.1522633744852,220.0
+AcetylAnserine	Metabolite			851.1522633744852,220.0
+Acetylcarnosine	Metabolite	Wikidata	Q4673297	704.1522633744852,284.0
+Homocarnosine	Metabolite	KEGG Compound	C00884	522.0,390.0
+Homoanserine	Metabolite	PubChem-compound	20849429	663.0,390.0
+gamma-aminobutyric acid	Metabolite	KEGG Compound	C00334	459.5,464.0

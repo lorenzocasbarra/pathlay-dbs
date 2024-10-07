@@ -1,0 +1,18 @@
+TEXT	TYPE	DB	ID	X	Y
+Mitochondrial complex I inhibition leading to parkinsonian motor deficits	hsa	wikipathways	WP4945
+KE888: Binding of inhibitor,  NADH-ubiquinone oxidoreductase (complex I)	Event	AOP-Wiki KE	888	380.27314814814827,176.75
+MMP+	Event	AOP-Wiki Stressor	222	330.0,79.0
+Decreased mitochondrial oxidative phosphorylation	Pathway	WikiPathways	WP111	380.2731481481483,350.1429765886289
+Assembly of mitochondrial complex I	Pathway	WikiPathways	WP4324	680.022312027746,205.7107023411374
+Impaired proteostasis	Pathway	WikiPathways	WP4918	380.2731481481483,480.4722222222212
+Unfolded Protein Response	Pathway	WikiPathways	WP4925	380.27314814814827,505.4722222222212
+Rotenone	Event	AOP-Wiki Stressor	50	444.0,79.0
+KE887: Inhibition,  NADH-ubiquinone oxidoreductase (complex I)	Event	AOP-Wiki KE	887	380.27314814814827,232.42282711652788
+KE177: N/A, Mitochondrial dysfunction 1	Event	AOP-Wiki KE	177	380.27314814814827,324.64297658862887
+KE889: Impaired, Proteostasis 	Event	AOP-Wiki KE	889	380.27314814814827,455.22222222222126
+Degeneration of DA neurons  of nigrostratial pathway	Pathway	WikiPathways	WP2855	380.2731481481483,645.5972222222213
+Parkinsonian motor deficits	Pathway	WikiPathways	WP2371	380.27314814814827,776.4722222222211
+Neuroinflammation	Pathway	WikiPathways	WP4919	816.8592725500621,639.7736576289198
+KE188: N/A, Neuroinflammation	Event	AOP-Wiki KE	188	816.8592725500621,614.5236576289198
+KE890: Degeneration of dopaminergic neurons of the nigrostriatal pathway	Event	AOP-Wiki KE	890	380.27314814814827,615.2222222222213
+KE896: Parkinsonian motor deficits	Event	AOP-Wiki KE	896	380.27314814814827,751.2222222222213

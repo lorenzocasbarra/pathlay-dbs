@@ -1,0 +1,15 @@
+TEXT	TYPE	DB	ID	X	Y
+Hypothetical craniofacial development pathway	hsa	wikipathways	WP3655
+RHOA	GeneProduct	Entrez Gene	387	225.0,224.0
+ARHGAP29	GeneProduct	Entrez Gene	9411	354.0,172.0
+IRF6	GeneProduct	Entrez Gene	3664	354.0,127.0
+GEF	GeneProduct	Entrez Gene	56731	354.25,299.75
+Cell Migration	Pathway			651.0,221.5
+TFAP2A	GeneProduct	Entrez Gene	7020	302.0,67.0
+TP63	GeneProduct	Entrez Gene	8626	467.0,69.0
+WNT Signaling	Pathway	WikiPathways	WP428	92.0,203.0
+RHOA	GeneProduct	Entrez Gene	387	481.0,225.0
+GTP	Metabolite	KEGG Compound	C00044	225.0,244.0
+TGFB3	GeneProduct	Entrez Gene	7043	226.0,127.0
+GDP	Metabolite	KEGG Compound	C00035	481.0,245.0
+EMT	Pathway			648.0,248.5

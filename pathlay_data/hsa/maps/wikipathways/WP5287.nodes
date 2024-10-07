@@ -1,0 +1,279 @@
+TEXT	TYPE	DB	ID	X	Y
+17q12 copy number variation syndrome	hsa	wikipathways	WP5287
+Brain-derived  neurotrophic factor  (BDNF) signaling pathway	Pathway	WikiPathways	WP2380	1092.375,1828.0
+Uncharacterized  protein C17orf50	GeneProduct	Entrez Gene	146853	1425.083333333334,730.0
+Migration and  invasion enhancer 1	GeneProduct	Entrez Gene	84299	2967.75,2102.0
+Pre-mRNA-splicing  factor CWC25 homolog 	GeneProduct	Entrez Gene	54883	2736.000000000002,1618.0
+CCL5	GeneProduct	Entrez Gene	6352	1746.0,657.0
+Growth factor  receptor-bound protein 7 	GeneProduct	Entrez Gene	2886	3076.0,2102.0
+RNA Polymerase II  Transcription	Pathway	WikiPathways	WP1906	918.375,1738.0
+TBC1D3H	GeneProduct	Entrez Gene	729877	1321.0,1088.0
+Hepatocyte growth  factor receptor signaling	Pathway	WikiPathways	WP313	970.5,1798.0
+SOCS7	GeneProduct	Entrez Gene	30837	1775.0,1543.0
+Methionine metabolism  leading to sulfur amino acids and related disorders	Pathway	WikiPathways	WP4292	2586.760869565218,2232.0
+Plexin  domain-containing  protein 1 	GeneProduct	Entrez Gene	57125	1469.75,2102.0
+TAF15	GeneProduct	Entrez Gene	8148	1532.0,657.0
+CDGSH iron-sulfur  domain-containing  protein 3, mitochondrial 	GeneProduct	Entrez Gene	284106	2415.75,1618.0
+CCL4	GeneProduct	Entrez Gene	6351	679.0,1088.0
+C-C motif  chemokine 7	GeneProduct	Entrez Gene	6354	580.3666666666666,290.0
+T-complex protein 1  subunit zeta-2 	GeneProduct	Entrez Gene	10693	1329.0,290.0
+C17orf78 	GeneProduct	Ensembl	ENSG00000278505	2391.0,1088.0
+GGNBP2	GeneProduct	Entrez Gene	79893	1749.0,1088.0
+STARD3	GeneProduct	Entrez Gene	10948	2433.0,2019.0
+MYO19	GeneProduct	Entrez Gene	80179	1535.0,1088.0
+GAS2L2	GeneProduct	Entrez Gene	246176	1211.0,657.0
+LIG3	GeneProduct	Entrez Gene	3980	1544.3333333333333,222.0
+ACACA	GeneProduct	Entrez Gene	31	2284.0,1088.0
+Telethonin 	GeneProduct	Entrez Gene	8557	2539.0,2102.0
+TBC1D3C	GeneProduct	Entrez Gene	414060	1347.0,1543.0
+Gamma-glutamyl  cycle for the biosynthesis  and degradation of  glutathione,  including diseases	Pathway	WikiPathways	WP4518	2710.375,1358.0
+HNF1B	GeneProduct	Entrez Gene	6928	1026.0,1543.0
+CACNB1	GeneProduct	Entrez Gene	782	1684.0,2019.0
+RFFL	GeneProduct	Entrez Gene	117584	1650.0,222.0
+PIP4K2B	GeneProduct	Entrez Gene	8396	2631.0,1544.3333333333333
+Zinc finger HIT  domain-containing  protein 3	GeneProduct	Entrez Gene	9326	1429.75,1158.0
+C-C motif  chemokine 1	GeneProduct	Entrez Gene	6346	1008.25,290.0
+MIEN1	GeneProduct	Entrez Gene	84299	2968.0,2020.0
+Zinc finger  protein 830 	GeneProduct	Entrez Gene	91603	1436.0,290.0
+TEC	GeneProduct	Entrez Gene	100124696	2310.0,1543.0
+Familial  hyperlipidemia  type 3 	Pathway	WikiPathways	WP5110	1866.0598589348597,400.0
+Hepatitis B infection	Pathway	WikiPathways	WP4666	2078.870628961271,460.0
+Protein unc-45  homolog B	GeneProduct	Entrez Gene	146862	2078.0,290.0
+Voltage-dependent  L-type calcium  channel subunit beta-1	GeneProduct	Entrez Gene	782	1684.0,2102.0
+Peroxisomal lipid metabolism	Pathway	WikiPathways	WP1878	2433.489130434785,2232.0
+Uncharacterized  protein C17orf78 	GeneProduct	Entrez Gene	284099	2389.75,1158.0
+Gametogenetin-binding  protein 2	GeneProduct	Entrez Gene	79893	1749.0,1158.0
+Host Interactions  of HIV factors	Pathway	WikiPathways	WP2684	569.5,830.0
+NLE1	GeneProduct	Entrez Gene	54475	1970.0,222.0
+Prolactin  receptor signaling	Pathway	WikiPathways	WP2678	1774.4166666666674,1738.0
+PIGW	GeneProduct	Entrez Gene	284098	1642.0,1088.0
+Schlafen family  member 11	GeneProduct	Entrez Gene	91607	463.0236021015625,730.0
+CCL18	GeneProduct	Entrez Gene	6362	2388.0,657.0
+TBC1 domain  family member 3H	GeneProduct	Entrez Gene	729877	1320.75,1158.0
+DDX52	GeneProduct	Entrez Gene	11056	919.0,1543.0
+Polycomb group  RING finger protein 2	GeneProduct	Entrez Gene	7703	2523.9999999999995,1618.0
+Protein AF-17	GeneProduct	Entrez Gene	4302	2202.6666666666633,1618.0
+DHRS11	GeneProduct	Entrez Gene	79154	1856.0,1088.0
+C-C motif  chemokine 13	GeneProduct	Entrez Gene	6357	901.0833333333335,290.0
+PGAP3	GeneProduct	Entrez Gene	93210	2754.0,2020.0
+IKZF3	GeneProduct	Entrez Gene	22806	3182.0,2020.0
+MMP28	GeneProduct	Entrez Gene	79148	1318.0,657.0
+StAR-related  lipid transfer protein 3 	GeneProduct	Entrez Gene	10948	2433.0,2102.0
+LASP1	GeneProduct	Entrez Gene	3927	1256.0,2019.0
+ARL5C	GeneProduct	Entrez Gene	390790	1577.0,2019.0
+MRPL45	GeneProduct	Entrez Gene	84311	1561.0,1543.0
+GPR179	GeneProduct	Entrez Gene	440435	1668.0,1543.0
+Transcriptional  adapter 2-alpha	GeneProduct	Entrez Gene	6871	2496.75,1158.0
+C-C motif  chemokine 3-like 1	GeneProduct	Entrez Gene	4140626349;	892.0000000000001,1158.0
+SLFN11	GeneProduct	Entrez Gene	91607	462.0,657.0
+EPOP	GeneProduct	Entrez Gene	100170841	2096.0,1543.0
+C-C motif  chemokine 18	GeneProduct	Entrez Gene	6362	2389.0833333333367,730.0
+Receptor tyrosine-protein  kinase erbB-2	GeneProduct	Entrez Gene	2064	2861.0,2102.0
+ARHGAP23	GeneProduct	Entrez Gene	57636	1882.0,1543.0
+Ras-like protein family member 10B	GeneProduct	Entrez Gene	91608	1105.3333333333348,730.0
+C-C motif  chemokine 2	GeneProduct	Entrez Gene	6347	473.05,290.0
+Class I peroxisomal  membrane protein  import	Pathway	WikiPathways	WP4987	1640.5,1288.0
+RAF/MAP  kinase cascade	Pathway	WikiPathways	WP2735	2308.0,1740.0
+Ribonuclease  SLFN12	GeneProduct	Entrez Gene	55106	569.0833333333326,730.0
+C-C motif  chemokine 16 	GeneProduct	Entrez Gene	6360	2067.7499999999964,730.0
+Pathway	Pathway			3341.75,540.75
+SLC35G3	GeneProduct	Entrez Gene	146861	2185.0,222.0
+ SLFN14	GeneProduct	Ensembl	ENSG00000236320	783.0,657.0
+CISD3	GeneProduct	Entrez Gene	284106	2417.0,1543.0
+Ion channel transport 	Pathway	WikiPathways	WP4098	259.25000000000034,400.0
+Protein HEATR9	GeneProduct	Entrez Gene	256957	1638.6666666666674,730.0
+C-C motif  chemokine 8	GeneProduct	Entrez Gene	6355	793.3525000000001,290.0
+NRF2 pathway 	Pathway	WikiPathways	WP2884	2220.1666666666642,2232.0
+Notchless protein  homolog 1 	GeneProduct	Entrez Gene	54475	1970.0,290.0
+p53 transcriptional  gene network	Pathway	WikiPathways	WP4963	2496.375,1288.0
+Protein phosphatase 1  regulatory subunit 1B	GeneProduct	Entrez Gene	84152	2326.75,2102.0
+SLFN12	GeneProduct	Entrez Gene	55106	569.0,657.0
+MED1	GeneProduct	Entrez Gene	5469	2005.0,2018.0
+39S ribosomal  protein L45,  mitochondrial	Protein	Uniprot-TrEMBL	Q9BRJ2	1559.9999999999993,1618.0
+LIM/homeobox  protein Lhx1 	GeneProduct	Entrez Gene	3975	2070.25,1158.0
+Eotaxin	GeneProduct	Entrez Gene	6356	687.2999999999994,290.0
+UNC45B	GeneProduct	Entrez Gene	146862	2078.0,222.0
+CCL11 	GeneProduct	Ensembl	ENSG00000172156	687.0,222.0
+F-box/LRR- repeat protein 20	GeneProduct	Entrez Gene	84961	1897.75,2102.0
+TBC1 domain  family member 3C	GeneProduct	Entrez Gene	101060321414060;729873;	1346.666666666667,1618.0
+CCT6B	GeneProduct	Entrez Gene	10693	1329.0,222.0
+GRB7	GeneProduct	Entrez Gene	2886	3075.0,2020.0
+Acid-sensing  ion channel 2	GeneProduct	Entrez Gene	40	258.99999999999955,290.0
+AP2B1	GeneProduct	Entrez Gene	163	997.0,657.0
+DNA repair protein  RAD51 homolog 4	GeneProduct	Entrez Gene	5892	1757.125,290.0
+RASL10B	GeneProduct	Entrez Gene	91608	1104.0,657.0
+Degradation of  beta-catenin  by the destruction  complex 	Pathway	WikiPathways	WP2773	996.5,830.0
+Zinc finger protein  Aiolos 	GeneProduct	Entrez Gene	22806	3182.0,2102.0
+CDK12	GeneProduct	Entrez Gene	51755	2112.0,2019.0
+PLXDC1	GeneProduct	Entrez Gene	57125	1470.0,2019.0
+Schlafen family  member 5	GeneProduct	Entrez Gene	162394	2292.75,290.0
+HEATR9	GeneProduct	Entrez Gene	256957	1639.0,657.0
+TATA-binding  protein-associated  factor 2N	GeneProduct	Entrez Gene	8148	1531.749999999999,730.0
+Mitochondrial  iron-sulfur  cluster biogenesis 	Pathway	WikiPathways	WP2702	2415.833333333333,1738.0
+SRC kinase  signaling inhibitor 1	GeneProduct	Entrez Gene	80725	1989.7500000000005,1618.0
+TBC1 domain  family member 3	GeneProduct	Entrez Gene	414060729873;	1453.3333333333333,1618.0
+CCL7	GeneProduct	Entrez Gene	6354	580.0,222.0
+STAC2	GeneProduct	Entrez Gene	342667	1791.0,2019.0
+Protein  folding	Pathway	WikiPathways	WP1892	1328.1613727992974,400.0
+TCAP	GeneProduct	Entrez Gene	8557	2540.0,2019.75
+Transmembrane  protein 132E	GeneProduct	Entrez Gene	124842	1221.75,290.0
+Unconventional  myosin-XIX	GeneProduct	Entrez Gene	80179	1536.0,1158.0
+Elongin BC and Polycomb  repressive  complex 2-associated  protein	GeneProduct	Entrez Gene	100170841	2095.749999999999,1618.0
+Interactome of  polycomb repressive  complex 2 (PRC2)	Pathway	WikiPathways	WP2916	2094.875,1738.0
+Peroxisomal  protein import 	Pathway	WikiPathways	WP4442	2096.5,1408.75
+Factors and pathways  affecting insulin-like  growth factor (IGF1)-Akt  signaling	Pathway	WikiPathways	WP3850	3075.375,2282.0
+rRNA modification  in the mitochondrion	Pathway	WikiPathways	WP4099	1963.3333333333333,1288.0
+C-C motif  chemokine 14	GeneProduct	Entrez Gene	6358	2173.9130434782646,730.0
+C17orf50	GeneProduct	Entrez Gene	146853	1425.0,657.0
+NEUROD2	GeneProduct	Entrez Gene	4761	2219.0,2019.0
+60S ribosomal  protein L23	GeneProduct	Entrez Gene	9349	2951.7499999999995,1618.0
+Neurogenic  differentiation factor 2	GeneProduct	Entrez Gene	4761	2219.0,2102.0
+CCL1	GeneProduct	Entrez Gene	6346	1008.0,222.0
+RDM1	GeneProduct	Entrez Gene	201299	1853.0,657.0
+AP-2 complex  subunit beta	GeneProduct	Entrez Gene	163	996.7083333333328,730.0
+Probable  ATP-dependent RNA helicase DDX52	GeneProduct	Entrez Gene	11056	919.75,1618.0
+Solute carrier family  35 member G3	GeneProduct	Entrez Gene	146861	2185.75,290.0
+PCGF2	GeneProduct	Entrez Gene	7703	2524.0,1543.0
+TBC1 domain  family member 3K	GeneProduct	Entrez Gene	101060351	1133.75,1618.0
+PNMT	GeneProduct	Entrez Gene	5409	2647.0,2020.0
+Synergin gamma	GeneProduct	Entrez Gene	11276	2711.5,1158.0
+Dehydrogenase/ reductase  SDR family member 11	GeneProduct	Entrez Gene	79154	1856.0,1158.0
+PEX12	GeneProduct	Entrez Gene	5193	890.0,657.0
+Hepatocyte nuclear factor 1-beta	GeneProduct	Entrez Gene	6928	1026.75,1618.0
+Protein	Protein			3342.75,632.0
+Phenylethanolamine  N-methyltransferase 	GeneProduct	Entrez Gene	5409	2649.9239130434785,2102.0
+Cyclin-dependent  kinase 12 	GeneProduct	Entrez Gene	51755	2112.0,2102.0
+DNA ligase 3 	GeneProduct	Entrez Gene	3980	1543.0416666666665,290.0
+C-C motif  chemokine 4	GeneProduct	Entrez Gene	3883726351;	679.4166666666665,1158.0
+DUSP14	GeneProduct	Entrez Gene	11072	2605.0,1088.0
+Phosphatidylinositol-glycan  biosynthesis class W protein	GeneProduct	Entrez Gene	284098	1641.75,1158.0
+EGFR tyrosine  kinase inhibitor  resistance	Pathway	WikiPathways	WP4806	1990.0416666666679,1738.0
+Mitochondrial  protein import	Pathway	WikiPathways	WP2717	1559.75,1738.0
+TADA2A	GeneProduct	Entrez Gene	6871	2498.0,1088.0
+CCL16	GeneProduct	Entrez Gene	6360	2067.0,657.0
+TBC1 domain  family member 3L	GeneProduct	Entrez Gene	101060376	1240.0,1618.0
+Putative  ADP-ribosylation  factor-like protein 5C	GeneProduct	Entrez Gene	390790	1576.75,2102.0
+CCL3L1	GeneProduct	Entrez Gene	6349	893.0,1088.0
+LHX1	GeneProduct	Entrez Gene	3975	2070.0,1088.0
+TBC1D3B	GeneProduct	Entrez Gene	414059	786.0,1088.0
+G-protein beta gamma signaling	Pathway	WikiPathways	WP4428	1667.125,1738.0
+Rho GTPase-activating  protein 23	GeneProduct	Entrez Gene	57636	1881.0833333333337,1618.0
+FNDC8	GeneProduct	Entrez Gene	54752	1864.0,222.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	2241.426588688379,400.0
+TBC1 domain  family member 3G 	GeneProduct	Entrez Gene	101060321	1213.7499999999998,1158.0
+Dual specificity  protein  phosphatase 14	GeneProduct	Entrez Gene	11072	2604.75,1158.0
+TBC1D3K	GeneProduct	Entrez Gene	101060351	1133.0,1543.0
+Peroxisome assembly  protein 12	GeneProduct	Entrez Gene	5193	890.4166666666665,730.0
+Protein AATF 	GeneProduct	Entrez Gene	26574	2177.0,1158.0
+MRM1	GeneProduct	Entrez Gene	79922	1963.0,1088.0
+RPL23	GeneProduct	Entrez Gene	9349	2952.0,1543.0
+TMEM132E-DT	Protein	Uniprot-TrEMBL	A2RUQ5	1114.75,290.0
+CCL13	GeneProduct	Entrez Gene	6357	901.0,222.0
+FBXL20	GeneProduct	Entrez Gene	84961	1898.0,2019.0
+TBC1D3	GeneProduct	Entrez Gene	729873	1454.0,1543.0
+C-C motif  chemokine 15	GeneProduct	Entrez Gene	6359	2281.333333333337,730.0
+TBC1D3I	GeneProduct	Entrez Gene	102724862	1107.0,1088.0
+SH3 and cysteine-rich  domain-containing protein 2 	GeneProduct	Entrez Gene	342667	1791.75,2102.0
+CCL15	GeneProduct	Entrez Gene	6359	2281.0,658.797579665493
+Presynaptic  depolarization and calcium channel opening	Pathway	WikiPathways	WP1800	1685.0,2232.0
+Suppressor of cytokine  signaling 7 	GeneProduct	Entrez Gene	30837	1774.416666666667,1618.0
+PPP1R1B	GeneProduct	Entrez Gene	84152	2326.0,2019.0
+C-C motif  chemokine 3	GeneProduct	Entrez Gene	6348	2495.7499999999995,730.0
+ZNF830	GeneProduct	Entrez Gene	91603	1436.0,222.0
+GAS2-like protein 2	GeneProduct	Entrez Gene	246176	1209.4999999999995,730.0
+LYZL6	GeneProduct	Entrez Gene	57151	1960.0,657.0
+CCL8	GeneProduct	Entrez Gene	6355	794.0,222.0
+DNA repair  pathways	Pathway	WikiPathways	WP4946	1757.7829128521125,400.0
+TBC1 domain  family member 3B	GeneProduct	Entrez Gene	414059	786.4166666666664,1158.0
+ERBB2	GeneProduct	Entrez Gene	2064	2861.0,2020.0
+Nuclear  receptors	Pathway	WikiPathways	WP170	1027.375,1738.0
+Schlafen family member 13	GeneProduct	Entrez Gene	146857	676.7083333333342,730.0
+Matrix  metalloproteinase-28	GeneProduct	Entrez Gene	79148	1318.416666666667,730.0
+DNA replication	Pathway	WikiPathways	WP466	1543.1273970070417,400.0
+Post-GPI attachment  to proteins factor 3 	GeneProduct	Entrez Gene	93210	2754.0,2102.0
+Protein SLFN14	GeneProduct	Entrez Gene	342618	782.4166666666663,730.0
+ASIC2 	GeneProduct	Ensembl	ENSG00000108684	259.0,222.0
+AATF	GeneProduct	Entrez Gene	26574	2177.0,1088.0
+Fibronectin type III  domain-containing  protein 8	GeneProduct	Entrez Gene	54752	1864.0,290.0
+Gene	GeneProduct			3339.75,697.75
+ZNHIT3	GeneProduct	Entrez Gene	9326	1428.0,1088.0
+Tyrosine-protein  kinase Tec 	GeneProduct	Entrez Gene	7006	2309.0833333333335,1618.0
+SRCIN1	GeneProduct	Entrez Gene	80725	1989.0,1543.0
+MLLT6	GeneProduct	Entrez Gene	4302	2203.0,1543.0
+C-C motif  chemokine 4-like 	GeneProduct	Entrez Gene	3883729560;	999.9999999999999,1158.0
+rRNA  methyltransferase 1, mitochondrial 	GeneProduct	Entrez Gene	79922	1963.0833333333333,1159.3333333333333
+Acetyl-CoA  carboxylase 1 	GeneProduct	Entrez Gene	31	2283.75,1156.0
+SLFN5	GeneProduct	Entrez Gene	162394	2292.0,222.0
+FBXO47	GeneProduct	Entrez Gene	494188	1362.0,2019.0
+CCL4L2	GeneProduct	Entrez Gene	9560	1000.0,1088.0
+Mediator of RNA polymerase II  transcription subunit 1 	GeneProduct	Entrez Gene	5469	2005.0,2102.0
+SYNRG	GeneProduct	Entrez Gene	11276	2712.0,1088.0
+G protein  signaling  pathways	Pathway	WikiPathways	WP35	1104.5,830.0
+TBC1D3L	GeneProduct	Entrez Gene	101060376	1240.0,1543.0
+CCL3	GeneProduct	Entrez Gene	6348	2495.0,657.0
+C-C motif  chemokine 5 	GeneProduct	Entrez Gene	6352	1746.0833333333337,730.0
+C17orf98	GeneProduct	Entrez Gene	388381	2845.0,1543.0
+F-box only  protein 47	GeneProduct	Entrez Gene	494188	1362.75,2102.0
+Uncharacterized  protein C17orf98	GeneProduct	Entrez Gene	388381	2844.000000000001,1618.0
+Probable G-protein  coupled receptor 179	GeneProduct	Entrez Gene	440435	1667.9999999999993,1618.0
+TBC1 domain  family member 3I	GeneProduct	Entrez Gene	102724862	1106.416666666667,1158.0
+SLFN13	GeneProduct	Entrez Gene	146857	676.0,657.0
+TBC1D3G	GeneProduct	Entrez Gene	101060321	1214.0,1088.0
+LIM and SH3  domain protein 1 	GeneProduct	Entrez Gene	3927	1256.75,2102.0
+TMEM132E-DT	GeneProduct	Entrez Gene	400591	1115.0,222.0
+Brain-derived  neurotrophic  factor (BDNF)  signaling  pathway	Pathway	WikiPathways	WP2380	1532.75,830.0
+CCL14	GeneProduct	Entrez Gene	6358	2174.0,657.0
+E3 ubiquitin-protein  ligase rififylin	GeneProduct	Entrez Gene	117584	1650.0,289.0
+CWC25	GeneProduct	Entrez Gene	54883	2738.0,1543.0
+TMEM132E	GeneProduct	Entrez Gene	124842	1222.0,222.0
+RAD51D 	GeneProduct	Ensembl	ENSG00000185379	1757.0,222.0
+Familial hyperlipidemia type 1	Pathway	WikiPathways	WP5108	1944.950943882042,460.0
+RAD52  motif-containing  protein 1	GeneProduct	Entrez Gene	201299	1852.7499999999993,730.0
+Lysozyme-like  protein 6 	GeneProduct	Entrez Gene	57151	1959.9999999999998,730.0
+Phosphatidylinositol  5-phosphate 4-kinase  type-2 beta	GeneProduct	Entrez Gene	8396	2631.7499999999973,1618.0
+TLK2P1 	GeneProduct	Ensembl	ENSG00000226049	366.0,222.0
+CCL2	GeneProduct	Entrez Gene	6347	473.0,222.0
+Chemokine  signaling  pathway	Pathway	WikiPathways	WP3929	526.6524203345077,400.0
+Chemokine  signaling  pathway	Pathway	WikiPathways	WP3929	901.5610924295787,400.0
+Chemokine  signaling  pathway	Pathway	WikiPathways	WP3929	1745.6380572183132,830.0
+Chemokine  signaling  pathway	Pathway	WikiPathways	WP3929	2281.3288992077496,830.0
+Chemokine  signaling  pathway	Pathway	WikiPathways	WP3929	678.8878375880305,1288.0
+Chemokine  signaling  pathway	Pathway	WikiPathways	WP3929	945.9417297535233,1288.0
+E3 ubiquitin  ligases ubiquitinate  target proteins	Pathway	WikiPathways	WP4055	1650.8866040933092,460.0
+Protein folding	Pathway	WikiPathways	WP1892	2021.444066021129,400.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	463.42658868837907,830.0
+Protein folding	Pathway	WikiPathways	WP1892	833.444066021129,830.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	675.4265886883791,830.0
+Protein folding	Pathway	WikiPathways	WP1892	1313.444066021129,830.0
+Protein folding	Pathway	WikiPathways	WP1892	1639.444066021129,830.0
+Familial Hyperlipidemia type 1	Pathway	WikiPathways	WP5108	1854.950943882042,830.0
+Protein folding	Pathway	WikiPathways	WP1892	1961.444066021129,830.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	785.4265886883791,1288.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	1214.426588688379,1288.0
+Protein folding	Pathway	WikiPathways	WP1892	1429.444066021129,1288.0
+Protein  Folding	Pathway	WikiPathways	WP1892	1749.444066021129,1288.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	1856.7731824383798,1288.0
+Protein folding	Pathway	WikiPathways	WP1892	2069.444066021129,1288.0
+G protein  signaling  pathways	Pathway	WikiPathways	WP35	2044.5,1358.0
+Protein folding	Pathway	WikiPathways	WP1892	2177.444066021129,1288.0
+Familial Hyperlipidemia type 1	Pathway	WikiPathways	WP5108	2284.9509438820423,1288.0
+G protein  signaling  pathways	Pathway	WikiPathways	WP35	2604.5,1288.0
+Costimulation  by the  CD28 family	Pathway	WikiPathways	WP1799	1290.426588688379,1738.0
+Protein folding	Pathway	WikiPathways	WP1892	1880.7773993544615,1738.0
+Protein folding	Pathway	WikiPathways	WP1892	2202.7773993544615,1738.0
+Protein folding	Pathway	WikiPathways	WP1892	2524.1107326877955,1738.0
+Brain-derived  neurotrophic factor  (BDNF) signaling pathway	Pathway	WikiPathways	WP2380	2737.0416666666683,1738.0
+Protein folding	Pathway	WikiPathways	WP1892	2844.7773993544606,1738.0
+Protein folding	Pathway	WikiPathways	WP1892	2952.1107326877927,1738.0
+Familial Hyperlipidemia type 1	Pathway	WikiPathways	WP5108	1255.950943882042,2232.0
+Protein  Folding	Pathway	WikiPathways	WP1892	1362.7773993544615,2232.0
+Familial Hyperlipidemia type 1	Pathway	WikiPathways	WP5108	1469.950943882042,2232.0
+Protein  Folding	Pathway	WikiPathways	WP1892	1575.7773993544615,2232.0
+Protein  Folding	Pathway	WikiPathways	WP1892	1839.7773993544615,2232.0
+RNA Polymerase II  Transcription	Pathway	WikiPathways	WP1906	2006.0416666666665,2232.0
+RAF/MAP  kinase cascade	Pathway	WikiPathways	WP2735	2111.3333333333326,2232.0
+Protein  Folding	Pathway	WikiPathways	WP1892	2326.8063848617057,2232.0
+Brain-derived  neurotrophic factor  (BDNF) signaling pathway	Pathway	WikiPathways	WP2380	2754.0416666666683,2282.0
+RAF/MAP  kinase cascade	Pathway	WikiPathways	WP2735	2861.3333333333326,2232.0
+Familial Hyperlipidemia type 1	Pathway	WikiPathways	WP5108	2968.9509438820423,2232.0
+Protein  Folding	Pathway	WikiPathways	WP1892	3183.8063848617057,2232.0

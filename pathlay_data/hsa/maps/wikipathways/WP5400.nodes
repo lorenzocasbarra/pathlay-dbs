@@ -1,0 +1,17 @@
+TEXT	TYPE	DB	ID	X	Y
+6q16 copy number variation	hsa	wikipathways	WP5400
+NPY	GeneProduct	Entrez Gene	4852	424.0,280.0
+ARNT	GeneProduct	Entrez Gene	405	432.0,124.0
+LEP	GeneProduct	Entrez Gene	3952	100.0,254.0
+SIM1	GeneProduct	Entrez Gene	6492	550.0,66.0
+GHRL	GeneProduct	Entrez Gene	51738	100.0,304.0
+MC4R	GeneProduct	Entrez Gene	4160	594.0,191.0
+Leptin / melanocortin pathway	Pathway	WikiPathways	WP2034	241.0,345.0
+POMC	GeneProduct	Entrez Gene	5443	425.0,191.0
+BDNF	GeneProduct	Entrez Gene	627	594.0,295.0
+INSR	GeneProduct	Entrez Gene	3643	253.0,279.0
+AGRP	GeneProduct	Entrez Gene	181	425.0,344.0
+GHSR	GeneProduct	Entrez Gene	2693	253.0,304.0
+INS	GeneProduct	Entrez Gene	3630	100.0,279.0
+NTRK2	GeneProduct	Entrez Gene	4915	594.0,367.0
+LEPR	GeneProduct	Entrez Gene	3953	253.0,254.0

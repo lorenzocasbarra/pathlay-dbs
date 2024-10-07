@@ -1,0 +1,43 @@
+TEXT	TYPE	DB	ID	X	Y
+PKC-gamma calcium signaling in ataxia	hsa	wikipathways	WP4760
+GRIA2	GeneProduct	Entrez Gene	2891	159.5,180.0
+Na+	Metabolite	KEGG Compound	C01330	188.5,76.0
+HOMER3	GeneProduct	Entrez Gene	9454	658.0,184.0
+RYR3	GeneProduct	Entrez Gene	6263	746.5,423.0
+IP3	Metabolite	HMDB	HMDB0001498	393.0,285.0
+PI(3,4,5)P3	Metabolite	Wikidata	Q3078767	393.0,375.0
+TRPC3	GeneProduct	Entrez Gene	7222	897.5,161.0
+Ca2+	Metabolite	KEGG Compound	C00076	787.5,104.0
+GNAQ	GeneProduct	Entrez Gene	2776	535.5,184.0
+GRM1	GeneProduct	Entrez Gene	2911	608.0,160.0
+GRIA1	GeneProduct	Entrez Gene	2890	159.5,155.0
+CACNA1A	GeneProduct	Entrez Gene	773	788.0,160.0
+IP3R1	GeneProduct	Entrez Gene	3708	566.5,420.0
+DAG	Metabolite	ChEBI	CHEBI:18035	356.5,173.0
+PLCB1	GeneProduct	Entrez Gene	23236	494.5,234.0
+CA8	GeneProduct	Entrez Gene	767	622.0,405.0
+PRKCG	GeneProduct	Entrez Gene	5582	268.0952059419311,499.2754895340986
+PIP2	Metabolite	Wikidata	Q3083814	473.0,173.0
+PDK1	GeneProduct	Entrez Gene	5163	393.0952059419311,442.2754895340986
+PLCB2	GeneProduct	Entrez Gene	5330	494.5,259.0
+PLCB3	GeneProduct	Entrez Gene	5331	547.5,234.0
+PLCB4	GeneProduct	Entrez Gene	5332	547.5,259.0
+GNA11	GeneProduct	Entrez Gene	2767	535.5,209.0
+GNA14	GeneProduct	Entrez Gene	9630	586.5,184.0
+GNA15	GeneProduct	Entrez Gene	2769	586.5,209.0
+GRIA3	GeneProduct	Entrez Gene	2892	216.5,155.0
+GRIA4	GeneProduct	Entrez Gene	2893	216.5,180.0
+ATP2B2	GeneProduct	Entrez Gene	491	1024.0,161.0
+Ca2+	Metabolite	KEGG Compound	C00076	260.5,409.0
+Ca2+	Metabolite	KEGG Compound	C00076	728.5,510.0
+Ca2+	Metabolite	KEGG Compound	C00076	641.5,524.0
+Ca2+	Metabolite	KEGG Compound	C00076	566.5,370.0
+Ca2+	Metabolite	KEGG Compound	C00076	566.5,479.0
+Ca2+	Metabolite	KEGG Compound	C00076	1024.5,92.0
+Ca2+	Metabolite	KEGG Compound	C00076	896.5,106.0
+Ca2+	Metabolite	KEGG Compound	C00076	1024.5,233.0
+Ca2+	Metabolite	KEGG Compound	C00076	787.5,233.0
+Ca2+	Metabolite	KEGG Compound	C00076	896.5,224.0
+Ca2+	Metabolite	KEGG Compound	C00076	747.5,368.0
+Ca2+	Metabolite	KEGG Compound	C00076	747.5,477.0
+Na+	Metabolite	KEGG Compound	C01330	188.5,242.0
